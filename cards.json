@@ -3838,6 +3838,17 @@
       "card_back_url": "cards/kornberg_thomas_back.png",
       "student_name": "Sibley Hash",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mignot_emmanuel",
+      "scientist_name": "Emmanuel Mignot",
+      "scientist_years": "1959 - Present",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Discovered that narcolepsy is caused by the loss of hypocretin (orexin) signaling in the brain, transforming sleep medicine.",
+      "card_front_url": "cards/mignot_emmanuel_front.png",
+      "card_back_url": "cards/mignot_emmanuel_back.png",
+      "student_name": "Madeline Strouse",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3858,5 +3869,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:45:00.803Z"
+  "last_updated": "2026-01-27T23:45:18.131Z"
 }
