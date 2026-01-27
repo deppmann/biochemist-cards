@@ -652,9 +652,9 @@
     {
       "id": "franklin_rosalind",
       "scientist_name": "Rosalind Franklin",
-      "scientist_years": "1920-1958",
+      "scientist_years": "1920?1958",
       "era": "DNA Structure & Replication",
-      "contribution": "Rosalind Franklin used X-ray crystallography to produce images of DNA. ",
+      "contribution": "She produced high-resolution X-ray diffraction images of DNA that revealed its helical structure.",
       "card_front_url": "cards/franklin_rosalind_front.png",
       "card_back_url": "cards/franklin_rosalind_back.png",
       "student_name": "Nevin Philip",
@@ -1493,5 +1493,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:07:30.244Z"
+  "last_updated": "2026-01-27T23:07:32.810Z"
 }
