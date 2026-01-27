@@ -1088,6 +1088,17 @@
       "card_back_url": "cards/collins_james_back.png",
       "student_name": "Rosalin Watras",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wood_richard",
+      "scientist_name": "Richard D. Wood",
+      "scientist_years": "1955- current",
+      "era": "DNA Structure & Replication",
+      "contribution": "The most versatile strategy for repair pf damage to DNA is nucleotide excision repair",
+      "card_front_url": "cards/wood_richard_front.png",
+      "card_back_url": "cards/wood_richard_back.png",
+      "student_name": "Elaina Heghes",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1108,5 +1119,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:40.245Z"
+  "last_updated": "2026-01-27T23:02:44.392Z"
 }
