@@ -747,6 +747,17 @@
       "card_back_url": "cards/perlmann_gertrude_back.png",
       "student_name": "Emily Douglas",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "karrer_paul",
+      "scientist_name": "Paul Karrer",
+      "scientist_years": "1889?1971",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Paul Karrer elucidated the molecular structures of vitamins A, B2, and E, transforming these nutrients from mysterious \"vital factors\" into synthesizable organic compounds that could be mass-produced to combat malnutrition.",
+      "card_front_url": "cards/karrer_paul_front.png",
+      "card_back_url": "cards/karrer_paul_back.png",
+      "student_name": "Nina Breen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -767,5 +778,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:59:36.214Z"
+  "last_updated": "2026-01-27T22:59:43.092Z"
 }
