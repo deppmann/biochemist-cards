@@ -3343,6 +3343,17 @@
       "card_back_url": "cards/vogt_peter_back.png",
       "student_name": "Pratha Ravani",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fersht_alan",
+      "scientist_name": "Alan Fersht",
+      "scientist_years": "1943",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "He revolutionized the understanding of protein folding mechanisms by pioneering ?-value analysis, a method that uses protein engineering to map the atomic structure of transition states.",
+      "card_front_url": "cards/fersht_alan_front.png",
+      "card_back_url": "cards/fersht_alan_back.png",
+      "student_name": "Elijah Ennin",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3363,5 +3374,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:32:59.704Z"
+  "last_updated": "2026-01-27T23:33:05.184Z"
 }
