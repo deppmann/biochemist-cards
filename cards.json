@@ -14,12 +14,12 @@
     {
       "id": "menton_maud",
       "scientist_name": "Maud Menton",
-      "scientist_years": "1879-1960",
+      "scientist_years": "1879?1960",
       "era": "Enzymology & Protein Chemistry",
-      "contribution": "The woman behind the equation",
+      "contribution": "She co-authored the mathematical model for enzyme kinetics, defining the fundamental relationship between reaction velocity and substrate concentration.",
       "card_front_url": "cards/menton_maud_front.png",
       "card_back_url": "cards/menton_maud_back.png",
-      "student_name": "Billy Rumple",
+      "student_name": "Sarah Tribendis",
       "submitted_date": "2026-01-27"
     },
     {
@@ -2978,5 +2978,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:26:57.127Z"
+  "last_updated": "2026-01-27T23:27:02.123Z"
 }
