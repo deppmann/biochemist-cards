@@ -3552,6 +3552,17 @@
       "card_back_url": "cards/erlich_henry_back.png",
       "student_name": "Kaylyn Luppino",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "brenner_sydney",
+      "scientist_name": "Sydney Brenner",
+      "scientist_years": "1927-2019",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Sydney Brenner revolutionized molecular biology by proving the existence of messenger RNA, deciphering the triplet nature of the genetic code, and pioneering the use of the roundworm C. elegans as a foundational model for understanding development and neurobiology.",
+      "card_front_url": "cards/brenner_sydney_front.png",
+      "card_back_url": "cards/brenner_sydney_back.png",
+      "student_name": "Amore Jackson",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3572,5 +3583,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:36:58.204Z"
+  "last_updated": "2026-01-27T23:37:07.512Z"
 }
