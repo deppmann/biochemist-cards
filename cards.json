@@ -2430,6 +2430,17 @@
       "card_back_url": "cards/moussa_sameira_back.png",
       "student_name": "Anandita Hussain",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rathmell_jeffrey",
+      "scientist_name": "Jeffrey Rathmell",
+      "scientist_years": "1965-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Jeffrey Rathmell is considered a primary architect of the field of immunometabolism for demonstrating that immune cells, particularly T cells, require specific metabolic programs to dictate their differentiation and function, effectively proving that cellular metabolism drives the immune response.",
+      "card_front_url": "cards/rathmell_jeffrey_front.png",
+      "card_back_url": "cards/rathmell_jeffrey_back.png",
+      "student_name": "Miranda Sculimbrene",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2450,5 +2461,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:20:47.716Z"
+  "last_updated": "2026-01-27T23:20:50.686Z"
 }
