@@ -3299,6 +3299,17 @@
       "card_back_url": "cards/kornberg_sylvy_back.png",
       "student_name": "Kristine Han",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ruvkun_gary",
+      "scientist_name": "Gary Ruvkun",
+      "scientist_years": "1952-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "The discovery of microRNA and its role in post-transcriptional gene regulation, revealing a fundamental mechanism by which small RNA molecules control the timing and expression of genes.",
+      "card_front_url": "cards/ruvkun_gary_front.png",
+      "card_back_url": "cards/ruvkun_gary_back.png",
+      "student_name": "Fernando Medrano",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3319,5 +3330,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:32:07.387Z"
+  "last_updated": "2026-01-27T23:32:09.658Z"
 }
