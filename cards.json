@@ -2705,6 +2705,17 @@
       "card_back_url": "cards/alberts_bruce_back.png",
       "student_name": "Camyla Gonzalez",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "myers_eugene",
+      "scientist_name": "Eugene Myers",
+      "scientist_years": "1953-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Eugene Myers helped develop the BLAST algorithm and introduced Whole-Genome Shotgun (WGS) sequencing as a method to reconstruct the genome. ",
+      "card_front_url": "cards/myers_eugene_front.png",
+      "card_back_url": "cards/myers_eugene_back.png",
+      "student_name": "Raiya Nathan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2725,5 +2736,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:24:06.232Z"
+  "last_updated": "2026-01-27T23:24:13.073Z"
 }
