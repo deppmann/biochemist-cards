@@ -3475,6 +3475,17 @@
       "card_back_url": "cards/kraut_joseph_back.png",
       "student_name": "Lola Fuentes Brock",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "villa-kamaroff_lydia",
+      "scientist_name": "Lydia Villa-kamaroff",
+      "scientist_years": "1947-present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "She led the team that first proved bacteria could be engineered to produce mammalian insulin, bridging the gap between genetics and medicine.",
+      "card_front_url": "cards/villa-kamaroff_lydia_front.png",
+      "card_back_url": "cards/villa-kamaroff_lydia_back.png",
+      "student_name": "Ayma Syeda",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3495,5 +3506,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:35:42.110Z"
+  "last_updated": "2026-01-27T23:35:47.426Z"
 }
