@@ -3772,6 +3772,17 @@
       "card_back_url": "cards/bennett_c_back.png",
       "student_name": "Joseph Ressler",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "emerson_gladys",
+      "scientist_name": "Gladys Anderson Emerson",
+      "scientist_years": "1903-1984",
+      "era": "Other",
+      "contribution": "Gladys Anderson Emerson achieved the first chemical isolation of pure Vitamin E (alpha-tocopherol) from wheat germ oil, transforming a hypothetical \"anti-sterility factor\" into a precisely defined crystalline substance for medical science.",
+      "card_front_url": "cards/emerson_gladys_front.png",
+      "card_back_url": "cards/emerson_gladys_back.png",
+      "student_name": "Vivian Suh",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3792,5 +3803,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:43:56.013Z"
+  "last_updated": "2026-01-27T23:44:25.979Z"
 }
