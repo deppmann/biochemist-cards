@@ -2474,6 +2474,17 @@
       "card_back_url": "cards/mardis_elaine_back.png",
       "student_name": "Dade Prince-Shittu",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rittenberg_david",
+      "scientist_name": "David Rittenberg",
+      "scientist_years": "1906-1970",
+      "era": "Metabolic Revolutions",
+      "contribution": "David Rittenberg proved that the molecules of the human body are in constant metabolic turnover by pioneering stable isotope tracer techniques that showed life as a dynamic flow of atoms rather than a static structure.",
+      "card_front_url": "cards/rittenberg_david_front.png",
+      "card_back_url": "cards/rittenberg_david_back.png",
+      "student_name": "Sarah Burns",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2494,5 +2505,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:21:10.209Z"
+  "last_updated": "2026-01-27T23:21:14.872Z"
 }
