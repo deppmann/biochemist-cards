@@ -208,6 +208,17 @@
       "card_back_url": "cards/kim_sung-hou_back.png",
       "student_name": "Joseph Hegenbart",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cobb_jewel",
+      "scientist_name": "Jewel Plummer Cobb",
+      "scientist_years": "1924-2017",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Jewel Plummer Cobb advanced cancer biology through groundbreaking melanoma research while transforming higher education by expanding access and equity for underrepresented scientists.",
+      "card_front_url": "cards/cobb_jewel_front.png",
+      "card_back_url": "cards/cobb_jewel_back.png",
+      "student_name": "Nita Hourn",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -228,5 +239,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:54:21.217Z"
+  "last_updated": "2026-01-27T22:54:30.047Z"
 }
