@@ -318,6 +318,17 @@
       "card_back_url": "cards/ringe_dagmar_back.png",
       "student_name": "AK (Annabelle) Gaskin",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "green_eric",
+      "scientist_name": "Eric David Green",
+      "scientist_years": "1959?present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Developed yeast artificial chromosome?based physical maps of human chromosomes that laid the foundation for the Human Genome Project and enabled rapid discovery of disease-causing genes.",
+      "card_front_url": "cards/green_eric_front.png",
+      "card_back_url": "cards/green_eric_back.png",
+      "student_name": "Carol Melek",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -338,5 +349,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:18.470Z"
+  "last_updated": "2026-01-27T22:55:21.961Z"
 }
