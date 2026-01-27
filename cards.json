@@ -1473,6 +1473,17 @@
       "card_back_url": "cards/beutler_bruce_back.png",
       "student_name": "Syed Sarim",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mitchell_peter",
+      "scientist_name": "Peter Mitchell",
+      "scientist_years": "1920-1992",
+      "era": "Metabolic Revolutions",
+      "contribution": "Peter Mitchell revolutionized biochemistry by proving that cells generate energy not through traditional chemical reactions alone, but by pumping protons across membranes to create an electrochemical gradient that drives the synthesis of ATP",
+      "card_front_url": "cards/mitchell_peter_front.png",
+      "card_back_url": "cards/mitchell_peter_back.png",
+      "student_name": "Sarah Carroll",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1493,5 +1504,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:07:32.810Z"
+  "last_updated": "2026-01-27T23:07:37.476Z"
 }
