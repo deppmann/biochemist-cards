@@ -2815,6 +2815,17 @@
       "card_back_url": "cards/gunsteren_wilfred_back.png",
       "student_name": "Dev Patel ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chase_martha",
+      "scientist_name": "Martha Chase",
+      "scientist_years": "1927-2003",
+      "era": "DNA Structure & Replication",
+      "contribution": "The Architect of the Blueprint",
+      "card_front_url": "cards/chase_martha_front.png",
+      "card_back_url": "cards/chase_martha_back.png",
+      "student_name": "Hannah Eisiminger",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2835,5 +2846,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:25:26.393Z"
+  "last_updated": "2026-01-27T23:25:39.874Z"
 }
