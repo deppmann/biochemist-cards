@@ -1627,6 +1627,17 @@
       "card_back_url": "cards/changeux_jean-pierre_back.png",
       "student_name": "Sadaf Ghani",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "moerner_william",
+      "scientist_name": "William Moerner",
+      "scientist_years": "1953-Now",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "William Moerner was awarded the 2014 Nobel Prize in Chemistry for pioneering the first optical detection and spectroscopy of a single molecule in condensed phases and for developing single-molecule fluorescence microscopy.",
+      "card_front_url": "cards/moerner_william_front.png",
+      "card_back_url": "cards/moerner_william_back.png",
+      "student_name": "Linda Tol",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1647,5 +1658,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:09:44.509Z"
+  "last_updated": "2026-01-27T23:09:49.158Z"
 }
