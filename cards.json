@@ -2133,6 +2133,17 @@
       "card_back_url": "cards/nirenberg_marshall_back.png",
       "student_name": "Ariana Ipakchi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "gerstein_mark",
+      "scientist_name": "Mark Gerstein",
+      "scientist_years": "1969-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "\nMark Gerstein transformed biology into a large-scale computational science by leading the effort to map the functional \"blueprint\" of the human genome and proving that much of what was once dismissed as \"junk DNA\" actually plays a vital role in biological systems.",
+      "card_front_url": "cards/gerstein_mark_front.png",
+      "card_back_url": "cards/gerstein_mark_back.png",
+      "student_name": "Angelina Nguyen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2153,5 +2164,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:26.359Z"
+  "last_updated": "2026-01-27T23:17:32.499Z"
 }
