@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biochemists Through Time | BIOL 3030 Trading Card Gallery</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <div class="molecular-bg"></div>
+            <h1 class="title">BIOCHEMISTS<br><span class="title-accent">THROUGH TIME</span></h1>
+            <p class="subtitle">A Trading Card Collection by BIOL 3030 Students • UVA • Spring 2026</p>
+        </div>
+    </header>
+
+    <main class="gallery-container">
+        <section class="controls">
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Search scientists..." aria-label="Search scientists">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+            </div>
+            <div class="filter-group">
+                <label for="era-filter">Era:</label>
+                <select id="era-filter">
+                    <option value="all">All Eras</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="sort-by">Sort:</label>
+                <select id="sort-by">
+                    <option value="name">Name (A-Z)</option>
+                    <option value="name-desc">Name (Z-A)</option>
+                    <option value="era">Era</option>
+                    <option value="recent">Recently Added</option>
+                    <option value="random">Shuffle</option>
+                </select>
+            </div>
+            <button class="shuffle-btn" id="shuffle-btn" title="Shuffle cards">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/>
+                </svg>
+            </button>
+            <div class="card-count">
+                <span id="count">0</span> cards
+            </div>
+        </section>
+
+        <p class="interaction-hint">Click a card to flip it • Double-click to enlarge</p>
+
+        <section class="gallery" id="gallery">
+            <div class="loading">
+                <div class="helix-loader">
+                    <div class="strand strand-1"></div>
+                    <div class="strand strand-2"></div>
+                </div>
+                <p>Loading collection...</p>
+            </div>
+        </section>
+    </main>
+
+    <div class="lightbox" id="lightbox">
+        <button class="lightbox-close" aria-label="Close">&times;</button>
+        <button class="lightbox-nav lightbox-prev" aria-label="Previous card">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M15 18l-6-6 6-6"/>
+            </svg>
+        </button>
+        <div class="lightbox-content">
+            <div class="lightbox-card-container">
+                <div class="lightbox-card" id="lightbox-card">
+                    <div class="lightbox-card-face lightbox-front">
+                        <img id="lightbox-front" src="" alt="Card front">
+                    </div>
+                    <div class="lightbox-card-face lightbox-back">
+                        <img id="lightbox-back" src="" alt="Card back">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="lightbox-nav lightbox-next" aria-label="Next card">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M9 18l6-6-6-6"/>
+            </svg>
+        </button>
+        <p class="lightbox-hint">Click card to flip • Arrow keys to navigate • ESC to close</p>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <p>BIOL 3030: Biochemistry • University of Virginia • Spring 2026</p>
+            <p class="footer-credit">A collaborative project celebrating the scientists who shaped biochemistry</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

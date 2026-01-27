@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "id": "pauling_linus",
+      "scientist_name": "Linus Pauling",
+      "scientist_years": "1901–1994",
+      "era": "Structural Chemistry Revolution",
+      "contribution": "Discovered the alpha helix structure of proteins and defined the nature of the chemical bond",
+      "card_front_url": "cards/pauling_linus_front.png",
+      "card_back_url": "cards/pauling_linus_back.png",
+      "student_name": "Prof. Deppmann",
+      "submitted_date": "2026-01-27"
+    }
+  ],
+  "eras": [
+    "Pre-1900 Foundations",
+    "Enzymology & Protein Chemistry",
+    "Carbohydrate & Lipid Chemistry",
+    "Vitamins & Nutrition",
+    "Metabolic Revolutions",
+    "DNA Structure & Replication",
+    "Genetic Code & Protein Synthesis",
+    "Structural Biology Revolution",
+    "Structural Chemistry Revolution",
+    "Molecular Biology of Gene Regulation",
+    "Genomics & Bioinformatics Era",
+    "Structural Biology & Drug Discovery",
+    "Cancer Biology & Oncogenes",
+    "Neuroscience & Metabolism Frontiers",
+    "Contemporary Leaders & Rising Stars",
+    "Synthetic Biology & Future Pioneers"
+  ],
+  "last_updated": "2026-01-27T10:00:00Z"
+}
