@@ -43,6 +43,17 @@
       "card_back_url": "cards/druker_brian_back.png",
       "student_name": "Ananya Sista",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "jan_yuh-nung",
+      "scientist_name": "Yuh-Nung Jan",
+      "scientist_years": "1947-",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "",
+      "card_front_url": "cards/jan_yuh-nung_front.png",
+      "card_back_url": "cards/jan_yuh-nung_back.png",
+      "student_name": "Cindy Peng",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -63,5 +74,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:50:52.645Z"
+  "last_updated": "2026-01-27T22:51:54.126Z"
 }
