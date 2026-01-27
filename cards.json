@@ -2507,6 +2507,17 @@
       "card_back_url": "cards/klug_aaron_back.png",
       "student_name": "Susanna Kast",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "leloir_luis",
+      "scientist_name": "Luis Federico Leloir",
+      "scientist_years": "1907-1987",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Luis Federico Leloir was an Argentine biochemist and Nobel Prize winner known for discovering sugar nucleotides and explaining their role in carbohydrate biosynthesis.",
+      "card_front_url": "cards/leloir_luis_front.png",
+      "card_back_url": "cards/leloir_luis_back.png",
+      "student_name": "Nathalie Bonilla",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2527,5 +2538,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:21:44.815Z"
+  "last_updated": "2026-01-27T23:21:49.494Z"
 }
