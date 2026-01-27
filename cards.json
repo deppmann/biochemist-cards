@@ -835,6 +835,17 @@
       "card_back_url": "cards/hayer-hartl_manajit_back.png",
       "student_name": "Lena Zaher",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bonner_james",
+      "scientist_name": "James Bonner",
+      "scientist_years": "1910-1996",
+      "era": "DNA Structure & Replication",
+      "contribution": "James Bonner provided the first experimental proof that histone proteins are not merely structural packaging, but active gene repressors that must be removed or modified to allow DNA to be transcribed.",
+      "card_front_url": "cards/bonner_james_front.png",
+      "card_back_url": "cards/bonner_james_back.png",
+      "student_name": "Ruby Heitmann",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -855,5 +866,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:30.317Z"
+  "last_updated": "2026-01-27T23:00:35.729Z"
 }
