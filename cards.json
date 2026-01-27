@@ -2386,6 +2386,17 @@
       "card_back_url": "cards/hol_wim_back.png",
       "student_name": "Angel Lai",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "phillips_david",
+      "scientist_name": "David Chilton Phillips",
+      "scientist_years": "1924-1999",
+      "era": "Structural Biology Revolution",
+      "contribution": "Discovered the first enzyme structure ",
+      "card_front_url": "cards/phillips_david_front.png",
+      "card_back_url": "cards/phillips_david_back.png",
+      "student_name": "Celeste Lee",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2406,5 +2417,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:20:13.587Z"
+  "last_updated": "2026-01-27T23:20:16.891Z"
 }
