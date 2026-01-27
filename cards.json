@@ -486,13 +486,13 @@
     },
     {
       "id": "khorana_har",
-      "scientist_name": "Har Gobinda Khorana",
-      "scientist_years": "1952-2007",
-      "era": "Genetic Code & Protein Synthesis",
-      "contribution": "Har Gobind Khorana was a Nobel Prize-winning biochemist who deciphered the genetic code by mapping how nucleotide triplets translate into amino acids and achieved the world?s first chemical synthesis of a functional gene, laying the groundwork for modern genetic engineering.",
+      "scientist_name": "Har Gobind Khorana",
+      "scientist_years": "1922 -2011",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "",
       "card_front_url": "cards/khorana_har_front.png",
       "card_back_url": "cards/khorana_har_back.png",
-      "student_name": "Sumayya Khan",
+      "student_name": "Oreoluwa Ajayi",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3737,5 +3737,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:41:53.379Z"
+  "last_updated": "2026-01-27T23:42:22.394Z"
 }
