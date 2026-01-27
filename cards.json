@@ -3574,6 +3574,17 @@
       "card_back_url": "cards/modrich_paul_back.png",
       "student_name": "Noah Hartsoe",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "richards_frederic",
+      "scientist_name": "Frederic Middlebrook Richards",
+      "scientist_years": "1925-2009",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "He demonstrated that protein structure is determined by non-covalent forces, not just the peptide backbone, by restoring full enzymatic function to a cleaved protein without re-forming covalent bonds.",
+      "card_front_url": "cards/richards_frederic_front.png",
+      "card_back_url": "cards/richards_frederic_back.png",
+      "student_name": "Dee Dee Denaud",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3594,5 +3605,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:37:23.003Z"
+  "last_updated": "2026-01-27T23:37:36.890Z"
 }
