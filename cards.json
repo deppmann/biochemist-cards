@@ -3002,6 +3002,17 @@
       "card_back_url": "cards/kornberg_arthur_back.png",
       "student_name": "Dareen Aloudeh",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cairns_john",
+      "scientist_name": "John Cairns",
+      "scientist_years": "1922-2018",
+      "era": "DNA Structure & Replication",
+      "contribution": "John Cairns provided the first direct visual proof of circular bacterial DNA replication and revealed that DNA polymerase I functions primarily in DNA repair rather than chromosome replication.",
+      "card_front_url": "cards/cairns_john_front.png",
+      "card_back_url": "cards/cairns_john_back.png",
+      "student_name": "Simona Hagos",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3022,5 +3033,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:27:34.314Z"
+  "last_updated": "2026-01-27T23:27:39.699Z"
 }
