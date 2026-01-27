@@ -2785,13 +2785,13 @@
     },
     {
       "id": "doudna_jennifer",
-      "scientist_name": "Jennifer Anne Doudna",
-      "scientist_years": "Age: 61; Years Active: About 37",
-      "era": "Genomics & Bioinformatics Era",
-      "contribution": "Co-developed CRISP-Cas9 as programmable gene-editing technology that revolutionized molecular biology.",
+      "scientist_name": "Jennifer Doudna",
+      "scientist_years": "1964-Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Jennifer Doudna is a Nobel Prize-winning biochemist who co-developed CRISPR-Cas9, a revolutionary \"molecular scissors\" technology that allows for the high-precision editing of genomic DNA.",
       "card_front_url": "cards/doudna_jennifer_front.png",
       "card_back_url": "cards/doudna_jennifer_back.png",
-      "student_name": "Luis Ruano Campos",
+      "student_name": "Joseph Ressler",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3748,5 +3748,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:42:33.868Z"
+  "last_updated": "2026-01-27T23:42:40.634Z"
 }
