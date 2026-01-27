@@ -2243,6 +2243,17 @@
       "card_back_url": "cards/hotamlgil_gkhan_back.png",
       "student_name": "Aidita Sou",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fink_gerald",
+      "scientist_name": "Gerald Fink",
+      "scientist_years": "1940-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Gerald Fink revolutionized biotechnology by developing the first method for yeast genetic transformation, effectively turning baker's yeast into a powerful, programmable model for understanding the molecular biology of all complex life.",
+      "card_front_url": "cards/fink_gerald_front.png",
+      "card_back_url": "cards/fink_gerald_back.png",
+      "student_name": "Hailey Nguyen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2263,5 +2274,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:18:36.175Z"
+  "last_updated": "2026-01-27T23:18:41.890Z"
 }
