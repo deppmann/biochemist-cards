@@ -340,6 +340,17 @@
       "card_back_url": "cards/hsu_patrick_back.png",
       "student_name": "Esther Yun",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lewis_suzanna",
+      "scientist_name": "Suzanna Lewis",
+      "scientist_years": "1956-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Suzanna Lewis transformed modern genomics by co-founding the Gene Ontology Consortium and developing the informatics standards necessary to translate massive amounts of raw DNA sequence data into a universally understood language of biological function.",
+      "card_front_url": "cards/lewis_suzanna_front.png",
+      "card_back_url": "cards/lewis_suzanna_back.png",
+      "student_name": "Sarina Nayak",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -360,5 +371,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:31.087Z"
+  "last_updated": "2026-01-27T22:55:37.890Z"
 }
