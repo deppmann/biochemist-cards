@@ -3365,6 +3365,17 @@
       "card_back_url": "cards/neuberg_carl_back.png",
       "student_name": "Josephine Amspaugh",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "meselson_matthew",
+      "scientist_name": "Matthew Meselson",
+      "scientist_years": "1930-Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Matthew Meselson confirmed the semi-conservative nature of DNA replication through the Meselson-Stahl experiment, widely regarded as one of the most elegant experiments in biology, and later played a pivotal role in the discovery of messenger RNA and the establishment of international biological weapons bans.",
+      "card_front_url": "cards/meselson_matthew_front.png",
+      "card_back_url": "cards/meselson_matthew_back.png",
+      "student_name": "Sophia Go",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3385,5 +3396,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:33:36.424Z"
+  "last_updated": "2026-01-27T23:33:43.065Z"
 }
