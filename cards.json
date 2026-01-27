@@ -3255,6 +3255,17 @@
       "card_back_url": "cards/chappelle_emmett_back.png",
       "student_name": "Maj Vorsic",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chatterjee_asima",
+      "scientist_name": "Asima Chatterjee",
+      "scientist_years": "1917-2006",
+      "era": "Other",
+      "contribution": "Asima Chatterjee's pioneering work in organic chemistry transformed Indian medicinal plants into vital treatments for epilepsy, malaria, and cancer.",
+      "card_front_url": "cards/chatterjee_asima_front.png",
+      "card_back_url": "cards/chatterjee_asima_back.png",
+      "student_name": "Ajal Upadhyaya",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3275,5 +3286,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:31:37.457Z"
+  "last_updated": "2026-01-27T23:31:41.512Z"
 }
