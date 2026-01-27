@@ -3623,11 +3623,11 @@
       "id": "subbarow_yellapragada",
       "scientist_name": "Yellapragada Subbarow",
       "scientist_years": "1895-1948",
-      "era": "Structural Biology & Drug Discovery",
-      "contribution": "Pioneered modern therapeutic biochemistry by co-discovering ATP, developing the first effective chemotherapy drugs, and leading breakthroughs in antibiotics and vitamin synthesis that transformed global medicine.",
+      "era": "Other",
+      "contribution": "\"The victories of science are rarely won single-handed.\"",
       "card_front_url": "cards/subbarow_yellapragada_front.png",
       "card_back_url": "cards/subbarow_yellapragada_back.png",
-      "student_name": "Samsher Malhi",
+      "student_name": "Eunice Kim",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3869,5 +3869,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:45:18.131Z"
+  "last_updated": "2026-01-27T23:46:14.835Z"
 }
