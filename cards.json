@@ -1176,6 +1176,17 @@
       "card_back_url": "cards/schulten_klaus_back.png",
       "student_name": "Anjali Potu",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sofia_michael",
+      "scientist_name": "Michael J. Sofia ",
+      "scientist_years": "1958 - Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Michael J. Sofia led the discovery of sofosbuvir, a nucleotide prodrug that blocks hepatitis C virus RNA replication and transformed HCV from a chronic disease into a curable infection.",
+      "card_front_url": "cards/sofia_michael_front.png",
+      "card_back_url": "cards/sofia_michael_back.png",
+      "student_name": "Sriharsha Sambangi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1196,5 +1207,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:03:39.575Z"
+  "last_updated": "2026-01-27T23:03:41.456Z"
 }
