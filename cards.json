@@ -648,6 +648,17 @@
       "card_back_url": "cards/rose_william_back.png",
       "student_name": "Dharshini Arun Prakash",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "franklin_rosalind",
+      "scientist_name": "Rosalind Franklin",
+      "scientist_years": "1920-1958",
+      "era": "DNA Structure & Replication",
+      "contribution": "Rosalind Franklin used X-ray crystallography to produce images of DNA. ",
+      "card_front_url": "cards/franklin_rosalind_front.png",
+      "card_back_url": "cards/franklin_rosalind_back.png",
+      "student_name": "Nevin Philip",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -668,5 +679,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:21.900Z"
+  "last_updated": "2026-01-27T22:58:35.846Z"
 }
