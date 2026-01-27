@@ -1055,6 +1055,17 @@
       "card_back_url": "cards/bell_stephen_back.png",
       "student_name": "Alexandra Whitehead",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "stevens_raymond",
+      "scientist_name": "Raymond Stevens",
+      "scientist_years": "1993-Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Raymond C. Stevens pioneering high-throughput techniques to map the complex atomic structures of G protein-coupled receptors.",
+      "card_front_url": "cards/stevens_raymond_front.png",
+      "card_back_url": "cards/stevens_raymond_back.png",
+      "student_name": "Mihir Pokhriyal",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1075,5 +1086,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:27.169Z"
+  "last_updated": "2026-01-27T23:02:31.811Z"
 }
