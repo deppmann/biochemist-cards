@@ -1198,6 +1198,17 @@
       "card_back_url": "cards/hopkins_frederick_back.png",
       "student_name": "Peace Nzyoki",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cohn_mildred",
+      "scientist_name": "Mildred Cohn",
+      "scientist_years": "1913-2009",
+      "era": "Other",
+      "contribution": "She pioneered the use of nuclear magnetic resonance (NMR) to study enzyme mechanisms and metabolic pathways in living systems.",
+      "card_front_url": "cards/cohn_mildred_front.png",
+      "card_back_url": "cards/cohn_mildred_back.png",
+      "student_name": "Joey Jiang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1218,5 +1229,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:03:46.797Z"
+  "last_updated": "2026-01-27T23:03:58.361Z"
 }
