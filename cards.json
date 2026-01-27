@@ -3948,6 +3948,17 @@
       "card_back_url": "cards/mootha_vamsi_back.png",
       "student_name": "Marie Yoon",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "scherer_philipp",
+      "scientist_name": "Philipp E. Scherer ",
+      "scientist_years": "1964-Present",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Philipp E. Scherer is primarily credited with the 1995 discovery of adiponectin, a hormone that redefined adipose tissue from a passive storage site into a vital endocrine organ that regulates systemic glucose and lipid metabolism.",
+      "card_front_url": "cards/scherer_philipp_front.png",
+      "card_back_url": "cards/scherer_philipp_back.png",
+      "student_name": "Aditi Shanbhag",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3968,5 +3979,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:53:11.912Z"
+  "last_updated": "2026-01-27T23:53:17.308Z"
 }
