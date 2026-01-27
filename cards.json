@@ -3398,6 +3398,17 @@
       "card_back_url": "cards/northrop_john_back.png",
       "student_name": "Katherine Johnson",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "maxam_allan",
+      "scientist_name": "Allan Maxam",
+      "scientist_years": "1942-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Developed the chemical cleavage method to sequence DNA by precisely breaking labeled strands at specific nucleotide bases.",
+      "card_front_url": "cards/maxam_allan_front.png",
+      "card_back_url": "cards/maxam_allan_back.png",
+      "student_name": "Cassidy Mann",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3418,5 +3429,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:34:16.917Z"
+  "last_updated": "2026-01-27T23:34:22.141Z"
 }
