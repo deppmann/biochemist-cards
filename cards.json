@@ -1407,6 +1407,17 @@
       "card_back_url": "cards/calvin_melvin_back.png",
       "student_name": "Valerie Coutinho",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hitchings_george",
+      "scientist_name": "George Hitchings ",
+      "scientist_years": "1905-1998",
+      "era": "Other",
+      "contribution": "He revolutionized medicine by introducing rational drug design, creating targeted therapies that transformed the treatment of cancer, infections, and immune disorders.",
+      "card_front_url": "cards/hitchings_george_front.png",
+      "card_back_url": "cards/hitchings_george_back.png",
+      "student_name": "Isha Shah",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1427,5 +1438,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:06:24.382Z"
+  "last_updated": "2026-01-27T23:06:25.843Z"
 }
