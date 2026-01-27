@@ -505,6 +505,17 @@
       "card_back_url": "cards/sudhof_thomas_back.png",
       "student_name": "Liam",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "allis_david",
+      "scientist_name": "David Allis",
+      "scientist_years": "1951-2023",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "David Allis proved that histone modifications are actively written by enzymes, most famously showing that Gcn5 is a histone acetyltransferase, transforming chromatin from a passive DNA package into a dynamic, biochemically regulated system controlling gene expression.",
+      "card_front_url": "cards/allis_david_front.png",
+      "card_back_url": "cards/allis_david_back.png",
+      "student_name": "Karthik Vinaykumar",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -525,5 +536,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:57:05.274Z"
+  "last_updated": "2026-01-27T22:57:10.804Z"
 }
