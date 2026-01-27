@@ -692,6 +692,17 @@
       "card_back_url": "cards/yalow_rosalyn_back.png",
       "student_name": "Valeria Urresty",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "perutz_max",
+      "scientist_name": "Max Perutz",
+      "scientist_years": "1914?2002",
+      "era": "Structural Biology Revolution",
+      "contribution": "3 dimensional model behind hemoglobin ",
+      "card_front_url": "cards/perutz_max_front.png",
+      "card_back_url": "cards/perutz_max_back.png",
+      "student_name": "Apichaya Kaewklom",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -712,5 +723,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:59:10.878Z"
+  "last_updated": "2026-01-27T22:59:19.351Z"
 }
