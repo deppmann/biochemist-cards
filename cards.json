@@ -3233,6 +3233,17 @@
       "card_back_url": "cards/blackburn_elizabeth_back.png",
       "student_name": "Mei McNally",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ochoa_severo",
+      "scientist_name": "Severo Ochoa",
+      "scientist_years": "1905-1993",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Architect of Genetic Code",
+      "card_front_url": "cards/ochoa_severo_front.png",
+      "card_back_url": "cards/ochoa_severo_back.png",
+      "student_name": "Hayoung Chung",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3253,5 +3264,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:31:22.134Z"
+  "last_updated": "2026-01-27T23:31:25.593Z"
 }
