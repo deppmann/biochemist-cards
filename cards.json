@@ -3211,6 +3211,17 @@
       "card_back_url": "cards/huxley_hugh_back.png",
       "student_name": "Paige Einstein",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bax_adriaan",
+      "scientist_name": "Adriaan \"Ad\" Bax",
+      "scientist_years": "1956-",
+      "era": "Structural Biology Revolution",
+      "contribution": "Mapping The Dance of Proteins",
+      "card_front_url": "cards/bax_adriaan_front.png",
+      "card_back_url": "cards/bax_adriaan_back.png",
+      "student_name": "Lily Krakowski",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3231,5 +3242,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:31:00.394Z"
+  "last_updated": "2026-01-27T23:31:17.112Z"
 }
