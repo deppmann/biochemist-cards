@@ -1704,6 +1704,17 @@
       "card_back_url": "cards/snyder_solomon_back.png",
       "student_name": "Caroline Schnebly ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "claude_albert",
+      "scientist_name": "Albert Claude ",
+      "scientist_years": "1899-1983",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Albert Claude revolutionized our understanding of life by pioneering cell fractionation, a technique that transformed a slurry of \"cellular mayonnaise\" into a mapped frontier of organelles, identifying the endoplasmic reticulum and the respiratory mitochondria along the way.",
+      "card_front_url": "cards/claude_albert_front.png",
+      "card_back_url": "cards/claude_albert_back.png",
+      "student_name": "Lillian Cagle",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1724,5 +1735,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:12:01.642Z"
+  "last_updated": "2026-01-27T23:12:12.209Z"
 }
