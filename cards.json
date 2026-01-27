@@ -1880,6 +1880,17 @@
       "card_back_url": "cards/warshel_ariel_back.png",
       "student_name": "Seeya Patel",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "pockels_agnes",
+      "scientist_name": "Agnes Pockels",
+      "scientist_years": "1862-1935",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Working entirely from her domestic kitchen, Agnes Pockels invented the foundational tools and experimental techniques of surface science, allowing for the first precise manipulation and measurement of monomolecular films that form the physical basis of modern cell membrane biology.",
+      "card_front_url": "cards/pockels_agnes_front.png",
+      "card_back_url": "cards/pockels_agnes_back.png",
+      "student_name": "Kathryn Baer",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1900,5 +1911,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:27.063Z"
+  "last_updated": "2026-01-27T23:14:30.873Z"
 }
