@@ -4036,6 +4036,17 @@
       "card_back_url": "cards/szent-gyrgyi_albert_back.png",
       "student_name": "Aiden G Boone",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "meyerowitz_elliot",
+      "scientist_name": "Elliot Meyerowitz",
+      "scientist_years": "1950-present ",
+      "era": "Other",
+      "contribution": "Meyerowitz revealed how flowers build themselves through a simple combinatorial genetic code (the ABC model) and discovered that plants use bacterial-style receptors to sense hormones.",
+      "card_front_url": "cards/meyerowitz_elliot_front.png",
+      "card_back_url": "cards/meyerowitz_elliot_back.png",
+      "student_name": "Kiara Morris ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -4056,5 +4067,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:56:02.490Z"
+  "last_updated": "2026-01-27T23:57:31.133Z"
 }
