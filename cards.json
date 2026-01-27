@@ -1203,11 +1203,11 @@
       "id": "cohn_mildred",
       "scientist_name": "Mildred Cohn",
       "scientist_years": "1913-2009",
-      "era": "Enzymology & Protein Chemistry",
-      "contribution": "She revolutionized biochemistry by adapting nuclear magnetic resonance to analyze enzyme mechanisms and the real-time behavior of ATP in living systems.",
+      "era": "Other",
+      "contribution": "Pioneered the use of phosphorus-31 NMR to observe ATP and enzyme-driven metabolism in living systems without destroying them.",
       "card_front_url": "cards/cohn_mildred_front.png",
       "card_back_url": "cards/cohn_mildred_back.png",
-      "student_name": "Michael Hunter",
+      "student_name": "Adriana",
       "submitted_date": "2026-01-27"
     },
     {
@@ -2098,5 +2098,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:16:55.821Z"
+  "last_updated": "2026-01-27T23:17:01.504Z"
 }
