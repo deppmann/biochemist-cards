@@ -1957,6 +1957,17 @@
       "card_back_url": "cards/bois_justin_back.png",
       "student_name": "Brian Fang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "weiss_ron",
+      "scientist_name": "Ron Weiss",
+      "scientist_years": "1962-Present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Ron Weiss pioneered the field of synthetic biology by engineering the first genetic logic gates, demonstrating that living cells can be programmed to perform complex computational tasks through the precise manipulation of biochemical signals.",
+      "card_front_url": "cards/weiss_ron_front.png",
+      "card_back_url": "cards/weiss_ron_back.png",
+      "student_name": "Marwa Zaki",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1977,5 +1988,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:15:20.632Z"
+  "last_updated": "2026-01-27T23:15:34.953Z"
 }
