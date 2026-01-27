@@ -2980,6 +2980,17 @@
       "card_back_url": "cards/rodnina_marina_back.png",
       "student_name": "Khalilah Ellison",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kandel_eric",
+      "scientist_name": "Eric Kandel",
+      "scientist_years": "1929-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "He identified that short-term memory is mediated by cAMP-dependent protein phosphorylation, while long-term memory requires new protein synthesis via the CREB transcription factor.",
+      "card_front_url": "cards/kandel_eric_front.png",
+      "card_back_url": "cards/kandel_eric_back.png",
+      "student_name": "Mikael Tefferi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3000,5 +3011,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:27:23.564Z"
+  "last_updated": "2026-01-27T23:27:28.271Z"
 }
