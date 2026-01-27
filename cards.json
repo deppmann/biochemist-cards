@@ -2254,6 +2254,17 @@
       "card_back_url": "cards/fink_gerald_back.png",
       "student_name": "Hailey Nguyen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wieland_heinrich",
+      "scientist_name": "Heinrich Otto Wieland",
+      "scientist_years": "1877-1957",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Heinrich Wieland elucidated the multi-ring carbon framework of bile acids and steroids while discovering that biological oxidation functions through \"dehydrogenation,\" the systematic enzymatic removal of hydrogen atoms from organic substrates to release energy.",
+      "card_front_url": "cards/wieland_heinrich_front.png",
+      "card_back_url": "cards/wieland_heinrich_back.png",
+      "student_name": "Mustafa Baryal",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2274,5 +2285,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:18:41.890Z"
+  "last_updated": "2026-01-27T23:18:51.995Z"
 }
