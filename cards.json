@@ -1583,6 +1583,17 @@
       "card_back_url": "cards/quake_stephen_back.png",
       "student_name": "Mariam Mithqal",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "batzoglou_serafim",
+      "scientist_name": "Serafim Batzoglou",
+      "scientist_years": "1975-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Serafim Batzoglou helped launch modern computational genomics by building algorithms?especially whole-genome shotgun assembly (ARACHNE) and comparative genome alignment?that turn raw sequencing reads into accurate genomes and biological insight.",
+      "card_front_url": "cards/batzoglou_serafim_front.png",
+      "card_back_url": "cards/batzoglou_serafim_back.png",
+      "student_name": "Mohammad Fayez Naqshbandi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1603,5 +1614,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:09:03.802Z"
+  "last_updated": "2026-01-27T23:09:24.192Z"
 }
