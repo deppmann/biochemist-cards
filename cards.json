@@ -791,6 +791,17 @@
       "card_back_url": "cards/handler_philip_back.png",
       "student_name": "Britney Danso",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "deisenhofer_johann",
+      "scientist_name": "Johann Deisenhofer",
+      "scientist_years": "1943 - Present",
+      "era": "Metabolic Revolutions",
+      "contribution": "Johann Deisenhofer's primary contribution was determining the first high-resolution 3D structure of an integral membrane protein, specifically the photosynthetic reaction center, which revealed the atomic-level \"blueprint\" of how sunlight is converted into chemical energy.",
+      "card_front_url": "cards/deisenhofer_johann_front.png",
+      "card_back_url": "cards/deisenhofer_johann_back.png",
+      "student_name": "Kayla Dixon",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -811,5 +822,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:02.208Z"
+  "last_updated": "2026-01-27T23:00:16.532Z"
 }
