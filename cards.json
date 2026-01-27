@@ -2782,6 +2782,17 @@
       "card_back_url": "cards/steitz_joan_back.png",
       "student_name": "Catherine Mangione",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "doudna_jennifer",
+      "scientist_name": "Jennifer Doudna (Jennifer A. Doudna)",
+      "scientist_years": "1964?present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Jennifer Doudna co-discovered that the bacterial CRISPR-Cas9 system can be engineered into a programmable gene-editing tool?using a guide RNA to direct the Cas9 enzyme to cut DNA at specific sequences.",
+      "card_front_url": "cards/doudna_jennifer_front.png",
+      "card_back_url": "cards/doudna_jennifer_back.png",
+      "student_name": "Ryan Makarem ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2802,5 +2813,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:24:58.523Z"
+  "last_updated": "2026-01-27T23:25:11.482Z"
 }
