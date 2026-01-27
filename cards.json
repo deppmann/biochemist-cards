@@ -2001,6 +2001,17 @@
       "card_back_url": "cards/woker_gertrud_back.png",
       "student_name": "Nanaki Bawa",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "smolke_chrstina",
+      "scientist_name": "Chrstina Smolke",
+      "scientist_years": "1975-Present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Christina Smolke?s defining contribution is engineering yeast to produce complex, plant-derived medicinal compounds?most notably opioids?by rebuilding the entire plant metabolic pathway within a microbial cell.",
+      "card_front_url": "cards/smolke_chrstina_front.png",
+      "card_back_url": "cards/smolke_chrstina_back.png",
+      "student_name": "Caroline Williams",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2021,5 +2032,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:16:07.664Z"
+  "last_updated": "2026-01-27T23:16:08.881Z"
 }
