@@ -3,12 +3,23 @@
     {
       "id": "pauling_linus",
       "scientist_name": "Linus Pauling",
-      "scientist_years": "1901–1994",
+      "scientist_years": "1901?1994",
       "era": "Structural Chemistry Revolution",
       "contribution": "Discovered the alpha helix structure of proteins and defined the nature of the chemical bond",
       "card_front_url": "cards/pauling_linus_front.png",
       "card_back_url": "cards/pauling_linus_back.png",
       "student_name": "Prof. Deppmann",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "menton_maud",
+      "scientist_name": "Maud Menton",
+      "scientist_years": "1879-1960",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "The woman behind the equation",
+      "card_front_url": "cards/menton_maud_front.png",
+      "card_back_url": "cards/menton_maud_back.png",
+      "student_name": "Billy Rumple",
       "submitted_date": "2026-01-27"
     }
   ],
@@ -30,5 +41,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T10:00:00Z"
+  "last_updated": "2026-01-27T15:45:10.464Z"
 }
