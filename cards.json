@@ -571,6 +571,17 @@
       "card_back_url": "cards/lynch_lydia_back.png",
       "student_name": "Sloan Stanton",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "june_carl",
+      "scientist_name": "Carl June",
+      "scientist_years": "1953-",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Carl June pioneered CAR T-cell therapy by engineering patients? own T cells with synthetic receptors to hunt and destroy cancer cells, leading to the first FDA-approved ?living drug? for cancer.",
+      "card_front_url": "cards/june_carl_front.png",
+      "card_back_url": "cards/june_carl_back.png",
+      "student_name": "Lauren Solimano",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -591,5 +602,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:57:45.341Z"
+  "last_updated": "2026-01-27T22:57:50.469Z"
 }
