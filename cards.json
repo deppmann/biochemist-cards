@@ -1132,6 +1132,17 @@
       "card_back_url": "cards/ashburner_michael_back.png",
       "student_name": "Natalia Molina",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rosbash_michael",
+      "scientist_name": "Michael Rosbash",
+      "scientist_years": "1944-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Michael Rosbash discovered the molecular mechanism of the circadian clock by revealing that the period protein moves into the cell nucleus to inhibit its own production, establishing a self-sustaining 24-hour feedback loop.",
+      "card_front_url": "cards/rosbash_michael_front.png",
+      "card_back_url": "cards/rosbash_michael_back.png",
+      "student_name": "Jadyn Schattner",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1152,5 +1163,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:03:05.234Z"
+  "last_updated": "2026-01-27T23:03:14.846Z"
 }
