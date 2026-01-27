@@ -1836,6 +1836,17 @@
       "card_back_url": "cards/noller_harry_back.png",
       "student_name": "Madina Fayzieva",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "embden_gustav",
+      "scientist_name": "Gustav Embden",
+      "scientist_years": "1874-1933",
+      "era": "Metabolic Revolutions",
+      "contribution": "Gustav Embden made foundational contributions to metabolic pathway discovery by identifying key intermediates and reactions of glycolysis, work that helped establish the Embden?Meyerhof?Parnas pathway as the central framework for cellular sugar metabolism. ",
+      "card_front_url": "cards/embden_gustav_front.png",
+      "card_back_url": "cards/embden_gustav_back.png",
+      "student_name": "Lillian Bishop",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1856,5 +1867,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:09.111Z"
+  "last_updated": "2026-01-27T23:14:14.182Z"
 }
