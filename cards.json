@@ -2265,6 +2265,17 @@
       "card_back_url": "cards/wieland_heinrich_back.png",
       "student_name": "Mustafa Baryal",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "holley_robert",
+      "scientist_name": "Robert Holley",
+      "scientist_years": "1922-1993",
+      "era": "DNA Structure & Replication",
+      "contribution": "Robert Holley determined the first nucleotide sequence of a nucleic acid. ",
+      "card_front_url": "cards/holley_robert_front.png",
+      "card_back_url": "cards/holley_robert_back.png",
+      "student_name": "Caroline Hylton",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2285,5 +2296,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:18:51.995Z"
+  "last_updated": "2026-01-27T23:19:02.286Z"
 }
