@@ -3387,6 +3387,17 @@
       "card_back_url": "cards/mackinnon_roderick_back.png",
       "student_name": "Rylee Perkins (sorry i resubmitted it so many times because it wouldn't show up on the website)",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "northrop_john",
+      "scientist_name": "John Howard Northrop ",
+      "scientist_years": "1891-1987",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "",
+      "card_front_url": "cards/northrop_john_front.png",
+      "card_back_url": "cards/northrop_john_back.png",
+      "student_name": "Katherine Johnson",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3407,5 +3418,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:34:00.039Z"
+  "last_updated": "2026-01-27T23:34:10.806Z"
 }
