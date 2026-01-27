@@ -153,6 +153,17 @@
       "card_back_url": "cards/theorell_hugo_back.png",
       "student_name": "Jenny Chen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "willsttter_richard",
+      "scientist_name": "Richard Willst?tter",
+      "scientist_years": "1872-1942",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Richard Willst?tter pioneered the application of rigorous organic chemistry to biological problems, fundamentally reshaping biochemistry by determining the chemical structures of plant pigments, most significantly revealing the magnesium-porphyrin core of chlorophyll.",
+      "card_front_url": "cards/willsttter_richard_front.png",
+      "card_back_url": "cards/willsttter_richard_back.png",
+      "student_name": "Afnan Rahman Akhand",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -173,5 +184,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:53:33.929Z"
+  "last_updated": "2026-01-27T22:53:41.263Z"
 }
