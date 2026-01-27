@@ -879,6 +879,17 @@
       "card_back_url": "cards/london_irving_back.png",
       "student_name": "Rudra Dave",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "salas_margarita",
+      "scientist_name": "Margarita Salas",
+      "scientist_years": "1938?2019",
+      "era": "Other",
+      "contribution": "She discovered and characterized $\\phi29$ DNA polymerase, a highly efficient enzyme that revolutionized genetics by allowing scientists to amplify tiny samples of DNA into quantities large enough for full genomic analysis.",
+      "card_front_url": "cards/salas_margarita_front.png",
+      "card_back_url": "cards/salas_margarita_back.png",
+      "student_name": "Dami Ayandipo",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -899,5 +910,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:48.354Z"
+  "last_updated": "2026-01-27T23:00:50.298Z"
 }
