@@ -3805,6 +3805,17 @@
       "card_back_url": "cards/grunstein_michael_back.png",
       "student_name": "Aneesh Naik",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "grunberg-manago_marianne",
+      "scientist_name": "Marianne Grunberg-Manago",
+      "scientist_years": "1921-2013",
+      "era": "Metabolic Revolutions",
+      "contribution": "Marianne Grunberg-Manago discovered polynucleotide phosphorylase, an enzyme that enabled the experimental cracking of the genetic code and helped establish modern molecular biology.",
+      "card_front_url": "cards/grunberg-manago_marianne_front.png",
+      "card_back_url": "cards/grunberg-manago_marianne_back.png",
+      "student_name": "Isabella Danner",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3825,5 +3836,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:44:37.964Z"
+  "last_updated": "2026-01-27T23:44:47.862Z"
 }
