@@ -1275,6 +1275,17 @@
       "card_back_url": "cards/perlman_robert_back.png",
       "student_name": "Michelle Chuang ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fox_george",
+      "scientist_name": "George Fox",
+      "scientist_years": "1945 - Present",
+      "era": "DNA Structure & Replication",
+      "contribution": "George E. Fox helped revolutionize biology by using ribosomal RNA to reveal that life is divided into three fundamental domains?Bacteria, Archaea, and Eukarya?reshaping how scientists understand evolution at the molecular level.",
+      "card_front_url": "cards/fox_george_front.png",
+      "card_back_url": "cards/fox_george_back.png",
+      "student_name": "Andrew Huang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1295,5 +1306,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:04:54.788Z"
+  "last_updated": "2026-01-27T23:05:01.503Z"
 }
