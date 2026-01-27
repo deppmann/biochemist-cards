@@ -296,6 +296,17 @@
       "card_back_url": "cards/youyou_tu_back.png",
       "student_name": "Isabelle",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "jones_kristala",
+      "scientist_name": "Kristala Jones",
+      "scientist_years": "1972-",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Kristala L. Jones Prather transformed modern biochemistry by engineering microbes into efficient chemical factories, enabling sustainable production of valuable compounds through synthetic metabolic pathways.",
+      "card_front_url": "cards/jones_kristala_front.png",
+      "card_back_url": "cards/jones_kristala_back.png",
+      "student_name": "Zoe Woehrmyer",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -316,5 +327,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:08.926Z"
+  "last_updated": "2026-01-27T22:55:14.212Z"
 }
