@@ -98,6 +98,17 @@
       "card_back_url": "cards/clore_marius_back.png",
       "student_name": "Angelina Kim",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lange_titia",
+      "scientist_name": "Titia de Lange",
+      "scientist_years": "(1955-)",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "She discovered t-loop structure and the sheltering complex, proving the telomeres protect the chromosomes ends by tucking away a sailor's splice.",
+      "card_front_url": "cards/lange_titia_front.png",
+      "card_back_url": "cards/lange_titia_back.png",
+      "student_name": "Rob Sullivan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -118,5 +129,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:52:56.837Z"
+  "last_updated": "2026-01-27T22:53:06.887Z"
 }
