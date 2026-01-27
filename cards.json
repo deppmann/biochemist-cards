@@ -615,6 +615,17 @@
       "card_back_url": "cards/lehman_robert_back.png",
       "student_name": "Hannah Harkins",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "watenpaugh_keith",
+      "scientist_name": "Keith D. Watenpaugh",
+      "scientist_years": "1941-Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Keith D. Watenpaugh revolutionized biochemistry by pioneering the refinement techniques that allowed scientists to visualize precise structures of proteins for the very first time.",
+      "card_front_url": "cards/watenpaugh_keith_front.png",
+      "card_back_url": "cards/watenpaugh_keith_back.png",
+      "student_name": "Nathan Kim",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -635,5 +646,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:06.855Z"
+  "last_updated": "2026-01-27T22:58:09.928Z"
 }
