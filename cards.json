@@ -307,6 +307,17 @@
       "card_back_url": "cards/jones_kristala_back.png",
       "student_name": "Zoe Woehrmyer",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ringe_dagmar",
+      "scientist_name": "Dagmar Ringe",
+      "scientist_years": "1942-present",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Dagmar Ringe transformed structural biochemistry by proving that enzymes are dynamic, ?breathing? machines, discovering the protein glass transition and enabling scientists to freeze and visualize catalytic reactions in motion.",
+      "card_front_url": "cards/ringe_dagmar_front.png",
+      "card_back_url": "cards/ringe_dagmar_back.png",
+      "student_name": "AK (Annabelle) Gaskin",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -327,5 +338,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:14.212Z"
+  "last_updated": "2026-01-27T22:55:18.470Z"
 }
