@@ -967,6 +967,17 @@
       "card_back_url": "cards/wohler_friedrich_back.png",
       "student_name": "Feeman Annas",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "witt_horst",
+      "scientist_name": "Horst Witt",
+      "scientist_years": "1922-2007",
+      "era": "Metabolic Revolutions",
+      "contribution": "Illuminated life?s energy of flow",
+      "card_front_url": "cards/witt_horst_front.png",
+      "card_back_url": "cards/witt_horst_back.png",
+      "student_name": "Connor Dean",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -987,5 +998,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:01:26.103Z"
+  "last_updated": "2026-01-27T23:01:43.442Z"
 }
