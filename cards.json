@@ -3222,6 +3222,17 @@
       "card_back_url": "cards/bax_adriaan_back.png",
       "student_name": "Lily Krakowski",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "blackburn_elizabeth",
+      "scientist_name": "Elizabeth Blackburn",
+      "scientist_years": "1948-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "She identified the DNA sequence of telomeres and co-discovered telomerase, the enzyme that maintains chromosome ends during cell division.",
+      "card_front_url": "cards/blackburn_elizabeth_front.png",
+      "card_back_url": "cards/blackburn_elizabeth_back.png",
+      "student_name": "Mei McNally",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3242,5 +3253,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:31:17.112Z"
+  "last_updated": "2026-01-27T23:31:22.134Z"
 }
