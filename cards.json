@@ -3739,6 +3739,17 @@
       "card_back_url": "cards/watson_james_back.png",
       "student_name": "Charlie Haffer",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "heiden_matthew",
+      "scientist_name": "Matthew G. Vander Heiden",
+      "scientist_years": "1975-Present",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Matthew G. Vander Heiden transformed cancer biology by revealing that tumor cells rewire metabolism to prioritize biosynthesis and NAD? regeneration over efficient energy production, fundamentally reframing the Warburg effect and opening new paths for cancer therapy.",
+      "card_front_url": "cards/heiden_matthew_front.png",
+      "card_back_url": "cards/heiden_matthew_back.png",
+      "student_name": "Joshua A. Smith",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3759,5 +3770,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:43:15.684Z"
+  "last_updated": "2026-01-27T23:43:37.343Z"
 }
