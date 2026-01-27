@@ -2830,12 +2830,12 @@
     {
       "id": "cori_gerty",
       "scientist_name": "Gerty Cori",
-      "scientist_years": "1896?1957",
+      "scientist_years": "1896-1957",
       "era": "Metabolic Revolutions",
-      "contribution": "Gerty Cori co-discovered the Cori cycle, revealing how muscles and the liver cooperate to convert lactate back into glucose, a cornerstone of understanding energy metabolism.",
+      "contribution": "Gerty Cori made a groundbreaking contribution to science by co-discovering the Cori cycle, explaining how the body converts glycogen into glucose to produce energy.",
       "card_front_url": "cards/cori_gerty_front.png",
       "card_back_url": "cards/cori_gerty_back.png",
-      "student_name": "Nick Larson",
+      "student_name": "Stella Kim",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3418,5 +3418,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:34:10.806Z"
+  "last_updated": "2026-01-27T23:34:16.917Z"
 }
