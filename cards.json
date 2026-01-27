@@ -772,13 +772,13 @@
     },
     {
       "id": "bishop_j",
-      "scientist_name": "J. Michael Bishop ",
-      "scientist_years": "1936-Present ",
+      "scientist_name": "J. Michael Bishop",
+      "scientist_years": "1936-present",
       "era": "Cancer Biology & Oncogenes",
-      "contribution": "J. Michael Bishop fundamentally changed our thinking about cancer by showing that it arises from mutations in normal genes rather than external foreign viruses. ",
+      "contribution": "J. Michael Bishop helped reveal that cancer-causing oncogenes originate from normal cellular genes, transforming cancer from a viral mystery into a genetic problem rooted within our own cells.",
       "card_front_url": "cards/bishop_j_front.png",
       "card_back_url": "cards/bishop_j_back.png",
-      "student_name": "Riya Soni",
+      "student_name": "Kehleh Rivera",
       "submitted_date": "2026-01-27"
     },
     {
@@ -1405,5 +1405,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:06:05.312Z"
+  "last_updated": "2026-01-27T23:06:10.115Z"
 }
