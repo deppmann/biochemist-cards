@@ -4058,6 +4058,17 @@
       "card_back_url": "cards/oneill_luke_back.png",
       "student_name": "James Sognikin",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "steitz_thomas",
+      "scientist_name": "Thomas Steitz",
+      "scientist_years": "1940-2018",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Thomas Steitz revolutionized biochemistry by providing the first atomic-resolution visual proof of the \"Induced Fit\" mechanism in enzymes and revealing that the ribosome is a ribozyme, proving that RNA?not just protein?catalyzes the fundamental chemistry of life.",
+      "card_front_url": "cards/steitz_thomas_front.png",
+      "card_back_url": "cards/steitz_thomas_back.png",
+      "student_name": "Lucy Friedman",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -4078,5 +4089,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:58:45.581Z"
+  "last_updated": "2026-01-27T23:59:28.936Z"
 }
