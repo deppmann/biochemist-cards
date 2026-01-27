@@ -263,6 +263,17 @@
       "card_back_url": "cards/racker_efrain_back.png",
       "student_name": "Jason Chen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mizushima_noboru",
+      "scientist_name": "Noboru Mizushima",
+      "scientist_years": "1966-",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Noboru Mizushima?s primary contribution was the biochemical characterization of the Atg12 and LC3 conjugation systems, which provided the first molecular explanation for how autophagosomes?the cell?s recycling machinery?are physically constructed and marked in mammals.",
+      "card_front_url": "cards/mizushima_noboru_front.png",
+      "card_back_url": "cards/mizushima_noboru_back.png",
+      "student_name": "Alex Xu",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -283,5 +294,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:54:52.217Z"
+  "last_updated": "2026-01-27T22:54:59.986Z"
 }
