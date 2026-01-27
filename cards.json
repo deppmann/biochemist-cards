@@ -3409,6 +3409,17 @@
       "card_back_url": "cards/maxam_allan_back.png",
       "student_name": "Cassidy Mann",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "avery_oswald",
+      "scientist_name": "Oswald Theodore Avery",
+      "scientist_years": "1877-1955",
+      "era": "DNA Structure & Replication",
+      "contribution": "He identified DNA as the 'transforming principle' that carries genetic information",
+      "card_front_url": "cards/avery_oswald_front.png",
+      "card_back_url": "cards/avery_oswald_back.png",
+      "student_name": "Catherine Goldstein",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3429,5 +3440,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:34:22.141Z"
+  "last_updated": "2026-01-27T23:34:27.352Z"
 }
