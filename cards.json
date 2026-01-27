@@ -1374,6 +1374,17 @@
       "card_back_url": "cards/horwich_arthur_back.png",
       "student_name": "Esha Jain",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lloyd_dorothy",
+      "scientist_name": "Dorothy Jordan Lloyd",
+      "scientist_years": "1889-1946",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Quantitatively proved that protein hydration is driven by specific intrinsic molecular interactions.",
+      "card_front_url": "cards/lloyd_dorothy_front.png",
+      "card_back_url": "cards/lloyd_dorothy_back.png",
+      "student_name": "Laura Baitinger",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1394,5 +1405,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:05:56.477Z"
+  "last_updated": "2026-01-27T23:06:05.312Z"
 }
