@@ -2947,6 +2947,17 @@
       "card_back_url": "cards/dubochet_jacques_back.png",
       "student_name": "Katherime Franco-Machado",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hall_lloyd",
+      "scientist_name": "Lloyd Hall",
+      "scientist_years": "1894-1971",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Lloyd Hall revolutionized the food industry by developing the \"Vacugas\" sterilization process and flash-dried salt crystals, transforming food preservation from unreliable guesswork into a precise molecular science.",
+      "card_front_url": "cards/hall_lloyd_front.png",
+      "card_back_url": "cards/hall_lloyd_back.png",
+      "student_name": "Maggie Wallace",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2967,5 +2978,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:26:45.875Z"
+  "last_updated": "2026-01-27T23:26:57.127Z"
 }
