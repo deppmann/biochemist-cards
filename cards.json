@@ -1297,6 +1297,17 @@
       "card_back_url": "cards/hunt_tim_back.png",
       "student_name": "Deena Mohammed",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "caruthers_marvin",
+      "scientist_name": "Marvin Caruthers",
+      "scientist_years": "1940",
+      "era": "Other",
+      "contribution": "Marvin Caruthers developed the phosphoramidite method for DNA synthesis, making it possible to quickly and automatically manufacture custom DNA sequences and enabling the modern biotechnology and genomics revolution.",
+      "card_front_url": "cards/caruthers_marvin_front.png",
+      "card_back_url": "cards/caruthers_marvin_back.png",
+      "student_name": "Yara Nasef",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1317,5 +1328,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:05:07.807Z"
+  "last_updated": "2026-01-27T23:05:19.791Z"
 }
