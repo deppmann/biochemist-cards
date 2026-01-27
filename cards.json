@@ -2903,6 +2903,17 @@
       "card_back_url": "cards/katzky_christoph_back.png",
       "student_name": "Lilly Krikorian",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "elvehjem_conrad",
+      "scientist_name": "Conrad Elvehjem",
+      "scientist_years": "1901-1962",
+      "era": "Vitamins & Nutrition",
+      "contribution": "He cured Pellagra. ",
+      "card_front_url": "cards/elvehjem_conrad_front.png",
+      "card_back_url": "cards/elvehjem_conrad_back.png",
+      "student_name": "Samantha Chen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2923,5 +2934,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:26:22.872Z"
+  "last_updated": "2026-01-27T23:26:26.896Z"
 }
