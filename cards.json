@@ -3651,6 +3651,17 @@
       "card_back_url": "cards/scheres_sjors_back.png",
       "student_name": "Yannise Ladzekpo",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bennett_frank",
+      "scientist_name": "Frank Bennett",
+      "scientist_years": "2000-Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "C. Frank Bennett is a pioneering pharmacologist and executive at Ionis Pharmaceuticals who led the development of antisense oligonucleotide technology to create life-saving therapies, most notably the first FDA-approved treatment for spinal muscular atrophy, Spinraza (nusinersen).",
+      "card_front_url": "cards/bennett_frank_front.png",
+      "card_back_url": "cards/bennett_frank_back.png",
+      "student_name": "Joe Ressler",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3671,5 +3682,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:39:16.619Z"
+  "last_updated": "2026-01-27T23:39:28.911Z"
 }
