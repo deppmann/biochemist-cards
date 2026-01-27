@@ -2111,6 +2111,17 @@
       "card_back_url": "cards/lipmann_fritz_back.png",
       "student_name": "Laura Chen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lane_david",
+      "scientist_name": "David Lane",
+      "scientist_years": "1938-2007",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Sir David Philip Lane helped establish the protein p53 as a key tumor suppressor that protects cells from becoming cancerous by responding to DNA damage.",
+      "card_front_url": "cards/lane_david_front.png",
+      "card_back_url": "cards/lane_david_back.png",
+      "student_name": "Khushi Rana",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2131,5 +2142,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:14.519Z"
+  "last_updated": "2026-01-27T23:17:19.687Z"
 }
