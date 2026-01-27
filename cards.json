@@ -2287,6 +2287,17 @@
       "card_back_url": "cards/sadelain_michel_back.png",
       "student_name": "Assiatu Sesay",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "blow_david",
+      "scientist_name": "David Blow",
+      "scientist_years": "1931-2004",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "He discovered the catalytic triad. ",
+      "card_front_url": "cards/blow_david_front.png",
+      "card_back_url": "cards/blow_david_back.png",
+      "student_name": "Jetkeile Gatus ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2307,5 +2318,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:19:11.185Z"
+  "last_updated": "2026-01-27T23:19:15.370Z"
 }
