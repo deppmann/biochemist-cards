@@ -3849,6 +3849,17 @@
       "card_back_url": "cards/mignot_emmanuel_back.png",
       "student_name": "Madeline Strouse",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kahn_barbara",
+      "scientist_name": "Barbara Kahn",
+      "scientist_years": "1951-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Decoding the Language of Metabolism",
+      "card_front_url": "cards/kahn_barbara_front.png",
+      "card_back_url": "cards/kahn_barbara_back.png",
+      "student_name": "Maggie Shifflett",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3869,5 +3880,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:46:14.835Z"
+  "last_updated": "2026-01-27T23:46:42.223Z"
 }
