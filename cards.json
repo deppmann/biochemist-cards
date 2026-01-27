@@ -131,6 +131,17 @@
       "card_back_url": "cards/karplus_martin_back.png",
       "student_name": "Lauren Opin",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wang_james",
+      "scientist_name": "James C. Wang ",
+      "scientist_years": "1933-2022",
+      "era": "DNA Structure & Replication",
+      "contribution": "Master of DNA Untangling ",
+      "card_front_url": "cards/wang_james_front.png",
+      "card_back_url": "cards/wang_james_back.png",
+      "student_name": "Kimberly Henandez",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -151,5 +162,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:53:19.933Z"
+  "last_updated": "2026-01-27T22:53:23.234Z"
 }
