@@ -439,6 +439,17 @@
       "card_back_url": "cards/yoshimori_tamotsu_back.png",
       "student_name": "Sophia Xie",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "guttman_mitchell",
+      "scientist_name": "Mitchell Guttman",
+      "scientist_years": "1982-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Mitchell Guttman revolutionized the field of genomics by discovering that long non-coding RNAs (lncRNAs) function as essential structural \"scaffolds\" that organize the 3D architecture of the nucleus to precisely regulate gene expression.",
+      "card_front_url": "cards/guttman_mitchell_front.png",
+      "card_back_url": "cards/guttman_mitchell_back.png",
+      "student_name": "Reid Miller",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -459,5 +470,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:25.313Z"
+  "last_updated": "2026-01-27T22:56:28.667Z"
 }
