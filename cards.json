@@ -1616,6 +1616,17 @@
       "card_back_url": "cards/zamore_phillip_back.png",
       "student_name": "Syna Lodaya",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "changeux_jean-pierre",
+      "scientist_name": "Jean-Pierre Changeux",
+      "scientist_years": "1936-",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "",
+      "card_front_url": "cards/changeux_jean-pierre_front.png",
+      "card_back_url": "cards/changeux_jean-pierre_back.png",
+      "student_name": "Sadaf Ghani",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1636,5 +1647,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:09:37.872Z"
+  "last_updated": "2026-01-27T23:09:44.509Z"
 }
