@@ -1517,6 +1517,17 @@
       "card_back_url": "cards/winter_gregory_back.png",
       "student_name": "Carter Fortune",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hartley_brian",
+      "scientist_name": "Brian Hartley",
+      "scientist_years": "1926-2017",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Brian Hartley pioneered \"diagonal electrophoresis\" to map disulfide bridges, a breakthrough that allowed scientists to accurately sequence the complex structures of enzymes for the first time.",
+      "card_front_url": "cards/hartley_brian_front.png",
+      "card_back_url": "cards/hartley_brian_back.png",
+      "student_name": "Sanjana Rao",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1537,5 +1548,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:07:57.413Z"
+  "last_updated": "2026-01-27T23:08:06.287Z"
 }
