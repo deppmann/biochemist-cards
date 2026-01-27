@@ -3728,6 +3728,17 @@
       "card_back_url": "cards/hogness_david_back.png",
       "student_name": "Nick Macaluso",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "watson_james",
+      "scientist_name": "James D. Watson",
+      "scientist_years": "1928-2025",
+      "era": "DNA Structure & Replication",
+      "contribution": "Co-discovered the double-helix structure of DNA using cardboard models and X-ray data.",
+      "card_front_url": "cards/watson_james_front.png",
+      "card_back_url": "cards/watson_james_back.png",
+      "student_name": "Charlie Haffer",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3748,5 +3759,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:42:40.634Z"
+  "last_updated": "2026-01-27T23:43:15.684Z"
 }
