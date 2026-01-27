@@ -2188,6 +2188,17 @@
       "card_back_url": "cards/stadman_earl_back.png",
       "student_name": "Tivona Dodamgoda",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "vagelos_pindaros",
+      "scientist_name": "Pindaros Roy Vagelos",
+      "scientist_years": "1929-",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "P. Roy Vagelos transformed modern drug development by championing rigorous biochemistry and ethical leadership, most notably leading Merck to develop and freely distribute ivermectin, saving millions of lives worldwide.",
+      "card_front_url": "cards/vagelos_pindaros_front.png",
+      "card_back_url": "cards/vagelos_pindaros_back.png",
+      "student_name": "Raiya Patel",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2208,5 +2219,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:18:02.903Z"
+  "last_updated": "2026-01-27T23:18:08.182Z"
 }
