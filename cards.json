@@ -120,6 +120,17 @@
       "card_back_url": "cards/sll_dieter_back.png",
       "student_name": "Charlene Huynh",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "karplus_martin",
+      "scientist_name": "Martin Karplus",
+      "scientist_years": "1930-2024",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Martin Karplus revolutionized the field of biochemistry by developing multiscale models and molecular dynamics simulations that transformed our understanding of proteins from static \"brass models\" into dynamic entities governed by \"jigglings and wigglings\".",
+      "card_front_url": "cards/karplus_martin_front.png",
+      "card_back_url": "cards/karplus_martin_back.png",
+      "student_name": "Lauren Opin",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -140,5 +151,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:53:13.751Z"
+  "last_updated": "2026-01-27T22:53:19.933Z"
 }
