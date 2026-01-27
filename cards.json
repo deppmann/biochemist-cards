@@ -3423,13 +3423,13 @@
     },
     {
       "id": "hill_archibald",
-      "scientist_name": "Archibald Vivian Hill",
+      "scientist_name": "Archibald Vivian Hill ",
       "scientist_years": "1886-1977",
-      "era": "Other",
+      "era": "Metabolic Revolutions",
       "contribution": "\"Everything has depended on the technique.\"",
       "card_front_url": "cards/hill_archibald_front.png",
       "card_back_url": "cards/hill_archibald_back.png",
-      "student_name": "Elisabeth Bubay ",
+      "student_name": "Elisabeth Bubay",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3704,5 +3704,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:39:40.427Z"
+  "last_updated": "2026-01-27T23:39:41.744Z"
 }
