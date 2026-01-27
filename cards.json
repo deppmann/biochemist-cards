@@ -417,6 +417,17 @@
       "card_back_url": "cards/maniatis_tom_back.png",
       "student_name": "Hailey Matthews",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "jasin_maria",
+      "scientist_name": "Maria Jasin",
+      "scientist_years": "1956?",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Maria Jasin demonstrated that creating a targeted DNA double-strand break activates homologous recombination in mammalian cells, a discovery that made precise gene editing?and ultimately CRISPR?possible.",
+      "card_front_url": "cards/jasin_maria_front.png",
+      "card_back_url": "cards/jasin_maria_back.png",
+      "student_name": "Ellerie Tauber",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -437,5 +448,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:20.079Z"
+  "last_updated": "2026-01-27T22:56:21.691Z"
 }
