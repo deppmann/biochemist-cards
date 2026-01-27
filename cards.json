@@ -2829,13 +2829,13 @@
     },
     {
       "id": "cori_gerty",
-      "scientist_name": "Gerty Cori",
+      "scientist_name": "Gerty Theresa Cori",
       "scientist_years": "1896-1957",
       "era": "Metabolic Revolutions",
-      "contribution": "Gerty Cori made a groundbreaking contribution to science by co-discovering the Cori cycle, explaining how the body converts glycogen into glucose to produce energy.",
+      "contribution": "Discovered the Cori cycle, explaining how glycogen is broken down in muscles and recycled in the liver to supply energy.",
       "card_front_url": "cards/cori_gerty_front.png",
       "card_back_url": "cards/cori_gerty_back.png",
-      "student_name": "Stella Kim",
+      "student_name": "Catherine Hollingsworth",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3935,5 +3935,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:49:39.069Z"
+  "last_updated": "2026-01-27T23:51:05.447Z"
 }
