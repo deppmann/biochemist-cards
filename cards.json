@@ -146,7 +146,7 @@
     {
       "id": "theorell_hugo",
       "scientist_name": "Hugo Theorell",
-      "scientist_years": "1903-1982",
+      "scientist_years": "1900-1950",
       "era": "Enzymology & Protein Chemistry",
       "contribution": "Elucidated the structure and function of oxidation enzymes, laying the foundation for modern enzymology.",
       "card_front_url": "cards/theorell_hugo_front.png",
@@ -2582,5 +2582,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:22:17.197Z"
+  "last_updated": "2026-01-27T23:22:25.960Z"
 }
