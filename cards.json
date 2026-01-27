@@ -2991,6 +2991,17 @@
       "card_back_url": "cards/kandel_eric_back.png",
       "student_name": "Mikael Tefferi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kornberg_arthur",
+      "scientist_name": "Arthur Kornberg",
+      "scientist_years": "1918-2007",
+      "era": "DNA Structure & Replication",
+      "contribution": "Arthur Kornberg discovered DNA polymerase, showing that DNA can be synthesized and enzymes can copy DNA. ",
+      "card_front_url": "cards/kornberg_arthur_front.png",
+      "card_back_url": "cards/kornberg_arthur_back.png",
+      "student_name": "Dareen Aloudeh",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3011,5 +3022,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:27:28.271Z"
+  "last_updated": "2026-01-27T23:27:34.314Z"
 }
