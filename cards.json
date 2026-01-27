@@ -285,6 +285,17 @@
       "card_back_url": "cards/matthaei_heinrich_back.png",
       "student_name": "Ziya Jasani",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "youyou_tu",
+      "scientist_name": "Tu Youyou",
+      "scientist_years": "1930?Present",
+      "era": "Other",
+      "contribution": "Tu Youyou isolated the heat-sensitive compound artemisinin from sweet wormwood using a low-temperature extraction method inspired by ancient texts, creating a breakthrough treatment that has saved millions of lives from malaria.",
+      "card_front_url": "cards/youyou_tu_front.png",
+      "card_back_url": "cards/youyou_tu_back.png",
+      "student_name": "Isabelle",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -305,5 +316,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:04.421Z"
+  "last_updated": "2026-01-27T22:55:08.926Z"
 }
