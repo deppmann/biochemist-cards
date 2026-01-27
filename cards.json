@@ -1253,6 +1253,17 @@
       "card_back_url": "cards/stillman_bruce_back.png",
       "student_name": "Bennett Owen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "shulman_gerald",
+      "scientist_name": "Gerald Shulman",
+      "scientist_years": "1953-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Shulman revolutionized our understanding of type 2 diabetes by using advanced imaging to prove that insulin resistance is primarily caused by the buildup of fat byproducts inside muscle and liver cells, rather than just a defect in glucose transport.",
+      "card_front_url": "cards/shulman_gerald_front.png",
+      "card_back_url": "cards/shulman_gerald_back.png",
+      "student_name": "Fiona Schuh",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1273,5 +1284,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:04:37.123Z"
+  "last_updated": "2026-01-27T23:04:42.187Z"
 }
