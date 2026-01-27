@@ -2804,6 +2804,17 @@
       "card_back_url": "cards/high_katherine_back.png",
       "student_name": "Rebecca Qiu",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "gunsteren_wilfred",
+      "scientist_name": "Wilfred F. van Gunsteren",
+      "scientist_years": "1947?present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Pioneered molecular dynamics simulation tools that allow scientists to model and validate the three-dimensional motion of proteins, transforming structural biology and drug discovery.",
+      "card_front_url": "cards/gunsteren_wilfred_front.png",
+      "card_back_url": "cards/gunsteren_wilfred_back.png",
+      "student_name": "Dev Patel ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2824,5 +2835,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:25:20.183Z"
+  "last_updated": "2026-01-27T23:25:26.393Z"
 }
