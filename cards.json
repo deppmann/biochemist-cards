@@ -2864,11 +2864,11 @@
       "id": "sumner_james",
       "scientist_name": "James Sumner",
       "scientist_years": "1887-1955",
-      "era": "Enzymology & Protein Chemistry",
-      "contribution": "He isolated and crystallized urease from Jack Beans, proving that enzymes are proteins.",
+      "era": "Other",
+      "contribution": "Discovery of Urase",
       "card_front_url": "cards/sumner_james_front.png",
       "card_back_url": "cards/sumner_james_back.png",
-      "student_name": "Ali Al-Nidawi",
+      "student_name": "Sevda Milani",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3880,5 +3880,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:46:55.813Z"
+  "last_updated": "2026-01-27T23:47:34.700Z"
 }
