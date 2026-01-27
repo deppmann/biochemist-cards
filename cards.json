@@ -681,6 +681,17 @@
       "card_back_url": "cards/wilkins_maurice_back.png",
       "student_name": "Menna Helal",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "yalow_rosalyn",
+      "scientist_name": "Rosalyn Yalow",
+      "scientist_years": "1921-2011",
+      "era": "Other",
+      "contribution": "Rosalyn Yalow revolutionized modern medicine by developing the radioimmunoassay (RIA), a Nobel Prize-winning technique that uses radioactive isotopes to measure incredibly tiny concentrations of hormones, vitamins, and viruses in the human blood.",
+      "card_front_url": "cards/yalow_rosalyn_front.png",
+      "card_back_url": "cards/yalow_rosalyn_back.png",
+      "student_name": "Valeria Urresty",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -701,5 +712,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:59.679Z"
+  "last_updated": "2026-01-27T22:59:10.878Z"
 }
