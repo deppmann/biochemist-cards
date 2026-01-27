@@ -486,13 +486,13 @@
     },
     {
       "id": "khorana_har",
-      "scientist_name": "Har Gobind Khorana",
-      "scientist_years": "1922 -2011",
-      "era": "Molecular Biology of Gene Regulation",
-      "contribution": "",
+      "scientist_name": "Har Gorbind Khorana",
+      "scientist_years": "1922-2011",
+      "era": "Other",
+      "contribution": "He synthesized the first artificial genes.",
       "card_front_url": "cards/khorana_har_front.png",
       "card_back_url": "cards/khorana_har_back.png",
-      "student_name": "Oreoluwa Ajayi",
+      "student_name": "Jonathan King",
       "submitted_date": "2026-01-27"
     },
     {
@@ -4078,5 +4078,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:58:22.117Z"
+  "last_updated": "2026-01-27T23:58:45.581Z"
 }
