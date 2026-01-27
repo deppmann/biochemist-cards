@@ -3497,6 +3497,17 @@
       "card_back_url": "cards/gilbert_walter_back.png",
       "student_name": "Shreya Madan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kendal_eric",
+      "scientist_name": "Eric Kendal",
+      "scientist_years": "1929",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Discovered the molecular and cellular mechanisms of memory storage by studying synaptic plasticity in the Aplysia sea slug.",
+      "card_front_url": "cards/kendal_eric_front.png",
+      "card_back_url": "cards/kendal_eric_back.png",
+      "student_name": "Chloe Zhang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3517,5 +3528,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:36:11.236Z"
+  "last_updated": "2026-01-27T23:36:15.166Z"
 }
