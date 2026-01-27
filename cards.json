@@ -1495,6 +1495,17 @@
       "card_back_url": "cards/oosawa_fumio_back.png",
       "student_name": "Matthew Vogelstein",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hur_sun",
+      "scientist_name": "Sun Hur",
+      "scientist_years": "1948-2019",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "She uncovered the structural logic by which innate immune receptors assemble into RNA-length?sensing filaments, allowing cells to reliably distinguish viral genetic material from their own.",
+      "card_front_url": "cards/hur_sun_front.png",
+      "card_back_url": "cards/hur_sun_back.png",
+      "student_name": "Huu Van Tu",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1515,5 +1526,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:07:41.912Z"
+  "last_updated": "2026-01-27T23:07:52.916Z"
 }
