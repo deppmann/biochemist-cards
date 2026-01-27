@@ -813,6 +813,17 @@
       "card_back_url": "cards/regev_aviv_back.png",
       "student_name": "Sude Mohac",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "radman_miroslav",
+      "scientist_name": "Miroslav Radman",
+      "scientist_years": "1944-",
+      "era": "DNA Structure & Replication",
+      "contribution": "Miroslav Radman revolutionized our understanding of genetic stability by co-discovering the methyl-directed mismatch repair mechanism and conceptualizing the SOS response, demonstrating that biological survival and evolutionary innovation often rely on a regulated balance of genetic fidelity and \"infidelity.\"",
+      "card_front_url": "cards/radman_miroslav_front.png",
+      "card_back_url": "cards/radman_miroslav_back.png",
+      "student_name": "Lauren Hamilton",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -833,5 +844,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:24.129Z"
+  "last_updated": "2026-01-27T23:00:25.745Z"
 }
