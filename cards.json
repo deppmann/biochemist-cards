@@ -3068,6 +3068,17 @@
       "card_back_url": "cards/levene_phoebus_back.png",
       "student_name": "Sarah Fernandez",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bragg_w",
+      "scientist_name": "W Lawrence Bragg",
+      "scientist_years": "1890 ?1971",
+      "era": "Structural Biology Revolution",
+      "contribution": "?He developed Bragg?s law and pioneered X-ray crystallography, making it possible to determine the atomic structure of crystals from X-ray diffraction.?",
+      "card_front_url": "cards/bragg_w_front.png",
+      "card_back_url": "cards/bragg_w_back.png",
+      "student_name": "Hira Hyder",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3088,5 +3099,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:05.131Z"
+  "last_updated": "2026-01-27T23:29:12.583Z"
 }
