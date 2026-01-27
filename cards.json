@@ -2551,6 +2551,17 @@
       "card_back_url": "cards/fischer_emil_back.png",
       "student_name": "Ebtesaam Abdul-Qudoos",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bergmann_max",
+      "scientist_name": "Max Bergmann",
+      "scientist_years": "1886-1944",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Max Bergmann developed the \"carbobenzoxy\" method, the first reversible protecting group that allowed scientists to synthesize complex peptide chains step-by-step with chemical precision.",
+      "card_front_url": "cards/bergmann_max_front.png",
+      "card_back_url": "cards/bergmann_max_back.png",
+      "student_name": "Rayyan Ansari",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2571,5 +2582,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:22:13.565Z"
+  "last_updated": "2026-01-27T23:22:17.197Z"
 }
