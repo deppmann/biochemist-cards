@@ -3926,6 +3926,17 @@
       "card_back_url": "cards/milstein_csar_back.png",
       "student_name": "Kelly Wai",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "berzelius_jns",
+      "scientist_name": "J?ns Jacob Berzelius",
+      "scientist_years": "1779-1848",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Created the modern system of chemical notation using letter symbols for elements.",
+      "card_front_url": "cards/berzelius_jns_front.png",
+      "card_back_url": "cards/berzelius_jns_back.png",
+      "student_name": "Muhammad Ahmad",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3946,5 +3957,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:51:31.600Z"
+  "last_updated": "2026-01-27T23:51:44.942Z"
 }
