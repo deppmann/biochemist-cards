@@ -3464,6 +3464,17 @@
       "card_back_url": "cards/daly_marie_back.png",
       "student_name": "Sharzeeda Diallo",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kraut_joseph",
+      "scientist_name": "Joseph Kraut",
+      "scientist_years": "1929-2007",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Joseph Kraut helped establish that enzymes catalyze reactions by stabilizing the transition state, a principle that became foundational to modern structural biology and drug discovery.",
+      "card_front_url": "cards/kraut_joseph_front.png",
+      "card_back_url": "cards/kraut_joseph_back.png",
+      "student_name": "Lola Fuentes Brock",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3484,5 +3495,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:35:32.100Z"
+  "last_updated": "2026-01-27T23:35:42.110Z"
 }
