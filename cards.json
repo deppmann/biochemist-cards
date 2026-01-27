@@ -2221,6 +2221,17 @@
       "card_back_url": "cards/mirsky_alfred_back.png",
       "student_name": "Robert Jessen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "roeder_robert",
+      "scientist_name": "Robert G. Roeder",
+      "scientist_years": "1942-Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Robert Roeder?s primary contribution was the discovery of the three distinct eukaryotic RNA polymerases (I, II, and III) and the identification of the general transcription factors required to initiate the process of gene copying.",
+      "card_front_url": "cards/roeder_robert_front.png",
+      "card_back_url": "cards/roeder_robert_back.png",
+      "student_name": "Jeric Marcelin",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2241,5 +2252,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:18:21.767Z"
+  "last_updated": "2026-01-27T23:18:32.910Z"
 }
