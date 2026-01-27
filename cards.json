@@ -3596,6 +3596,17 @@
       "card_back_url": "cards/frank_back.png",
       "student_name": "Joe Ressler",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ciechanover_aaron",
+      "scientist_name": "Aaron Ciechanover",
+      "scientist_years": "1947-Present",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Aaron Ciechanover?s discovery of the ubiquitin-mediated pathway revealed how cells \"label\" and recycle unwanted proteins, a process vital for preventing diseases like cancer and neurodegeneration.",
+      "card_front_url": "cards/ciechanover_aaron_front.png",
+      "card_back_url": "cards/ciechanover_aaron_back.png",
+      "student_name": "Paria Karimi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3616,5 +3627,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:37:51.835Z"
+  "last_updated": "2026-01-27T23:37:55.961Z"
 }
