@@ -3112,6 +3112,17 @@
       "card_back_url": "cards/hershko_avram_back.png",
       "student_name": "Lily Ji",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sanger_frederick",
+      "scientist_name": "Frederick Sanger",
+      "scientist_years": "1918-2013",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Frederick Sanger transformed biochemistry from a study random molecules into a science by providing proof that proteins and DNA possess unique, replicable sequences.",
+      "card_front_url": "cards/sanger_frederick_front.png",
+      "card_back_url": "cards/sanger_frederick_back.png",
+      "student_name": "Aarathi Manchikalapudi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3132,5 +3143,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:29.058Z"
+  "last_updated": "2026-01-27T23:29:35.032Z"
 }
