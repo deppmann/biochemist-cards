@@ -2012,6 +2012,17 @@
       "card_back_url": "cards/smolke_chrstina_back.png",
       "student_name": "Caroline Williams",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hardie_grahame",
+      "scientist_name": "Grahame Hardie",
+      "scientist_years": "1950 - present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "D. Grahame Hardie defined the molecular logic of cellular survival by identifying and naming the AMP-activated protein kinase (AMPK) as the \"fuel gauge\" of the cell, a foundational discovery that linked metabolic energy status directly to tumor suppression and the mechanism of diabetes treatment.",
+      "card_front_url": "cards/hardie_grahame_front.png",
+      "card_back_url": "cards/hardie_grahame_back.png",
+      "student_name": "Allegra Williams",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2032,5 +2043,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:16:08.881Z"
+  "last_updated": "2026-01-27T23:16:15.998Z"
 }
