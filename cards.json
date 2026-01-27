@@ -1000,6 +1000,17 @@
       "card_back_url": "cards/krebs_edwin_back.png",
       "student_name": "Emily Bloom",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ignarro_louis",
+      "scientist_name": "Louis Ignarro",
+      "scientist_years": "1941-",
+      "era": "DNA Structure & Replication",
+      "contribution": "Louis Ignarro's definitive proof that nitric oxide acts as a gaseous signaling molecule to relax smooth muscle revolutionized our understanding of cardiovascular physiology and paved the way for the life saving treatments for heart disease and hypertension.",
+      "card_front_url": "cards/ignarro_louis_front.png",
+      "card_back_url": "cards/ignarro_louis_back.png",
+      "student_name": "Emily Giles",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1020,5 +1031,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:01.726Z"
+  "last_updated": "2026-01-27T23:02:08.253Z"
 }
