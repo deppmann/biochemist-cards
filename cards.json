@@ -1033,6 +1033,17 @@
       "card_back_url": "cards/magasanik_boris_back.png",
       "student_name": "Elizabeth Chuang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bustamante_carlos",
+      "scientist_name": "Carlos Bustamante",
+      "scientist_years": "1951?Present",
+      "era": "DNA Structure & Replication",
+      "contribution": "Developed single molecule manipulation techniques to measure the mechanical forces of DNA and of DNA molecular motors.",
+      "card_front_url": "cards/bustamante_carlos_front.png",
+      "card_back_url": "cards/bustamante_carlos_back.png",
+      "student_name": "Megana Kumar",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1053,5 +1064,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:19.272Z"
+  "last_updated": "2026-01-27T23:02:20.992Z"
 }
