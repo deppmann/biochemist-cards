@@ -1902,6 +1902,17 @@
       "card_back_url": "cards/weinberg_robert_back.png",
       "student_name": "Arina Sokolova",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "smith_michael",
+      "scientist_name": "Michael Smith",
+      "scientist_years": "1932?2000",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Michael Smith developed site-directed mutagenesis, a groundbreaking technique that allows scientists to deliberately change a specific nucleotide in a DNA sequence to determine how individual amino acids influence the structure and function of proteins.",
+      "card_front_url": "cards/smith_michael_front.png",
+      "card_back_url": "cards/smith_michael_back.png",
+      "student_name": "Kaelyn Lewis",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1922,5 +1933,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:37.063Z"
+  "last_updated": "2026-01-27T23:14:43.106Z"
 }
