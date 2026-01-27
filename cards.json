@@ -461,6 +461,17 @@
       "card_back_url": "cards/ramalingaswami_vulimiri_back.png",
       "student_name": "Leann Vo",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hartl_franz-ulrich",
+      "scientist_name": "Franz-Ulrich Hartl",
+      "scientist_years": "1957-current",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Franz-Ulrich Hartl revolutionized biochemistry by proving that protein folding in the cell is not always spontaneous, but often requires \"molecular chaperones\" to provide a protective environment and prevent toxic aggregation.",
+      "card_front_url": "cards/hartl_franz-ulrich_front.png",
+      "card_back_url": "cards/hartl_franz-ulrich_back.png",
+      "student_name": "Reese Kennedy",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -481,5 +492,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:37.524Z"
+  "last_updated": "2026-01-27T22:56:42.775Z"
 }
