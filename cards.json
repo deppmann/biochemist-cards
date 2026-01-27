@@ -3057,6 +3057,17 @@
       "card_back_url": "cards/goldstein_joseph_back.png",
       "student_name": "Zachary Payne",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "levene_phoebus",
+      "scientist_name": "Phoebus Aaron Levene",
+      "scientist_years": "1869?1940",
+      "era": "DNA Structure & Replication",
+      "contribution": "Mapping life's chemical alphabet",
+      "card_front_url": "cards/levene_phoebus_front.png",
+      "card_back_url": "cards/levene_phoebus_back.png",
+      "student_name": "Sarah Fernandez",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3077,5 +3088,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:28:58.120Z"
+  "last_updated": "2026-01-27T23:29:05.131Z"
 }
