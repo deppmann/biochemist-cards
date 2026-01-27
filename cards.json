@@ -3332,6 +3332,17 @@
       "card_back_url": "cards/silver_pamela_back.png",
       "student_name": "Owen Wells",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "vogt_peter",
+      "scientist_name": "Peter Vogt",
+      "scientist_years": "1932-2024",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "the architect of the oncogene",
+      "card_front_url": "cards/vogt_peter_front.png",
+      "card_back_url": "cards/vogt_peter_back.png",
+      "student_name": "Pratha Ravani",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3352,5 +3363,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:32:51.569Z"
+  "last_updated": "2026-01-27T23:32:53.989Z"
 }
