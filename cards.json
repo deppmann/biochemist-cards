@@ -241,6 +241,17 @@
       "card_back_url": "cards/nunez_gabriel_back.png",
       "student_name": "Shrey Sheth",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "beinart_helmut",
+      "scientist_name": "Helmut Beinart",
+      "scientist_years": "1913-2007",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Helmut Beinert revealed the hidden role of iron?sulfur clusters in metabolism by identifying the ?impossible? g = 1.94 EPR signal, transforming how scientists understand electron transfer and catalysis in enzymes.",
+      "card_front_url": "cards/beinart_helmut_front.png",
+      "card_back_url": "cards/beinart_helmut_back.png",
+      "student_name": "Thea Nicole Budlong",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -261,5 +272,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:54:42.482Z"
+  "last_updated": "2026-01-27T22:54:48.777Z"
 }
