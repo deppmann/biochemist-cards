@@ -901,6 +901,17 @@
       "card_back_url": "cards/yuan_junying_back.png",
       "student_name": "Je Young Yoo",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "weissman_jonathan",
+      "scientist_name": "Jonathan Seth Weissman",
+      "scientist_years": "1966-Present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Jonathan Seth Weissman is primarily recognized for inventing ribosome profiling to monitor protein synthesis at nucleotide resolution and for developing CRISPR-based systems like CRISPRi and CRISPRa to precisely regulate gene expression without permanently altering DNA.",
+      "card_front_url": "cards/weissman_jonathan_front.png",
+      "card_back_url": "cards/weissman_jonathan_back.png",
+      "student_name": "Stephanie Wong",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -921,5 +932,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:59.621Z"
+  "last_updated": "2026-01-27T23:01:03.593Z"
 }
