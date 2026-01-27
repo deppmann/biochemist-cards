@@ -3607,6 +3607,17 @@
       "card_back_url": "cards/ciechanover_aaron_back.png",
       "student_name": "Paria Karimi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "taylor_kenneth",
+      "scientist_name": "Kenneth Taylor",
+      "scientist_years": "1946-Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Proved pystis retians atomic order in a vacuum when frozen, paving the way for cry-EM revolution.",
+      "card_front_url": "cards/taylor_kenneth_front.png",
+      "card_back_url": "cards/taylor_kenneth_back.png",
+      "student_name": "Emma Lai",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3627,5 +3638,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:37:55.961Z"
+  "last_updated": "2026-01-27T23:38:07.262Z"
 }
