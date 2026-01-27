@@ -4047,6 +4047,17 @@
       "card_back_url": "cards/meyerowitz_elliot_back.png",
       "student_name": "Kiara Morris ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "oneill_luke",
+      "scientist_name": "Luke O'Neill",
+      "scientist_years": "1964-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Luke O'Neill has revolutionized the field of immunometabolism by transforming our understanding of the Krebs cycle from a static energy generator into a dynamic signaling hub that dictates the identity and function of immune cells.",
+      "card_front_url": "cards/oneill_luke_front.png",
+      "card_back_url": "cards/oneill_luke_back.png",
+      "student_name": "James Sognikin",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -4067,5 +4078,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:58:03.191Z"
+  "last_updated": "2026-01-27T23:58:22.117Z"
 }
