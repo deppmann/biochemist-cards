@@ -2496,6 +2496,17 @@
       "card_back_url": "cards/koonin_eugene_back.png",
       "student_name": "Sahaana Mohan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "klug_aaron",
+      "scientist_name": "Aaron Klug",
+      "scientist_years": "1926-2018",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "",
+      "card_front_url": "cards/klug_aaron_front.png",
+      "card_back_url": "cards/klug_aaron_back.png",
+      "student_name": "Susanna Kast",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2516,5 +2527,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:21:26.565Z"
+  "last_updated": "2026-01-27T23:21:36.447Z"
 }
