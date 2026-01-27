@@ -3145,6 +3145,17 @@
       "card_back_url": "cards/benson_andrew_back.png",
       "student_name": "Emma Coatsworth",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "julian_percy",
+      "scientist_name": "Percy Julian",
+      "scientist_years": "1899-1975",
+      "era": "Other",
+      "contribution": "The first to achieve total synthesis of physostigmine, treatment for glaucoma.",
+      "card_front_url": "cards/julian_percy_front.png",
+      "card_back_url": "cards/julian_percy_back.png",
+      "student_name": "Joshua VanDoornik",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3165,5 +3176,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:53.215Z"
+  "last_updated": "2026-01-27T23:29:59.738Z"
 }
