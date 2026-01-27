@@ -1814,6 +1814,17 @@
       "card_back_url": "cards/cech_thomas_back.png",
       "student_name": "Mylie McDonough",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kan_yuet",
+      "scientist_name": "Yuet Wai Kan",
+      "scientist_years": "1936-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Yuet Wai Kan revolutionized modern medicine by pioneering the use of DNA polymorphism to create the first-ever prenatal genetic tests for disorders like sickle cell anemia and thalassemia.",
+      "card_front_url": "cards/kan_yuet_front.png",
+      "card_back_url": "cards/kan_yuet_back.png",
+      "student_name": "Irene Wang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1834,5 +1845,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:13:55.018Z"
+  "last_updated": "2026-01-27T23:14:02.773Z"
 }
