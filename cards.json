@@ -1319,6 +1319,17 @@
       "card_back_url": "cards/ramakrishnan_venkatraman_back.png",
       "student_name": "Dongze Li ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "moult_john",
+      "scientist_name": "John Moult",
+      "scientist_years": "1943?Present (Estimated birth based on 1965 BSc)",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Founded the Critical Assessment of Protein Structure Prediction (CASP), the rigorous \"blind test\" that ultimately validated the solution to the 50-year protein folding problem.",
+      "card_front_url": "cards/moult_john_front.png",
+      "card_back_url": "cards/moult_john_back.png",
+      "student_name": "Maisie Page",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1339,5 +1350,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:05:31.461Z"
+  "last_updated": "2026-01-27T23:05:35.208Z"
 }
