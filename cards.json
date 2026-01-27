@@ -1539,6 +1539,17 @@
       "card_back_url": "cards/wagner_gerhard_back.png",
       "student_name": "Olivia Lasnicki",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "voigt_christopher",
+      "scientist_name": "Christopher Voigt",
+      "scientist_years": "1976-",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "He pioneered the idea that living cells can be programmed like computers, creating tools that let scientists design and control complex genetic behavior with code.",
+      "card_front_url": "cards/voigt_christopher_front.png",
+      "card_back_url": "cards/voigt_christopher_back.png",
+      "student_name": "Joanne Yang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1559,5 +1570,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:08:19.407Z"
+  "last_updated": "2026-01-27T23:08:48.081Z"
 }
