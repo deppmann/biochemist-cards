@@ -2023,6 +2023,17 @@
       "card_back_url": "cards/hardie_grahame_back.png",
       "student_name": "Allegra Williams",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "yanofsky_charles",
+      "scientist_name": "Charles Yanofsky",
+      "scientist_years": "1925-2018",
+      "era": "Metabolic Revolutions",
+      "contribution": "Charles Yanofsky discovered and established the relationship between genes and proteins determining that changes in DNA sequences would result in changes in proteins.",
+      "card_front_url": "cards/yanofsky_charles_front.png",
+      "card_back_url": "cards/yanofsky_charles_back.png",
+      "student_name": "Elaine Christian",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2043,5 +2054,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:16:15.998Z"
+  "last_updated": "2026-01-27T23:16:25.634Z"
 }
