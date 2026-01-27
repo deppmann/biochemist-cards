@@ -1363,6 +1363,17 @@
       "card_back_url": "cards/karik_katalin_back.png",
       "student_name": "Natalie Torrence ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "horwich_arthur",
+      "scientist_name": "Arthur Horwich",
+      "scientist_years": "1951 - present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Arthur Horwich revolutionized biochemistry by discovering that proteins do not always fold spontaneously, but often require specialized molecular machines called chaperonins to reach their functional shapes.",
+      "card_front_url": "cards/horwich_arthur_front.png",
+      "card_back_url": "cards/horwich_arthur_back.png",
+      "student_name": "Esha Jain",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1383,5 +1394,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:05:54.597Z"
+  "last_updated": "2026-01-27T23:05:56.477Z"
 }
