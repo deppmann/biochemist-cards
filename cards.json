@@ -2232,6 +2232,17 @@
       "card_back_url": "cards/roeder_robert_back.png",
       "student_name": "Jeric Marcelin",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hotamlgil_gkhan",
+      "scientist_name": "G?khan S?dd?k Hotam??l?gil",
+      "scientist_years": "1962-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "G?khan S?dd?k Hotam??l?gil helped found immunometabolism by proving that obesity triggers inflammatory signals (like TNF-? and JNK) that directly sabotage insulin signaling, reframing type 2 diabetes as an inflammation-linked metabolic disease.",
+      "card_front_url": "cards/hotamlgil_gkhan_front.png",
+      "card_back_url": "cards/hotamlgil_gkhan_back.png",
+      "student_name": "Aidita Sou",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2252,5 +2263,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:18:32.910Z"
+  "last_updated": "2026-01-27T23:18:36.175Z"
 }
