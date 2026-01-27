@@ -846,6 +846,17 @@
       "card_back_url": "cards/bonner_james_back.png",
       "student_name": "Ruby Heitmann",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "moore_melissa",
+      "scientist_name": "Melissa Moore",
+      "scientist_years": "1964-present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Melissa J. Moore helped transform RNA biology into a therapeutic reality by revealing how mRNA is processed and controlled in cells and then translating that knowledge into the mRNA technologies that underpin modern vaccines.",
+      "card_front_url": "cards/moore_melissa_front.png",
+      "card_back_url": "cards/moore_melissa_back.png",
+      "student_name": "Hannah Rowlett",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -866,5 +877,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:35.729Z"
+  "last_updated": "2026-01-27T23:00:38.501Z"
 }
