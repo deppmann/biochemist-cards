@@ -2441,6 +2441,17 @@
       "card_back_url": "cards/rathmell_jeffrey_back.png",
       "student_name": "Miranda Sculimbrene",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mcclintock_barbara",
+      "scientist_name": "Barbara McClintock",
+      "scientist_years": "1902?1992",
+      "era": "Metabolic Revolutions",
+      "contribution": "Barbara McClintock discovered transposons, or \"jumping genes,\" proving that the genome is a dynamic, shifting system rather than a static set of instructions.",
+      "card_front_url": "cards/mcclintock_barbara_front.png",
+      "card_back_url": "cards/mcclintock_barbara_back.png",
+      "student_name": "Asees Kaur",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2461,5 +2472,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:20:50.686Z"
+  "last_updated": "2026-01-27T23:21:01.545Z"
 }
