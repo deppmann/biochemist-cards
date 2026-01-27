@@ -1440,6 +1440,17 @@
       "card_back_url": "cards/kuntz_irwin_back.png",
       "student_name": "Thanvi Parupati",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "voit_carl",
+      "scientist_name": "Carl von Voit",
+      "scientist_years": "1831-1908",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Carl von Voit discovered that nitrogen balance could be used to measure protein metabolism, providing the first quantitative framework for understanding human and animal nutrition.",
+      "card_front_url": "cards/voit_carl_front.png",
+      "card_back_url": "cards/voit_carl_back.png",
+      "student_name": "Dillan Aguilar-Diaz",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1460,5 +1471,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:06:52.032Z"
+  "last_updated": "2026-01-27T23:07:08.011Z"
 }
