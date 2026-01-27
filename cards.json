@@ -3794,6 +3794,17 @@
       "card_back_url": "cards/newman_paul_back.png",
       "student_name": "Wyatt Packer",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "grunstein_michael",
+      "scientist_name": "Michael Grunstein",
+      "scientist_years": "1946-2024",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Michael Grunstein fundamentally transformed our understanding of genetics by demonstrating that histone proteins are active, dynamic regulators of gene expression rather than just inert structural packaging for DNA.",
+      "card_front_url": "cards/grunstein_michael_front.png",
+      "card_back_url": "cards/grunstein_michael_back.png",
+      "student_name": "Aneesh Naik",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3814,5 +3825,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:44:33.160Z"
+  "last_updated": "2026-01-27T23:44:37.964Z"
 }
