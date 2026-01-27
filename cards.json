@@ -1660,6 +1660,17 @@
       "card_back_url": "cards/jenner_edward_back.png",
       "student_name": "Connor Oakes",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "grigorieff_nikolaus",
+      "scientist_name": "Nikolaus Grigorieff",
+      "scientist_years": "1965-",
+      "era": "Structural Biology Revolution",
+      "contribution": "He developed the mathematical algorithms to correct \"beam-induced motion,\" transforming blurry cryo-EM images into atomic-resolution structures",
+      "card_front_url": "cards/grigorieff_nikolaus_front.png",
+      "card_back_url": "cards/grigorieff_nikolaus_back.png",
+      "student_name": "Collin Le",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1680,5 +1691,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:10:31.937Z"
+  "last_updated": "2026-01-27T23:10:46.725Z"
 }
