@@ -2628,6 +2628,17 @@
       "card_back_url": "cards/thornton_janet_back.png",
       "student_name": "Charlene Kim-Aun",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "birney_ewan",
+      "scientist_name": "Ewan Birney",
+      "scientist_years": "1972-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Ewan Birney is a pioneer in bioinformatics who co-founded the Ensembl genome browser and led the ENCODE project to map the functional elements of the human genome, transforming biology into a big-data science.",
+      "card_front_url": "cards/birney_ewan_front.png",
+      "card_back_url": "cards/birney_ewan_back.png",
+      "student_name": "Sailee Naik",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2648,5 +2659,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:23:20.195Z"
+  "last_updated": "2026-01-27T23:23:30.267Z"
 }
