@@ -538,6 +538,17 @@
       "card_back_url": "cards/shaw_reuben_back.png",
       "student_name": "Sarah Zhang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "black_james",
+      "scientist_name": "James Whyte Black ",
+      "scientist_years": "1924-2010",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "James Black revolutionized medicine by applying the \"lock and key\" principle to pharmacology, designing \"rational\" drugs like beta-blockers and H2-antagonists that precisely block specific cell receptors to treat heart disease and stomach ulcers. ",
+      "card_front_url": "cards/black_james_front.png",
+      "card_back_url": "cards/black_james_back.png",
+      "student_name": "Sarina Parikh",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -558,5 +569,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:57:23.582Z"
+  "last_updated": "2026-01-27T22:57:31.874Z"
 }
