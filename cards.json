@@ -1110,6 +1110,17 @@
       "card_back_url": "cards/wu_ray_back.png",
       "student_name": "Arav Mathapati",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "pert_candace",
+      "scientist_name": "Candace Beebe Pert",
+      "scientist_years": "1946-2013",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "She revolutionized neuroscience by discovering the opiate receptor, the cellular binding site for endorphins that proved the brain is hard-wired for bliss and paved the way for mind-body medicine.",
+      "card_front_url": "cards/pert_candace_front.png",
+      "card_back_url": "cards/pert_candace_back.png",
+      "student_name": "Rhea Sethi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1130,5 +1141,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:53.291Z"
+  "last_updated": "2026-01-27T23:03:03.516Z"
 }
