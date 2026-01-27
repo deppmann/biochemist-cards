@@ -3959,6 +3959,17 @@
       "card_back_url": "cards/scherer_philipp_back.png",
       "student_name": "Aditi Shanbhag",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "arnon_daniel",
+      "scientist_name": "Daniel Israel Arnon",
+      "scientist_years": "1950-2000",
+      "era": "Structural Biology Revolution",
+      "contribution": "Daniel Israel Arnon revolutionized our understanding of biology by discovering that chloroplasts can independently convert sunlight into chemical energy (ATP) through a process called photosynthetic phosphorylation.",
+      "card_front_url": "cards/arnon_daniel_front.png",
+      "card_back_url": "cards/arnon_daniel_back.png",
+      "student_name": "Jack David",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3979,5 +3990,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:53:34.548Z"
+  "last_updated": "2026-01-27T23:53:40.405Z"
 }
