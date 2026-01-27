@@ -2067,6 +2067,17 @@
       "card_back_url": "cards/furchgott_robert_back.png",
       "student_name": "Anita Hooshangi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bernard_ren",
+      "scientist_name": "Ren? Bernard",
+      "scientist_years": "1953-",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Developed the MammaPrint 70-gene signature, the first clinically used genomic test to predict breast cancer recurrence and spare patients unnecessary chemotherapy.",
+      "card_front_url": "cards/bernard_ren_front.png",
+      "card_back_url": "cards/bernard_ren_back.png",
+      "student_name": "Natasha Sanghvi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2087,5 +2098,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:16:54.144Z"
+  "last_updated": "2026-01-27T23:16:55.821Z"
 }
