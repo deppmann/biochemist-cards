@@ -2056,6 +2056,17 @@
       "card_back_url": "cards/emerson_robert_back.png",
       "student_name": "Henry Clark",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "furchgott_robert",
+      "scientist_name": "Robert Francis Furchgott",
+      "scientist_years": "1916?2009",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Robert Furchgott discovered that the endothelial lining of blood vessels produces a signaling molecule?now known as nitric oxide?that triggers smooth muscle relaxation and vasodilation.",
+      "card_front_url": "cards/furchgott_robert_front.png",
+      "card_back_url": "cards/furchgott_robert_back.png",
+      "student_name": "Anita Hooshangi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2076,5 +2087,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:16:49.729Z"
+  "last_updated": "2026-01-27T23:16:54.144Z"
 }
