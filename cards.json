@@ -549,6 +549,17 @@
       "card_back_url": "cards/black_james_back.png",
       "student_name": "Sarina Parikh",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bruice_thomas",
+      "scientist_name": "Thomas Charles Bruice",
+      "scientist_years": "1925-2019",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Thomas Charles Bruice revolutionized the life sciences by founding the field of bioorganic chemistry, providing the foundational molecular framework for understanding how the physical laws of organic chemistry govern the complex catalytic power of biological enzymes.",
+      "card_front_url": "cards/bruice_thomas_front.png",
+      "card_back_url": "cards/bruice_thomas_back.png",
+      "student_name": "Mark Dyman",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -569,5 +580,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:57:31.874Z"
+  "last_updated": "2026-01-27T22:57:38.079Z"
 }
