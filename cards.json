@@ -3266,6 +3266,17 @@
       "card_back_url": "cards/chatterjee_asima_back.png",
       "student_name": "Ajal Upadhyaya",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "anderson_daniel",
+      "scientist_name": "Daniel G. Anderson",
+      "scientist_years": "1973-",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Daniel G. Anderson revolutionized genetic medicine by developing ionizable lipid nanoparticles (LNPs) that safely transport fragile mRNA and CRISPR components directly into human cells.",
+      "card_front_url": "cards/anderson_daniel_front.png",
+      "card_back_url": "cards/anderson_daniel_back.png",
+      "student_name": "Arya Rajesh",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3286,5 +3297,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:31:41.512Z"
+  "last_updated": "2026-01-27T23:31:51.069Z"
 }
