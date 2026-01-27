@@ -703,6 +703,17 @@
       "card_back_url": "cards/perutz_max_back.png",
       "student_name": "Apichaya Kaewklom",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dyson_jane",
+      "scientist_name": "Jane Dyson",
+      "scientist_years": "1950s - Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Jane Dyson overturned the long-held \"lock and key\" dogma of structural biology by proving that many proteins lack a fixed 3D shape and instead rely on intrinsic, flexible disorder to function.",
+      "card_front_url": "cards/dyson_jane_front.png",
+      "card_back_url": "cards/dyson_jane_back.png",
+      "student_name": "Kami Petrosillo",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -723,5 +734,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:59:19.351Z"
+  "last_updated": "2026-01-27T22:59:22.711Z"
 }
