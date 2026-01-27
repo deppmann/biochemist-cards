@@ -3189,6 +3189,17 @@
       "card_back_url": "cards/mak_tak_back.png",
       "student_name": "Caroline Smith",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "elledge_stephen",
+      "scientist_name": "Stephen Elledge",
+      "scientist_years": "1956-",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Discovered the DNA damage response pathway (S-phase checkpoint) by realizing a \"failed\" antibody test was actually detecting a surge in repair enzymes.",
+      "card_front_url": "cards/elledge_stephen_front.png",
+      "card_back_url": "cards/elledge_stephen_back.png",
+      "student_name": "Grace Purinton",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3209,5 +3220,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:30:28.966Z"
+  "last_updated": "2026-01-27T23:30:35.293Z"
 }
