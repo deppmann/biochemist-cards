@@ -1638,6 +1638,17 @@
       "card_back_url": "cards/moerner_william_back.png",
       "student_name": "Linda Tol",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "pawson_tony",
+      "scientist_name": "Tony Pawson",
+      "scientist_years": "1952-2013",
+      "era": "Other",
+      "contribution": "Anthony James Pawson established that intracellular signal transduction is organized by modular protein?protein interaction domains, demonstrating through the discovery and functional characterization of the SH2 domain that tyrosine-phosphorylated proteins act as specific docking sites rather than signals being propagated by random diffusion.",
+      "card_front_url": "cards/pawson_tony_front.png",
+      "card_back_url": "cards/pawson_tony_back.png",
+      "student_name": "Shreya Shanmugan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1658,5 +1669,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:09:49.158Z"
+  "last_updated": "2026-01-27T23:10:14.723Z"
 }
