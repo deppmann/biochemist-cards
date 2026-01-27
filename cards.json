@@ -1598,12 +1598,12 @@
     {
       "id": "bergstrm_sune",
       "scientist_name": "Sune Bergstr?m",
-      "scientist_years": "1916-2004",
-      "era": "Other",
-      "contribution": "Sune Bergstr?m was the first to achieve the purification of prostaglandins in crystalline form and identify their structure, subsequently proving they are synthesized from polyunsaturated fatty acids like arachidonic acid.",
+      "scientist_years": "1916?2004",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "He achieved the first isolation and structural determination of prostaglandins, transforming our understanding of lipids from mere energy storage molecules into potent, ubiquitous signaling agents that regulate inflammation, blood pressure, and reproduction.",
       "card_front_url": "cards/bergstrm_sune_front.png",
       "card_back_url": "cards/bergstrm_sune_back.png",
-      "student_name": "Sarah Hinds",
+      "student_name": "Salma Haskett",
       "submitted_date": "2026-01-27"
     },
     {
@@ -1988,5 +1988,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:15:39.000Z"
+  "last_updated": "2026-01-27T23:15:46.562Z"
 }
