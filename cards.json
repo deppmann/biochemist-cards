@@ -1913,6 +1913,17 @@
       "card_back_url": "cards/smith_michael_back.png",
       "student_name": "Kaelyn Lewis",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "moore_stanford",
+      "scientist_name": "Stanford Moore",
+      "scientist_years": "1913-1982",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "",
+      "card_front_url": "cards/moore_stanford_front.png",
+      "card_back_url": "cards/moore_stanford_back.png",
+      "student_name": "Katharine Hall",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1933,5 +1944,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:53.777Z"
+  "last_updated": "2026-01-27T23:14:58.182Z"
 }
