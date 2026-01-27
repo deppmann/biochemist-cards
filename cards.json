@@ -3101,6 +3101,17 @@
       "card_back_url": "cards/lipman_david_back.png",
       "student_name": "Karan Malik",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hershko_avram",
+      "scientist_name": "Avram Hershko",
+      "scientist_years": "1937-Present",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Avram Hershko discovered the ubiquitin system, a cellular mechanism that uses ATP energy to tag specific proteins for destruction, thereby regulating critical processes like cell division and repair.",
+      "card_front_url": "cards/hershko_avram_front.png",
+      "card_back_url": "cards/hershko_avram_back.png",
+      "student_name": "Lily Ji",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3121,5 +3132,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:24.571Z"
+  "last_updated": "2026-01-27T23:29:29.058Z"
 }
