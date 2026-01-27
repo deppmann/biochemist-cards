@@ -1143,6 +1143,17 @@
       "card_back_url": "cards/rosbash_michael_back.png",
       "student_name": "Jadyn Schattner",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lippincott-schwartz_jennifer",
+      "scientist_name": "Jennifer Lippincott-Schwartz",
+      "scientist_years": "1952-",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Jennifer Lippincott-Schwartz transformed cell biology by revealing that cellular organelles are dynamic, continuously exchanging systems and by pioneering live-cell imaging approaches that treat microscopy as an active experimental probe rather than a static observational tool.",
+      "card_front_url": "cards/lippincott-schwartz_jennifer_front.png",
+      "card_back_url": "cards/lippincott-schwartz_jennifer_back.png",
+      "student_name": "Cecily Wainstein",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1163,5 +1174,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:03:14.846Z"
+  "last_updated": "2026-01-27T23:03:21.852Z"
 }
