@@ -1671,6 +1671,17 @@
       "card_back_url": "cards/grigorieff_nikolaus_back.png",
       "student_name": "Collin Le",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "felsenfeld_gary",
+      "scientist_name": "Gary Felsenfeld",
+      "scientist_years": "1929-2024",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "He discovered that the protein acts as a \"barrier\" on DNA, preventing gene activation signals or crossing into the wrong areas. ",
+      "card_front_url": "cards/felsenfeld_gary_front.png",
+      "card_back_url": "cards/felsenfeld_gary_back.png",
+      "student_name": "Maxwell Lu",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1691,5 +1702,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:10:46.725Z"
+  "last_updated": "2026-01-27T23:10:55.270Z"
 }
