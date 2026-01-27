@@ -1462,6 +1462,17 @@
       "card_back_url": "cards/koshland_daniel_back.png",
       "student_name": "Lada Dmytriyeva",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "beutler_bruce",
+      "scientist_name": "Bruce Beutler",
+      "scientist_years": "1957-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Bruce Alan Beutler transformed our understanding of the innate immune system by identifying the TLR4 receptor as the molecular \"eye\" that mammals use to detect and initiate a defense against bacterial infections.",
+      "card_front_url": "cards/beutler_bruce_front.png",
+      "card_back_url": "cards/beutler_bruce_back.png",
+      "student_name": "Syed Sarim",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1482,5 +1493,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:07:14.191Z"
+  "last_updated": "2026-01-27T23:07:30.244Z"
 }
