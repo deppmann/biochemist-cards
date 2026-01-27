@@ -87,6 +87,17 @@
       "card_back_url": "cards/kennard_olga_back.png",
       "student_name": "Ignacio Lafuente",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "clore_marius",
+      "scientist_name": "Marius Clore",
+      "scientist_years": "1955-Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "G. Marius Clore's primary contribution was the development of multidimensional NMR spectroscopy techniques, which allowed scientists for the first time to determine the high-resolution 3D structures of large proteins and nucleic acids directly in a liquid solution.",
+      "card_front_url": "cards/clore_marius_front.png",
+      "card_back_url": "cards/clore_marius_back.png",
+      "student_name": "Angelina Kim",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -107,5 +118,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:52:45.785Z"
+  "last_updated": "2026-01-27T22:52:56.837Z"
 }
