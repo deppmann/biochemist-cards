@@ -1825,6 +1825,17 @@
       "card_back_url": "cards/kan_yuet_back.png",
       "student_name": "Irene Wang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "noller_harry",
+      "scientist_name": "Harry Noller",
+      "scientist_years": "(1939-)",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Harry Noller transformed our understanding of life's origins by proving that the ribosome?the cell's protein-building factory?is fundamentally a ribozyme, meaning that its catalytic heart is composed of RNA rather than proteins.",
+      "card_front_url": "cards/noller_harry_front.png",
+      "card_back_url": "cards/noller_harry_back.png",
+      "student_name": "Madina Fayzieva",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1845,5 +1856,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:02.773Z"
+  "last_updated": "2026-01-27T23:14:09.111Z"
 }
