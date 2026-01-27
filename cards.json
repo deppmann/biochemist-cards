@@ -1044,6 +1044,17 @@
       "card_back_url": "cards/bustamante_carlos_back.png",
       "student_name": "Megana Kumar",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bell_stephen",
+      "scientist_name": "Stephen P. Bell",
+      "scientist_years": "1963",
+      "era": "DNA Structure & Replication",
+      "contribution": "Stephen Bell identified and characterized the Origin Recognition Complex (ORC), the first known eukaryotic protein complex that marks where DNA replication begins.",
+      "card_front_url": "cards/bell_stephen_front.png",
+      "card_back_url": "cards/bell_stephen_back.png",
+      "student_name": "Alexandra Whitehead",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1064,5 +1075,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:20.992Z"
+  "last_updated": "2026-01-27T23:02:27.169Z"
 }
