@@ -2122,6 +2122,17 @@
       "card_back_url": "cards/lane_david_back.png",
       "student_name": "Khushi Rana",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "nirenberg_marshall",
+      "scientist_name": "Marshall Nirenberg",
+      "scientist_years": "1927-2010",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Marshall Nirenberg deciphered the genetic code.",
+      "card_front_url": "cards/nirenberg_marshall_front.png",
+      "card_back_url": "cards/nirenberg_marshall_back.png",
+      "student_name": "Ariana Ipakchi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2142,5 +2153,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:19.687Z"
+  "last_updated": "2026-01-27T23:17:26.359Z"
 }
