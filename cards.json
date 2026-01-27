@@ -670,6 +670,17 @@
       "card_back_url": "cards/payen_anselme_back.png",
       "student_name": "Veda Akula",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wilkins_maurice",
+      "scientist_name": "Maurice Wilkins ",
+      "scientist_years": "1916-2004",
+      "era": "DNA Structure & Replication",
+      "contribution": "He pioneered the X-ray diffraction analysis of DNA fibers and provided the critical experimental evidence, including the deduction of the external phosphate backbone,that verified the double helix structure.",
+      "card_front_url": "cards/wilkins_maurice_front.png",
+      "card_back_url": "cards/wilkins_maurice_back.png",
+      "student_name": "Menna Helal",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -690,5 +701,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:56.749Z"
+  "last_updated": "2026-01-27T22:58:59.679Z"
 }
