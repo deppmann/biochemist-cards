@@ -2617,6 +2617,17 @@
       "card_back_url": "cards/wilson_james_back.png",
       "student_name": "Soroush Rohani",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "thornton_janet",
+      "scientist_name": "Janet Thornton",
+      "scientist_years": "1949-present",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "She developed PROCHECK, the protein structure validation software, and CATH, the classification system.",
+      "card_front_url": "cards/thornton_janet_front.png",
+      "card_back_url": "cards/thornton_janet_back.png",
+      "student_name": "Charlene Kim-Aun",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2637,5 +2648,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:23:13.387Z"
+  "last_updated": "2026-01-27T23:23:20.195Z"
 }
