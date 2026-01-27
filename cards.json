@@ -2793,6 +2793,17 @@
       "card_back_url": "cards/doudna_jennifer_back.png",
       "student_name": "Ryan Makarem ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "high_katherine",
+      "scientist_name": "Katherine A. High",
+      "scientist_years": "1952?Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Led the team that achieved the first FDA approval for a gene therapy to treat a genetic disease, using bioengineered viral shells to deliver functional genes.",
+      "card_front_url": "cards/high_katherine_front.png",
+      "card_back_url": "cards/high_katherine_back.png",
+      "student_name": "Rebecca Qiu",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2813,5 +2824,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:25:11.482Z"
+  "last_updated": "2026-01-27T23:25:18.909Z"
 }
