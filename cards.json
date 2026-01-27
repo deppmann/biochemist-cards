@@ -2419,6 +2419,17 @@
       "card_back_url": "cards/wang_xiaodong_back.png",
       "student_name": "Diana Zhang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "moussa_sameira",
+      "scientist_name": "Sameira Moussa",
+      "scientist_years": "1917?1952",
+      "era": "Other",
+      "contribution": "She developed a mathematical equation to break the atoms of cheap metals like copper, facilitating the production of affordable medical radioisotopes",
+      "card_front_url": "cards/moussa_sameira_front.png",
+      "card_back_url": "cards/moussa_sameira_back.png",
+      "student_name": "Anandita Hussain",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2439,5 +2450,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:20:41.222Z"
+  "last_updated": "2026-01-27T23:20:47.716Z"
 }
