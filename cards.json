@@ -1451,6 +1451,17 @@
       "card_back_url": "cards/voit_carl_back.png",
       "student_name": "Dillan Aguilar-Diaz",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "koshland_daniel",
+      "scientist_name": "Daniel Koshland",
+      "scientist_years": "1920-2007",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Daniel Koshland?s most significant contribution was proposing the \"Induced Fit\" model of enzyme catalysis, which revolutionized our understanding by showing that enzymes are flexible structures that reshape themselves to perfectly wrap around a substrate, rather than being rigid \"locks\" for \"keys.\"",
+      "card_front_url": "cards/koshland_daniel_front.png",
+      "card_back_url": "cards/koshland_daniel_back.png",
+      "student_name": "Lada Dmytriyeva",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1471,5 +1482,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:07:08.011Z"
+  "last_updated": "2026-01-27T23:07:14.191Z"
 }
