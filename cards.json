@@ -2848,6 +2848,17 @@
       "card_back_url": "cards/alberts_alfred_back.png",
       "student_name": "Dylan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "shemin_robert",
+      "scientist_name": "Robert Shemin",
+      "scientist_years": "1911-1991",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "David Shemin used his own body as an experimental vessel by ingesting isotope-labeled glycine to prove it is the primary precursor for heme and to determine the exact 127-day lifespan of the human red blood cell.",
+      "card_front_url": "cards/shemin_robert_front.png",
+      "card_back_url": "cards/shemin_robert_back.png",
+      "student_name": "Elizabeth Drauszewski",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2868,5 +2879,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:25:47.906Z"
+  "last_updated": "2026-01-27T23:25:51.518Z"
 }
