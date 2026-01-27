@@ -2760,6 +2760,17 @@
       "card_back_url": "cards/saenger_wolfram_back.png",
       "student_name": "Nora Lash",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "doisy_edward",
+      "scientist_name": "Edward Doisy",
+      "scientist_years": "1893-1986",
+      "era": "Vitamins & Nutrition",
+      "contribution": "He isolated the first crystalline sex hormone (estrone) and determined the chemical structure of Vitamin K, enabling its synthesis to prevent fatal hemorrhaging in newborns and surgical patients.",
+      "card_front_url": "cards/doisy_edward_front.png",
+      "card_back_url": "cards/doisy_edward_back.png",
+      "student_name": "Raj Bhowmic",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2780,5 +2791,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:24:49.111Z"
+  "last_updated": "2026-01-27T23:24:53.823Z"
 }
