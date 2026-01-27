@@ -593,6 +593,17 @@
       "card_back_url": "cards/huber_robert_back.png",
       "student_name": "Nicholas Cormas",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chance_britton",
+      "scientist_name": "Britton Chance",
+      "scientist_years": "1913-2010",
+      "era": "Metabolic Revolutions",
+      "contribution": "Britton Chance revolutionized biochemistry by developing high-speed electronic instrumentation, such as the stopped-flow apparatus, which provided the first experimental verification of the transient enzyme-substrate complex and mapped the fundamental respiratory stages of the mitochondria.",
+      "card_front_url": "cards/chance_britton_front.png",
+      "card_back_url": "cards/chance_britton_back.png",
+      "student_name": "Kathryn Boerckel",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -613,5 +624,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:00.584Z"
+  "last_updated": "2026-01-27T22:58:04.580Z"
 }
