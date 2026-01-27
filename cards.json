@@ -3970,6 +3970,17 @@
       "card_back_url": "cards/arnon_daniel_back.png",
       "student_name": "Jack David",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "richardson_charles",
+      "scientist_name": "Charles Clifton Richardson",
+      "scientist_years": "1935-Current",
+      "era": "DNA Structure & Replication",
+      "contribution": "Charles Clifton Richardson revolutionized molecular biology by discovering that the protein thioredoxin acts as a physical \"sliding clamp\" for T7 DNA polymerase, a breakthrough that allowed him to engineer Sequenase, the enzyme that powered the era of rapid DNA sequencing.",
+      "card_front_url": "cards/richardson_charles_front.png",
+      "card_back_url": "cards/richardson_charles_back.png",
+      "student_name": "Nishita Koya",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3990,5 +4001,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:53:52.861Z"
+  "last_updated": "2026-01-27T23:54:36.119Z"
 }
