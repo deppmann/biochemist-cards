@@ -274,6 +274,17 @@
       "card_back_url": "cards/mizushima_noboru_back.png",
       "student_name": "Alex Xu",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "matthaei_heinrich",
+      "scientist_name": "Heinrich Matthaei",
+      "scientist_years": "1929?2025",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Heinrich Matthaei?s primary contribution was the conception and execution of Experiment 27Q, which successfully decoded the first \"word\" of the genetic language by proving that the RNA sequence poly-U directs the synthesis of the amino acid phenylalanine.",
+      "card_front_url": "cards/matthaei_heinrich_front.png",
+      "card_back_url": "cards/matthaei_heinrich_back.png",
+      "student_name": "Ziya Jasani",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -294,5 +305,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:54:59.986Z"
+  "last_updated": "2026-01-27T22:55:04.421Z"
 }
