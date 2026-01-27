@@ -1242,6 +1242,17 @@
       "card_back_url": "cards/jessell_thomas_back.png",
       "student_name": "Eric Yeatts",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "stillman_bruce",
+      "scientist_name": "Bruce Stillman",
+      "scientist_years": "1953 -",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Bruce Stillman discovered the Origin Recognition Complex (ORC), the essential protein machinery that marks the starting points for DNA replication in eukaryotic cells and ensures the genome is copied exactly once per cell cycle to prevent genetic instability.",
+      "card_front_url": "cards/stillman_bruce_front.png",
+      "card_back_url": "cards/stillman_bruce_back.png",
+      "student_name": "Bennett Owen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1262,5 +1273,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:04:32.923Z"
+  "last_updated": "2026-01-27T23:04:37.123Z"
 }
