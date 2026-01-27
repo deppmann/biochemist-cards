@@ -21,6 +21,17 @@
       "card_back_url": "cards/menton_maud_back.png",
       "student_name": "Billy Rumple",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lipman_fritz",
+      "scientist_name": "Fritz Lipman",
+      "scientist_years": "1899-1986",
+      "era": "Metabolic Revolutions",
+      "contribution": "The Architect of Bioenergy",
+      "card_front_url": "cards/lipman_fritz_front.png",
+      "card_back_url": "cards/lipman_fritz_back.png",
+      "student_name": "C dizzle",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -41,5 +52,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T15:45:10.464Z"
+  "last_updated": "2026-01-27T15:50:59.740Z"
 }
