@@ -2573,6 +2573,17 @@
       "card_back_url": "cards/menten_maud_back.png",
       "student_name": "Hajer Anjum",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "keasling_jay",
+      "scientist_name": "Jay Keasling",
+      "scientist_years": "1964 - present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Jay D. Keasling engineered yeast to produce semi-synthetic artemisinin by identifying and integrating the CYP71AV1 enzyme into a modified metabolic pathway, revolutionizing global malaria treatment.",
+      "card_front_url": "cards/keasling_jay_front.png",
+      "card_back_url": "cards/keasling_jay_back.png",
+      "student_name": "Noor Zahid",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2593,5 +2604,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:22:42.655Z"
+  "last_updated": "2026-01-27T23:22:44.446Z"
 }
