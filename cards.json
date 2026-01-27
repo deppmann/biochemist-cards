@@ -2958,6 +2958,17 @@
       "card_back_url": "cards/hall_lloyd_back.png",
       "student_name": "Maggie Wallace",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dam_henrik",
+      "scientist_name": "Henrik Dam",
+      "scientist_years": "1895-1976",
+      "era": "Vitamins & Nutrition",
+      "contribution": "He discovered vitamin K, revealing a previously unknown fat-soluble nutrient essential for blood clotting and transforming the prevention and treatment of life-threatening bleeding, especially in newborns.",
+      "card_front_url": "cards/dam_henrik_front.png",
+      "card_back_url": "cards/dam_henrik_back.png",
+      "student_name": "Asfar Chaudhry",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2978,5 +2989,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:27:02.123Z"
+  "last_updated": "2026-01-27T23:27:15.583Z"
 }
