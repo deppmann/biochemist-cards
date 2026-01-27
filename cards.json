@@ -1803,6 +1803,17 @@
       "card_back_url": "cards/meyerson_matthew_back.png",
       "student_name": "Maura Saad",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cech_thomas",
+      "scientist_name": "Thomas Cech",
+      "scientist_years": "1947-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Thomas Cech discovered that RNA can function as an enzyme, fundamentally reshaping our understanding of molecular biology and gene regulation.",
+      "card_front_url": "cards/cech_thomas_front.png",
+      "card_back_url": "cards/cech_thomas_back.png",
+      "student_name": "Mylie McDonough",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1823,5 +1834,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:13:42.804Z"
+  "last_updated": "2026-01-27T23:13:55.018Z"
 }
