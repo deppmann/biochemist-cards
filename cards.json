@@ -1869,6 +1869,17 @@
       "card_back_url": "cards/porter_keith_back.png",
       "student_name": "Sophie Kaplan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "warshel_ariel",
+      "scientist_name": "Ariel Warshel",
+      "scientist_years": "1940-",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Arieh Warshel revolutionized biochemistry by developing QM/MM multiscale models, a hybrid computational approach that allows scientists to simulate complex biological functions by treating active chemical sites with quantum mechanics while modeling the rest of the protein structure with classical physics.",
+      "card_front_url": "cards/warshel_ariel_front.png",
+      "card_back_url": "cards/warshel_ariel_back.png",
+      "student_name": "Seeya Patel",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1889,5 +1900,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:18.199Z"
+  "last_updated": "2026-01-27T23:14:27.063Z"
 }
