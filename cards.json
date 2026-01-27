@@ -147,11 +147,11 @@
       "id": "theorell_hugo",
       "scientist_name": "Hugo Theorell",
       "scientist_years": "1903-1982",
-      "era": "Metabolic Revolutions",
-      "contribution": "Hugo Theorell revolutionized enzymology by being the first to split the \"yellow enzyme\" into its two essential parts?a protein and a vitamin-derived cofactor?thereby revealing the chemical mechanism of how enzymes facilitate cellular respiration.",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Elucidated the structure and function of oxidation enzymes, laying the foundation for modern enzymology.",
       "card_front_url": "cards/theorell_hugo_front.png",
       "card_back_url": "cards/theorell_hugo_back.png",
-      "student_name": "Jenny Chen",
+      "student_name": "Haripriya Reddymachu",
       "submitted_date": "2026-01-27"
     },
     {
@@ -1999,5 +1999,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:15:47.917Z"
+  "last_updated": "2026-01-27T23:15:53.684Z"
 }
