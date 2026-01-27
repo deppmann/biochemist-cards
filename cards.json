@@ -2346,9 +2346,9 @@
     {
       "id": "collins_francis",
       "scientist_name": "Francis Collins",
-      "scientist_years": "1950-Present",
+      "scientist_years": "1950-Current",
       "era": "Genomics & Bioinformatics Era",
-      "contribution": "Major contributor of the human genome project, and discovered the phenylalanine CFTR deletion contributing to cystic fibrosis. ",
+      "contribution": "Major contributor of the human genome project, and helped discover phenylalanine deletion as major cause of cystic fibrosis.",
       "card_front_url": "cards/collins_francis_front.png",
       "card_back_url": "cards/collins_francis_back.png",
       "student_name": "Kate McCool",
@@ -3220,5 +3220,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:30:35.293Z"
+  "last_updated": "2026-01-27T23:30:41.417Z"
 }
