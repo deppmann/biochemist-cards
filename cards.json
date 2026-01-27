@@ -3178,6 +3178,17 @@
       "card_back_url": "cards/mendel_lafayette_back.png",
       "student_name": "Annika Bhargava",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mak_tak",
+      "scientist_name": "Tak Wah Mak",
+      "scientist_years": "1946-present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Tak Wah Mak was a revolutionary scientist in his discovery of the T-cell receptor. ",
+      "card_front_url": "cards/mak_tak_front.png",
+      "card_back_url": "cards/mak_tak_back.png",
+      "student_name": "Caroline Smith",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3198,5 +3209,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:30:16.719Z"
+  "last_updated": "2026-01-27T23:30:28.966Z"
 }
