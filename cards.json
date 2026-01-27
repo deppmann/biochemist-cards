@@ -2089,6 +2089,17 @@
       "card_back_url": "cards/rutter_william_back.png",
       "student_name": "Tanner DeShazo",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kaplan_nathan",
+      "scientist_name": "Nathan O. Kaplan",
+      "scientist_years": "1917-1986",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Nathan O. Kaplan revolutionized the field of biochemistry by determining the structure of Coenzyme A and co-founding the monumental Methods in Enzymology series, which became the definitive technical guide for generations of researchers.",
+      "card_front_url": "cards/kaplan_nathan_front.png",
+      "card_back_url": "cards/kaplan_nathan_back.png",
+      "student_name": "Nathan David",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2109,5 +2120,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:03.146Z"
+  "last_updated": "2026-01-27T23:17:05.221Z"
 }
