@@ -560,6 +560,17 @@
       "card_back_url": "cards/bruice_thomas_back.png",
       "student_name": "Mark Dyman",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lynch_lydia",
+      "scientist_name": "Lydia Lynch",
+      "scientist_years": "1972- present ",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "The Era Selected is when Lydia Lynch discovered the Policemen of the Abdomen, which was one of her more significant findings in her career. ",
+      "card_front_url": "cards/lynch_lydia_front.png",
+      "card_back_url": "cards/lynch_lydia_back.png",
+      "student_name": "Sloan Stanton",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -580,5 +591,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:57:38.079Z"
+  "last_updated": "2026-01-27T22:57:45.341Z"
 }
