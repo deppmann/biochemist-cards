@@ -494,6 +494,17 @@
       "card_back_url": "cards/khorana_har_back.png",
       "student_name": "Brianna Lazear",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sudhof_thomas",
+      "scientist_name": "Thomas Sudhof",
+      "scientist_years": "1955-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Thomas S?dhof decoded the molecular \"logic\" of the brain by identifying the protein machinery, specifically synaptotagmin, that allows neurons to release neurotransmitters with the near-instantaneous precision required for human thought and movement.",
+      "card_front_url": "cards/sudhof_thomas_front.png",
+      "card_back_url": "cards/sudhof_thomas_back.png",
+      "student_name": "Liam",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -514,5 +525,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:57:00.360Z"
+  "last_updated": "2026-01-27T22:57:05.274Z"
 }
