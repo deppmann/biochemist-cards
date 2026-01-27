@@ -2408,6 +2408,17 @@
       "card_back_url": "cards/schreiber_stuart_back.png",
       "student_name": "Lauren Merola",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wang_xiaodong",
+      "scientist_name": "Xiaodong Wang",
+      "scientist_years": "1963 - ",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Xiaodong Wang's groundbreaking discovery of the apoptosome revealed how mitochondria trigger programmed cell death, revolutionizing our understanding of cellular biology and cancer.",
+      "card_front_url": "cards/wang_xiaodong_front.png",
+      "card_back_url": "cards/wang_xiaodong_back.png",
+      "student_name": "Diana Zhang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2428,5 +2439,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:20:31.029Z"
+  "last_updated": "2026-01-27T23:20:41.222Z"
 }
