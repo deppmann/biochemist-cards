@@ -3673,6 +3673,17 @@
       "card_back_url": "cards/tsui_lap-chee_back.png",
       "student_name": "Clarissa Tso",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "joliot_pierre",
+      "scientist_name": "Pierre Joliot",
+      "scientist_years": "1932-",
+      "era": "Metabolic Revolutions",
+      "contribution": "Demonstrated period-four oscillations in oxygen evolution during photosynthesis.",
+      "card_front_url": "cards/joliot_pierre_front.png",
+      "card_back_url": "cards/joliot_pierre_back.png",
+      "student_name": "Millie Degefa",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3693,5 +3704,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:39:33.252Z"
+  "last_updated": "2026-01-27T23:39:40.427Z"
 }
