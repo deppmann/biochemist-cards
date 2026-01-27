@@ -3629,6 +3629,17 @@
       "card_back_url": "cards/subbarow_yellapragada_back.png",
       "student_name": "Samsher Malhi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kariko_katalin",
+      "scientist_name": "Katalin Kariko",
+      "scientist_years": "1955- present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "She developed modified mRNA that aviods immune detection, enabling safe and effective mRNA vaccines. ",
+      "card_front_url": "cards/kariko_katalin_front.png",
+      "card_back_url": "cards/kariko_katalin_back.png",
+      "student_name": "Caitlyn Martin",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3649,5 +3660,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:38:09.416Z"
+  "last_updated": "2026-01-27T23:38:16.925Z"
 }
