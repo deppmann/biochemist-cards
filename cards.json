@@ -1220,6 +1220,17 @@
       "card_back_url": "cards/anfinsen_christian_back.png",
       "student_name": "Peyton Cochran",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "gronenborn_angela",
+      "scientist_name": "Angela Gronenborn",
+      "scientist_years": "1949-Present ",
+      "era": "Other",
+      "contribution": "Angela Gronenborn transformed structural biology by pioneering the use of multidimensional NMR to reveal how proteins move and function in solution, including key HIV proteins that could not be studied by traditional methods.",
+      "card_front_url": "cards/gronenborn_angela_front.png",
+      "card_back_url": "cards/gronenborn_angela_back.png",
+      "student_name": "Gabriela Kobak ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1240,5 +1251,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:04:14.902Z"
+  "last_updated": "2026-01-27T23:04:26.296Z"
 }
