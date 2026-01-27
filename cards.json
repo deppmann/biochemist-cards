@@ -1682,6 +1682,17 @@
       "card_back_url": "cards/felsenfeld_gary_back.png",
       "student_name": "Maxwell Lu",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "altman_sidney",
+      "scientist_name": "Sidney Altman",
+      "scientist_years": "1939-2022",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Altman was a candian american biologist that discovered how RNA can function as an enzyme.",
+      "card_front_url": "cards/altman_sidney_front.png",
+      "card_back_url": "cards/altman_sidney_back.png",
+      "student_name": "Morgan Mackey",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1702,5 +1713,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:11:12.212Z"
+  "last_updated": "2026-01-27T23:11:14.006Z"
 }
