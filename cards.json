@@ -2501,11 +2501,11 @@
       "id": "klug_aaron",
       "scientist_name": "Aaron Klug",
       "scientist_years": "1926-2018",
-      "era": "Genetic Code & Protein Synthesis",
-      "contribution": "",
+      "era": "Structural Biology Revolution",
+      "contribution": "\"He developed crystallographic electron microscopy to transform 2D images into 3D structures and discovered the zinc finger DNA-binding motif.\"",
       "card_front_url": "cards/klug_aaron_front.png",
       "card_back_url": "cards/klug_aaron_back.png",
-      "student_name": "Susanna Kast",
+      "student_name": "Luke Linares",
       "submitted_date": "2026-01-27"
     },
     {
@@ -2989,5 +2989,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:27:15.583Z"
+  "last_updated": "2026-01-27T23:27:19.380Z"
 }
