@@ -1935,6 +1935,17 @@
       "card_back_url": "cards/fire_andrew_back.png",
       "student_name": "Jasmine Lobana",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "elion_gertrude",
+      "scientist_name": "Gertrude Elion",
+      "scientist_years": "1918-1999",
+      "era": "Other",
+      "contribution": "Gertrude Elion revolutionized medicine by pioneering rational drug design, creating targeted therapies that transformed the treatment of cancer, viral infections, autoimmune diseases, and organ transplant rejection.",
+      "card_front_url": "cards/elion_gertrude_front.png",
+      "card_back_url": "cards/elion_gertrude_back.png",
+      "student_name": "Manahil Siddiqui",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1955,5 +1966,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:15:00.995Z"
+  "last_updated": "2026-01-27T23:15:05.921Z"
 }
