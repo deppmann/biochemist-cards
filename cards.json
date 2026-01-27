@@ -890,6 +890,17 @@
       "card_back_url": "cards/salas_margarita_back.png",
       "student_name": "Dami Ayandipo",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "yuan_junying",
+      "scientist_name": "Junying Yuan",
+      "scientist_years": "1958-",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Junying Yuan is a pioneering cell biologist whose landmark research established that cell death is a genetically programmed and biochemically regulated process rather than an accidental event, most notably through her discovery of the evolutionarily conserved role of caspases in apoptosis and her identification of necroptosis as a form of programmed necrosis.",
+      "card_front_url": "cards/yuan_junying_front.png",
+      "card_back_url": "cards/yuan_junying_back.png",
+      "student_name": "Je Young Yoo",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -910,5 +921,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:50.298Z"
+  "last_updated": "2026-01-27T23:00:59.621Z"
 }
