@@ -450,6 +450,17 @@
       "card_back_url": "cards/guttman_mitchell_back.png",
       "student_name": "Reid Miller",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ramalingaswami_vulimiri",
+      "scientist_name": "Vulimiri Ramalingaswami",
+      "scientist_years": "1921-2001",
+      "era": "Vitamins & Nutrition",
+      "contribution": "Vulimiri Ramalingaswami transformed global public health by proving that simple nutritional interventions, especially iodized salt and iron supplementation, could prevent widespread disease and protect hundreds of millions from malnutrition and disability.",
+      "card_front_url": "cards/ramalingaswami_vulimiri_front.png",
+      "card_back_url": "cards/ramalingaswami_vulimiri_back.png",
+      "student_name": "Leann Vo",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -470,5 +481,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:28.667Z"
+  "last_updated": "2026-01-27T22:56:37.524Z"
 }
