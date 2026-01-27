@@ -76,6 +76,17 @@
       "card_back_url": "cards/nagai_kiyoshi_back.png",
       "student_name": "Julian Kim",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kennard_olga",
+      "scientist_name": "Olga Kennard",
+      "scientist_years": "1924-2023",
+      "era": "Structural Biology Revolution",
+      "contribution": "Engaging with diverse perspectives is essential for fostering innovation and driving meaningful progress.",
+      "card_front_url": "cards/kennard_olga_front.png",
+      "card_back_url": "cards/kennard_olga_back.png",
+      "student_name": "Ignacio Lafuente",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -96,5 +107,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:52:38.844Z"
+  "last_updated": "2026-01-27T22:52:45.785Z"
 }
