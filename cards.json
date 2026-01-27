@@ -65,6 +65,17 @@
       "card_back_url": "cards/hardy_john_back.png",
       "student_name": "Susanna Stair",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "nagai_kiyoshi",
+      "scientist_name": "Kiyoshi Nagai",
+      "scientist_years": "1949?2019",
+      "era": "Structural Biology Revolution",
+      "contribution": "Kiyoshi Nagai pioneered the structural biology of the spliceosome, transforming our understanding of gene expression by proving through atomic-resolution imaging that this massive molecular machine is a dynamic, RNA-driven ribozyme.",
+      "card_front_url": "cards/nagai_kiyoshi_front.png",
+      "card_back_url": "cards/nagai_kiyoshi_back.png",
+      "student_name": "Julian Kim",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -85,5 +96,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:52:28.577Z"
+  "last_updated": "2026-01-27T22:52:38.844Z"
 }
