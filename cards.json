@@ -1946,6 +1946,17 @@
       "card_back_url": "cards/elion_gertrude_back.png",
       "student_name": "Manahil Siddiqui",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bois_justin",
+      "scientist_name": "Justin A. Du Bois",
+      "scientist_years": "1974-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Developed powerful chemical biology tools to reveal how redox modifications regulate protein function and cellular signaling.",
+      "card_front_url": "cards/bois_justin_front.png",
+      "card_back_url": "cards/bois_justin_back.png",
+      "student_name": "Brian Fang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1966,5 +1977,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:15:05.921Z"
+  "last_updated": "2026-01-27T23:15:20.632Z"
 }
