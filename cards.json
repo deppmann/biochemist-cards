@@ -1412,11 +1412,11 @@
       "id": "hitchings_george",
       "scientist_name": "George Hitchings ",
       "scientist_years": "1905-1998",
-      "era": "Other",
-      "contribution": "He revolutionized medicine by introducing rational drug design, creating targeted therapies that transformed the treatment of cancer, infections, and immune disorders.",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Hitchings transformed the pharmaceutical industry with his creation of antimetabolites which mimic naturally occurring molecules in our bodies to trick the infectious cells to stop their growth.",
       "card_front_url": "cards/hitchings_george_front.png",
       "card_back_url": "cards/hitchings_george_back.png",
-      "student_name": "Isha Shah",
+      "student_name": "Bella Nolla",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3440,5 +3440,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:34:27.352Z"
+  "last_updated": "2026-01-27T23:34:40.229Z"
 }
