@@ -2606,6 +2606,17 @@
       "card_back_url": "cards/walter_peter_back.png",
       "student_name": "Hilda Joseph ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wilson_james",
+      "scientist_name": "James Wilson",
+      "scientist_years": "1955-Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "James Wilson did gene therapy by using viruses that are harmless to deliver healthy genes to patients.",
+      "card_front_url": "cards/wilson_james_front.png",
+      "card_back_url": "cards/wilson_james_back.png",
+      "student_name": "Soroush Rohani",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2626,5 +2637,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:23:02.967Z"
+  "last_updated": "2026-01-27T23:23:13.387Z"
 }
