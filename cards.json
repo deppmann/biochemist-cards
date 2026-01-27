@@ -3431,6 +3431,17 @@
       "card_back_url": "cards/hill_archibald_back.png",
       "student_name": "Elisabeth Bubay ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "darnell_james",
+      "scientist_name": "James E. Darnell",
+      "scientist_years": "1930 - Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "James E. Darnell Jr. transformed molecular biology by revealing how eukaryotic RNA is processed and regulated, linking gene expression to cellular signaling through mechanisms like the JAK?STAT pathway.",
+      "card_front_url": "cards/darnell_james_front.png",
+      "card_back_url": "cards/darnell_james_back.png",
+      "student_name": "Akhil Kalepalli",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3451,5 +3462,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:34:53.886Z"
+  "last_updated": "2026-01-27T23:35:00.234Z"
 }
