@@ -1506,6 +1506,17 @@
       "card_back_url": "cards/hur_sun_back.png",
       "student_name": "Huu Van Tu",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "winter_gregory",
+      "scientist_name": "Gregory Winter",
+      "scientist_years": "1951-current",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Sir Gregory Winter revolutionized medicine by applying enzymological principles to engineer the first humanized therapeutic antibodies and developing phage display technology for the directed evolution of proteins.",
+      "card_front_url": "cards/winter_gregory_front.png",
+      "card_back_url": "cards/winter_gregory_back.png",
+      "student_name": "Carter Fortune",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1526,5 +1537,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:07:52.916Z"
+  "last_updated": "2026-01-27T23:07:57.413Z"
 }
