@@ -2771,6 +2771,17 @@
       "card_back_url": "cards/doisy_edward_back.png",
       "student_name": "Raj Bhowmic",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "steitz_joan",
+      "scientist_name": "Joan Steitz",
+      "scientist_years": "1941-Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Joan Steitz?s discovery of the machinery behind RNA splicing elevated RNA from a supporting messenger to the star of cellular regulation.",
+      "card_front_url": "cards/steitz_joan_front.png",
+      "card_back_url": "cards/steitz_joan_back.png",
+      "student_name": "Catherine Mangione",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2791,5 +2802,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:24:53.823Z"
+  "last_updated": "2026-01-27T23:24:58.523Z"
 }
