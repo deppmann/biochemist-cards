@@ -3200,6 +3200,17 @@
       "card_back_url": "cards/elledge_stephen_back.png",
       "student_name": "Grace Purinton",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "huxley_hugh",
+      "scientist_name": "Hugh Huxley",
+      "scientist_years": "1924-2013",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Hugh Huxley established the sliding filament theory, fundamentally proving that muscle contraction results from the physical sliding of actin and myosin filaments driven by the cyclical action of ATP-powered cross-bridges.",
+      "card_front_url": "cards/huxley_hugh_front.png",
+      "card_back_url": "cards/huxley_hugh_back.png",
+      "student_name": "Paige Einstein",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3220,5 +3231,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:30:41.417Z"
+  "last_updated": "2026-01-27T23:30:43.095Z"
 }
