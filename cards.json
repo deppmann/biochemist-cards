@@ -1940,11 +1940,11 @@
       "id": "elion_gertrude",
       "scientist_name": "Gertrude Elion",
       "scientist_years": "1918-1999",
-      "era": "Other",
-      "contribution": "Gertrude Elion revolutionized medicine by pioneering rational drug design, creating targeted therapies that transformed the treatment of cancer, viral infections, autoimmune diseases, and organ transplant rejection.",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Gertrude Elion pioneered the methodology of \"rational drug design\" by synthesizing structural analogs of purines?most notably 6-mercaptopurine?that act as competitive inhibitors of nucleic acid metabolism, effectively blocking DNA replication in cancer cells and pathogens by mimicking their natural building blocks.",
       "card_front_url": "cards/elion_gertrude_front.png",
       "card_back_url": "cards/elion_gertrude_back.png",
-      "student_name": "Manahil Siddiqui",
+      "student_name": "Jackie Powers",
       "submitted_date": "2026-01-27"
     },
     {
@@ -2956,5 +2956,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:26:34.432Z"
+  "last_updated": "2026-01-27T23:26:44.341Z"
 }
