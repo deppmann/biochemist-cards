@@ -3244,6 +3244,17 @@
       "card_back_url": "cards/ochoa_severo_back.png",
       "student_name": "Hayoung Chung",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chappelle_emmett",
+      "scientist_name": "Emmett W. Chappelle",
+      "scientist_years": "1925-2019",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Capturing the Glow of Life",
+      "card_front_url": "cards/chappelle_emmett_front.png",
+      "card_back_url": "cards/chappelle_emmett_back.png",
+      "student_name": "Maj Vorsic",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3264,5 +3275,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:31:25.593Z"
+  "last_updated": "2026-01-27T23:31:35.427Z"
 }
