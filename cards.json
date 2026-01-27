@@ -1077,6 +1077,17 @@
       "card_back_url": "cards/weber_gregorio_back.png",
       "student_name": "Ahana Garimella",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "collins_james",
+      "scientist_name": "James Collins ",
+      "scientist_years": "1960-present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "James Collins pioneered the field of synthetic biology by engineering the first synthetic gene 'toggle switch,' demonstrating that living cells can be programmed with predictable, circuit-like controls to create next-generation diagnostics and therapeutics.",
+      "card_front_url": "cards/collins_james_front.png",
+      "card_back_url": "cards/collins_james_back.png",
+      "student_name": "Rosalin Watras",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1097,5 +1108,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:35.831Z"
+  "last_updated": "2026-01-27T23:02:40.245Z"
 }
