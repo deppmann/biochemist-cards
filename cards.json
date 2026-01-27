@@ -3035,6 +3035,17 @@
       "card_back_url": "cards/kendrew_john_back.png",
       "student_name": "Jalen Li",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sprang_steven",
+      "scientist_name": "Steven Sprang",
+      "scientist_years": "1952 - Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Solved the first atomic structures of G proteins and their signaling complexes, revealing how cellular signals switch on and off.",
+      "card_front_url": "cards/sprang_steven_front.png",
+      "card_back_url": "cards/sprang_steven_back.png",
+      "student_name": "David Lee",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3055,5 +3066,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:28:23.982Z"
+  "last_updated": "2026-01-27T23:28:51.043Z"
 }
