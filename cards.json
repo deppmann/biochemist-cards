@@ -54,6 +54,17 @@
       "card_back_url": "cards/jan_yuh-nung_back.png",
       "student_name": "Cindy Peng",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hardy_john",
+      "scientist_name": "John Hardy",
+      "scientist_years": "1954-Present",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "John Hardy identified the first genetic mutation causing Alzheimer?s disease and proposed the amyloid cascade hypothesis, transforming how scientists understand and target neurodegeneration.",
+      "card_front_url": "cards/hardy_john_front.png",
+      "card_back_url": "cards/hardy_john_back.png",
+      "student_name": "Susanna Stair",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -74,5 +85,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:51:54.126Z"
+  "last_updated": "2026-01-27T22:52:28.577Z"
 }
