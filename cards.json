@@ -3871,6 +3871,17 @@
       "card_back_url": "cards/schoenheimer_rudolf_back.png",
       "student_name": "Abdul Cheema",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "duve_carl",
+      "scientist_name": "Carl de Duve",
+      "scientist_years": "1917-2013",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Logic beneath the latent enzyme.",
+      "card_front_url": "cards/duve_carl_front.png",
+      "card_back_url": "cards/duve_carl_back.png",
+      "student_name": "Sophia Bojko",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3891,5 +3902,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:48:36.354Z"
+  "last_updated": "2026-01-27T23:48:46.048Z"
 }
