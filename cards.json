@@ -1385,6 +1385,17 @@
       "card_back_url": "cards/lloyd_dorothy_back.png",
       "student_name": "Laura Baitinger",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "okeefe_john",
+      "scientist_name": "John O'Keefe",
+      "scientist_years": "1939-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "John O'Keefe discovered place cells in the hippocampus, revealing that the brain has an internal positioning system, essentially a biological GPS, that allows us to map and navigate our environment.",
+      "card_front_url": "cards/okeefe_john_front.png",
+      "card_back_url": "cards/okeefe_john_back.png",
+      "student_name": "Anna Stoops",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1405,5 +1416,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:06:10.115Z"
+  "last_updated": "2026-01-27T23:06:18.835Z"
 }
