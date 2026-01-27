@@ -2177,6 +2177,17 @@
       "card_back_url": "cards/baumeister_wolfgang_back.png",
       "student_name": "Josephine",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "stadman_earl",
+      "scientist_name": "Earl Stadman ",
+      "scientist_years": "1919-2008",
+      "era": "Metabolic Revolutions",
+      "contribution": "Earl Stadtman revolutionized our understanding of cellular control by discovering that enzymes are regulated through reversible covalent modifications, such as adenylylation, and by proving that protein oxidation is a fundamental mechanism of metabolic signaling rather than just random damage.",
+      "card_front_url": "cards/stadman_earl_front.png",
+      "card_back_url": "cards/stadman_earl_back.png",
+      "student_name": "Tivona Dodamgoda",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2197,5 +2208,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:57.566Z"
+  "last_updated": "2026-01-27T23:18:02.903Z"
 }
