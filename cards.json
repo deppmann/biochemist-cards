@@ -945,6 +945,17 @@
       "card_back_url": "cards/ambros_victor_back.png",
       "student_name": "Cathy Le",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "eijkman_christiaan",
+      "scientist_name": "Christiaan Eijkman",
+      "scientist_years": "1858-1930",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Christiaan Eijkman provided the first experimental evidence for the existence of vitamins by demonstrating that the fatal disease beriberi was caused by a diet of polished rice and cured by the nutrient-rich bran.",
+      "card_front_url": "cards/eijkman_christiaan_front.png",
+      "card_back_url": "cards/eijkman_christiaan_back.png",
+      "student_name": "Rachel Woods",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -965,5 +976,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:01:21.216Z"
+  "last_updated": "2026-01-27T23:01:23.438Z"
 }
