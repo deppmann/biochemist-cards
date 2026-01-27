@@ -3486,6 +3486,17 @@
       "card_back_url": "cards/villa-kamaroff_lydia_back.png",
       "student_name": "Ayma Syeda",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "gilbert_walter",
+      "scientist_name": "Walter Gilbert",
+      "scientist_years": "1932-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Walter Gilbert co-developed the first widely used chemical method for sequencing Deoxyribonucleic acid, making it possible to directly read genetic information.",
+      "card_front_url": "cards/gilbert_walter_front.png",
+      "card_back_url": "cards/gilbert_walter_back.png",
+      "student_name": "Shreya Madan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3506,5 +3517,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:35:50.341Z"
+  "last_updated": "2026-01-27T23:36:11.236Z"
 }
