@@ -3827,6 +3827,17 @@
       "card_back_url": "cards/coon_minor_back.png",
       "student_name": "Michelle Sherman",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kornberg_thomas",
+      "scientist_name": "Thomas Kornberg",
+      "scientist_years": "1948 - present",
+      "era": "DNA Structure & Replication",
+      "contribution": "Thomas Kornberg demonstrated that morphogen signaling proteins such as Hedgehog can move between cells via specialized filopodia (cytonemes), reshaping how scientists understand long-range cell?cell communication during development.",
+      "card_front_url": "cards/kornberg_thomas_front.png",
+      "card_back_url": "cards/kornberg_thomas_back.png",
+      "student_name": "Sibley Hash",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3847,5 +3858,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:44:57.760Z"
+  "last_updated": "2026-01-27T23:45:00.803Z"
 }
