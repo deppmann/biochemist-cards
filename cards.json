@@ -2716,6 +2716,17 @@
       "card_back_url": "cards/myers_eugene_back.png",
       "student_name": "Raiya Nathan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mori_kazutoshi",
+      "scientist_name": "Kazutoshi Mori",
+      "scientist_years": "1958-",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Kazutoshi Mori discovered the molecular components of the Unfolded Protein Response (UPR), revealing the elegant \"quality control\" system where the sensor IRE1 initiates a unique cytoplasmic mRNA splicing event to protect cells from protein-folding stress.",
+      "card_front_url": "cards/mori_kazutoshi_front.png",
+      "card_back_url": "cards/mori_kazutoshi_back.png",
+      "student_name": "Sam Jones",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2736,5 +2747,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:24:13.073Z"
+  "last_updated": "2026-01-27T23:24:22.736Z"
 }
