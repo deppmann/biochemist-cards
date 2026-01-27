@@ -3893,6 +3893,17 @@
       "card_back_url": "cards/hannon_gregory_back.png",
       "student_name": "Marwa Naqshbandi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "warburg_otto",
+      "scientist_name": "Otto Warburg",
+      "scientist_years": "1883-1970",
+      "era": "Other",
+      "contribution": "Otto Warburg was a German biochemist who revealed that cancer cells rewire their metabolism to favor sugar fermentation over oxygen-based respiration, fundamentally reshaping how scientists understand cellular energy and disease.",
+      "card_front_url": "cards/warburg_otto_front.png",
+      "card_back_url": "cards/warburg_otto_back.png",
+      "student_name": "Evan Baker",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3913,5 +3924,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:48:56.357Z"
+  "last_updated": "2026-01-27T23:49:14.480Z"
 }
