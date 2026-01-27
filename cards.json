@@ -1330,6 +1330,17 @@
       "card_back_url": "cards/moult_john_back.png",
       "student_name": "Maisie Page",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hodgkin_dorothy",
+      "scientist_name": "Dorothy Hodgkin",
+      "scientist_years": "12 May 1910 ? 29 July 1994",
+      "era": "Other",
+      "contribution": "Dorothy Hodgkin pioneered the use of X-ray crystallography to map the precise three-dimensional atomic structures of essential biological molecules, including penicillin, Vitamin B12, and insulin, fundamentally proving that a molecule's spatial architecture dictates its biological function.",
+      "card_front_url": "cards/hodgkin_dorothy_front.png",
+      "card_back_url": "cards/hodgkin_dorothy_back.png",
+      "student_name": "Emily Le",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1350,5 +1361,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:05:35.208Z"
+  "last_updated": "2026-01-27T23:05:37.076Z"
 }
