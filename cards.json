@@ -2518,6 +2518,17 @@
       "card_back_url": "cards/leloir_luis_back.png",
       "student_name": "Nathalie Bonilla",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lefkowitz_robert",
+      "scientist_name": "Robert Lefkowitz",
+      "scientist_years": "1943-Present",
+      "era": "Other",
+      "contribution": "Lefkowitz was apart of the team that characterized GCPRs and discovered the base structure (7 transmembrane helices topology) that would later define the GCPR superfamily.",
+      "card_front_url": "cards/lefkowitz_robert_front.png",
+      "card_back_url": "cards/lefkowitz_robert_back.png",
+      "student_name": "Aaron Falik",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2538,5 +2549,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:21:49.494Z"
+  "last_updated": "2026-01-27T23:21:55.381Z"
 }
