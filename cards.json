@@ -384,6 +384,17 @@
       "card_back_url": "cards/smith_emil_back.png",
       "student_name": "Lloyd Choi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lynen_feodor",
+      "scientist_name": "Feodor Lynen",
+      "scientist_years": "1911-1979",
+      "era": "Metabolic Revolutions",
+      "contribution": "Feodor Lynen was a German biochemist who made foundational contributions to our understanding of metabolism and lipid synthesis, earning the 1964 Nobel Prize in Physiology or Medicine. ",
+      "card_front_url": "cards/lynen_feodor_front.png",
+      "card_back_url": "cards/lynen_feodor_back.png",
+      "student_name": "Parker Chapman",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -404,5 +415,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:05.582Z"
+  "last_updated": "2026-01-27T22:56:11.615Z"
 }
