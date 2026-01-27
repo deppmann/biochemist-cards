@@ -1894,13 +1894,13 @@
     },
     {
       "id": "weinberg_robert",
-      "scientist_name": "Robert Weinberg",
-      "scientist_years": "1942 - present",
-      "era": "Neuroscience & Metabolism Frontiers",
-      "contribution": "Robert Weinberg is the master architect of modern oncology who transformed our understanding of cancer from a mysterious cluster of cells into a predictable, logic-driven series of genetic mutations.",
+      "scientist_name": "Robert A. Weinberg",
+      "scientist_years": "1942--Present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Discovered the first human oncogene",
       "card_front_url": "cards/weinberg_robert_front.png",
       "card_back_url": "cards/weinberg_robert_back.png",
-      "student_name": "Arina Sokolova",
+      "student_name": "Teddy Price",
       "submitted_date": "2026-01-27"
     },
     {
@@ -2516,5 +2516,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:21:24.345Z"
+  "last_updated": "2026-01-27T23:21:26.565Z"
 }
