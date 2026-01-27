@@ -934,6 +934,17 @@
       "card_back_url": "cards/chang_howard_back.png",
       "student_name": "Amy Nguyen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ambros_victor",
+      "scientist_name": "Victor Ambros",
+      "scientist_years": "1953-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Victor Ambros revealed that tiny non-coding RNAs, later named microRNAs, act as powerful regulators that fine-tune gene expression after transcription, uncovering a hidden layer of genetic control essential to development and disease.",
+      "card_front_url": "cards/ambros_victor_front.png",
+      "card_back_url": "cards/ambros_victor_back.png",
+      "student_name": "Cathy Le",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -954,5 +965,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:01:14.739Z"
+  "last_updated": "2026-01-27T23:01:21.216Z"
 }
