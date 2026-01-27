@@ -2375,6 +2375,17 @@
       "card_back_url": "cards/kollman_peter_back.png",
       "student_name": "Ishan Parikh ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hol_wim",
+      "scientist_name": "Wim Hol",
+      "scientist_years": "1943 - Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Wim Hol discovered that alpha-helices act like \"molecular magnets\" (the macro-dipole) to pull and steer charged molecules into an enzyme's active site. ",
+      "card_front_url": "cards/hol_wim_front.png",
+      "card_back_url": "cards/hol_wim_back.png",
+      "student_name": "Angel Lai",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2395,5 +2406,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:20:07.066Z"
+  "last_updated": "2026-01-27T23:20:13.587Z"
 }
