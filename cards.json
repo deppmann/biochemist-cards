@@ -2639,6 +2639,17 @@
       "card_back_url": "cards/birney_ewan_back.png",
       "student_name": "Sailee Naik",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "goodman_myron",
+      "scientist_name": "Myron F. Goodman",
+      "scientist_years": "landmark discoveries 1980s?1990s still working today",
+      "era": "DNA Structure & Replication",
+      "contribution": "Identified and characterized Polymerase V as the low-fidelity enzyme driving SOS mutagenesis in bacteria.",
+      "card_front_url": "cards/goodman_myron_front.png",
+      "card_back_url": "cards/goodman_myron_back.png",
+      "student_name": "Macabee Flitsanov",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2659,5 +2670,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:23:30.267Z"
+  "last_updated": "2026-01-27T23:23:32.090Z"
 }
