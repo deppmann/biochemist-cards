@@ -3167,6 +3167,17 @@
       "card_back_url": "cards/haworth_norman_back.png",
       "student_name": "Leen Alawneh",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mendel_lafayette",
+      "scientist_name": "Lafayette Benedict Mendel",
+      "scientist_years": "1872-1935",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Mendel revolutionized the study of nutrition by co-discovering Vitamin A and proving that specific essential amino acids are necessary for animal growth and survival.",
+      "card_front_url": "cards/mendel_lafayette_front.png",
+      "card_back_url": "cards/mendel_lafayette_back.png",
+      "student_name": "Annika Bhargava",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3187,5 +3198,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:30:07.530Z"
+  "last_updated": "2026-01-27T23:30:16.719Z"
 }
