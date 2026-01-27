@@ -1231,6 +1231,17 @@
       "card_back_url": "cards/gronenborn_angela_back.png",
       "student_name": "Gabriela Kobak ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "jessell_thomas",
+      "scientist_name": "Thomas Jessell",
+      "scientist_years": "1951-2019",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Thomas Jessell uncovered how graded Sonic hedgehog signaling patterns the embryonic spinal cord, defining molecular rules that specify motor neuron identity and assemble precise movement circuits.",
+      "card_front_url": "cards/jessell_thomas_front.png",
+      "card_back_url": "cards/jessell_thomas_back.png",
+      "student_name": "Eric Yeatts",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1251,5 +1262,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:04:26.296Z"
+  "last_updated": "2026-01-27T23:04:32.923Z"
 }
