@@ -2661,6 +2661,17 @@
       "card_back_url": "cards/garrod_sir_back.png",
       "student_name": "Basil Ali",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "michealis_leonor",
+      "scientist_name": "Leonor Michealis",
+      "scientist_years": "1913",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "best known for co-developing the Michaelis-Menten equation, which provides a mathematical model for how the rate of an enzymatic reaction changes relative to substrate concentration.",
+      "card_front_url": "cards/michealis_leonor_front.png",
+      "card_back_url": "cards/michealis_leonor_back.png",
+      "student_name": "Ivan Vorobyev",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2681,5 +2692,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:23:36.939Z"
+  "last_updated": "2026-01-27T23:23:48.305Z"
 }
