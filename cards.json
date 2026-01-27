@@ -2837,6 +2837,17 @@
       "card_back_url": "cards/cori_gerty_back.png",
       "student_name": "Nick Larson",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "alberts_alfred",
+      "scientist_name": "Alfred W. Alberts",
+      "scientist_years": "1931?2024",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Alfred W. Alberts led the discovery of the first statin drug, transforming the treatment of high cholesterol and reducing the risk of heart disease worldwide.",
+      "card_front_url": "cards/alberts_alfred_front.png",
+      "card_back_url": "cards/alberts_alfred_back.png",
+      "student_name": "Dylan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2857,5 +2868,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:25:43.696Z"
+  "last_updated": "2026-01-27T23:25:47.906Z"
 }
