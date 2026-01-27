@@ -857,6 +857,17 @@
       "card_back_url": "cards/moore_melissa_back.png",
       "student_name": "Hannah Rowlett",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rine_jasper",
+      "scientist_name": "Jasper Donald Rine",
+      "scientist_years": "1953?present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Helped identify the SIR genes and experimentally demonstrate epigenetic inheritance of transcriptional silencing in yeast.",
+      "card_front_url": "cards/rine_jasper_front.png",
+      "card_back_url": "cards/rine_jasper_back.png",
+      "student_name": "Yesenia Mosquera",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -877,5 +888,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:38.501Z"
+  "last_updated": "2026-01-27T23:00:42.900Z"
 }
