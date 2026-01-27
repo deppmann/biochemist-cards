@@ -3618,6 +3618,17 @@
       "card_back_url": "cards/taylor_kenneth_back.png",
       "student_name": "Emma Lai",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "subbarow_yellapragada",
+      "scientist_name": "Yellapragada Subbarow",
+      "scientist_years": "1895-1948",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Pioneered modern therapeutic biochemistry by co-discovering ATP, developing the first effective chemotherapy drugs, and leading breakthroughs in antibiotics and vitamin synthesis that transformed global medicine.",
+      "card_front_url": "cards/subbarow_yellapragada_front.png",
+      "card_back_url": "cards/subbarow_yellapragada_back.png",
+      "student_name": "Samsher Malhi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3638,5 +3649,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:38:07.262Z"
+  "last_updated": "2026-01-27T23:38:09.416Z"
 }
