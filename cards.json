@@ -802,6 +802,17 @@
       "card_back_url": "cards/deisenhofer_johann_back.png",
       "student_name": "Kayla Dixon",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "regev_aviv",
+      "scientist_name": "Aviv Regev",
+      "scientist_years": "1971-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Aviv Regev pioneered foundational experimental and computational methods in single-cell genomics, enabling a revolutionary understanding of the molecular circuits that govern human cells and tissues in both health and disease.",
+      "card_front_url": "cards/regev_aviv_front.png",
+      "card_back_url": "cards/regev_aviv_back.png",
+      "student_name": "Sude Mohac",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -822,5 +833,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:16.532Z"
+  "last_updated": "2026-01-27T23:00:19.537Z"
 }
