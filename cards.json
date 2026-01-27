@@ -780,6 +780,17 @@
       "card_back_url": "cards/bishop_j_back.png",
       "student_name": "Riya Soni",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "handler_philip",
+      "scientist_name": "Philip Handler",
+      "scientist_years": "1917-1981",
+      "era": "Vitamins & Nutrition",
+      "contribution": "Philip Handler mapped the metabolic Handler-Preiss Cycle, proving that dietary niacin is the essential architectural precursor the body uses to synthesize the critical electron carrier NAD+",
+      "card_front_url": "cards/handler_philip_front.png",
+      "card_back_url": "cards/handler_philip_back.png",
+      "student_name": "Britney Danso",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -800,5 +811,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:59:50.015Z"
+  "last_updated": "2026-01-27T23:00:02.208Z"
 }
