@@ -1979,6 +1979,17 @@
       "card_back_url": "cards/sellers_william_back.png",
       "student_name": "Mora Rojas-Hernandez",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "marrafini_luciano",
+      "scientist_name": "Luciano Marrafini",
+      "scientist_years": "1975-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "\"in the style of Studio Ghibli, a semi-realistic digital illustration of Luciano Marraffini as a scientist leaning over a lab bench, wearing glasses and a white lab coat, holding a petri dish. Warm vintage color palette, deep navy blue background. Soft lighting highlights the face. At the bottom in large, bold, white, sans-serif font: 'Luciano Marraffini', '1974-present', and 'Cutting Edge Bacterial Defense'. Vertical trading card format, aspect ratio 5:7.\"",
+      "card_front_url": "cards/marrafini_luciano_front.png",
+      "card_back_url": "cards/marrafini_luciano_back.png",
+      "student_name": "Reilynd Worrell",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1999,5 +2010,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:15:53.684Z"
+  "last_updated": "2026-01-27T23:16:02.370Z"
 }
