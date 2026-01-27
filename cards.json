@@ -3684,6 +3684,17 @@
       "card_back_url": "cards/joliot_pierre_back.png",
       "student_name": "Millie Degefa",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bork_peer",
+      "scientist_name": "Peer Bork",
+      "scientist_years": "1963-2026",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Peer Bork pioneered the fields of bioinformatics and metagenomics by developing global resources for protein-protein interaction networks (STRING) and discovering that human gut microbiomes are stratified into distinct community types known as \"enterotypes.\"",
+      "card_front_url": "cards/bork_peer_front.png",
+      "card_back_url": "cards/bork_peer_back.png",
+      "student_name": "Maham Malik",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3704,5 +3715,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:39:41.744Z"
+  "last_updated": "2026-01-27T23:40:04.915Z"
 }
