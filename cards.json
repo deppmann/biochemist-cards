@@ -3563,6 +3563,17 @@
       "card_back_url": "cards/brenner_sydney_back.png",
       "student_name": "Amore Jackson",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "modrich_paul",
+      "scientist_name": "Paul L. Modrich",
+      "scientist_years": "1946-present",
+      "era": "DNA Structure & Replication",
+      "contribution": "Paul Modrich was a pioneer of DNA Structure and Replication.",
+      "card_front_url": "cards/modrich_paul_front.png",
+      "card_back_url": "cards/modrich_paul_back.png",
+      "student_name": "Noah Hartsoe",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3583,5 +3594,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:37:07.512Z"
+  "last_updated": "2026-01-27T23:37:23.003Z"
 }
