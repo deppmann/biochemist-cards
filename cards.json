@@ -2,13 +2,13 @@
   "cards": [
     {
       "id": "pauling_linus",
-      "scientist_name": "Linus Carl Pauling",
+      "scientist_name": "Linus Pauling",
       "scientist_years": "1901-1994",
       "era": "Enzymology & Protein Chemistry",
-      "contribution": "Linus Pauling is known for his work in chemical bond theory and Vitamin C advocacy.",
+      "contribution": "He revealed that the structure of proteins is governed by precise atomic geometry, discovering the alpha helix and launching molecular biology.",
       "card_front_url": "cards/pauling_linus_front.png",
       "card_back_url": "cards/pauling_linus_back.png",
-      "student_name": "Claire",
+      "student_name": "Adriano Georgiev",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3363,5 +3363,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:32:53.989Z"
+  "last_updated": "2026-01-27T23:32:59.704Z"
 }
