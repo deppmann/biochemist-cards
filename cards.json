@@ -637,6 +637,17 @@
       "card_back_url": "cards/miescher_friedrich_back.png",
       "student_name": "Henry",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rose_william",
+      "scientist_name": "William Rose",
+      "scientist_years": "1887 - 1985",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "William Rose mapped the fundamental requirements of human life by discovering threonine, the final essential amino acid, and establishing the precise dietary standards for protein nutrition.",
+      "card_front_url": "cards/rose_william_front.png",
+      "card_back_url": "cards/rose_william_back.png",
+      "student_name": "Dharshini Arun Prakash",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -657,5 +668,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:15.234Z"
+  "last_updated": "2026-01-27T22:58:21.900Z"
 }
