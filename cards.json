@@ -3882,6 +3882,17 @@
       "card_back_url": "cards/duve_carl_back.png",
       "student_name": "Sophia Bojko",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hannon_gregory",
+      "scientist_name": "Gregory Hannon",
+      "scientist_years": "1964",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Gregory J. Hannon transformed modern gene-silencing research by revealing the machinery of RNA interference (Dicer/RISC) and building scalable shRNA tools that let scientists systematically switch off genes across the genome.",
+      "card_front_url": "cards/hannon_gregory_front.png",
+      "card_back_url": "cards/hannon_gregory_back.png",
+      "student_name": "Marwa Naqshbandi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3902,5 +3913,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:48:49.502Z"
+  "last_updated": "2026-01-27T23:48:56.357Z"
 }
