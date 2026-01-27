@@ -3380,12 +3380,12 @@
     {
       "id": "mackinnon_roderick",
       "scientist_name": "Roderick MacKinnon",
-      "scientist_years": "1956?present",
+      "scientist_years": "1956-present",
       "era": "Structural Biology & Drug Discovery",
-      "contribution": "He determined the first atomic-resolution structure of a potassium ion channel, explaining how cells selectively conduct K? ions while excluding Na?.",
+      "contribution": "He solved the first atomic-resolution structure of a potassium ion channel, revealing how its selectivity filter allows rapid K+ transport while excluding Na+.",
       "card_front_url": "cards/mackinnon_roderick_front.png",
       "card_back_url": "cards/mackinnon_roderick_back.png",
-      "student_name": "Rylee Perkins (sorry i resubmitted it so many times because it wouldn't show up on the website)",
+      "student_name": "Rylee Perkins (redoing because it still wont show up on the website)",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3726,5 +3726,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:40:25.328Z"
+  "last_updated": "2026-01-27T23:40:29.050Z"
 }
