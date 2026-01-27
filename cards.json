@@ -2595,6 +2595,17 @@
       "card_back_url": "cards/meldal_morten_back.png",
       "student_name": "Ayush Marata",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "walter_peter",
+      "scientist_name": "Peter Walter",
+      "scientist_years": "1954- present",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Peter Walter co-discovered the Unfolded Protein Response (UPR), a vital cellular quality-control system that detects misfolded proteins and decides whether a cell should heal itself or self-destruct to prevent disease.",
+      "card_front_url": "cards/walter_peter_front.png",
+      "card_back_url": "cards/walter_peter_back.png",
+      "student_name": "Hilda Joseph ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2615,5 +2626,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:22:58.243Z"
+  "last_updated": "2026-01-27T23:23:02.967Z"
 }
