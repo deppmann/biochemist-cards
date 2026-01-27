@@ -351,6 +351,17 @@
       "card_back_url": "cards/lewis_suzanna_back.png",
       "student_name": "Sarina Nayak",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "krebs_hans",
+      "scientist_name": "Hans Krebs",
+      "scientist_years": "1900-1981",
+      "era": "Metabolic Revolutions",
+      "contribution": "Krebs was a pioneer scientist in the study of cellular respiration, a biochemical process in living cells that extracts ATP from food and oxygen.",
+      "card_front_url": "cards/krebs_hans_front.png",
+      "card_back_url": "cards/krebs_hans_back.png",
+      "student_name": "Caoilainn Bischoff",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -371,5 +382,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:37.890Z"
+  "last_updated": "2026-01-27T22:55:45.503Z"
 }
