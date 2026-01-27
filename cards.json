@@ -3695,6 +3695,17 @@
       "card_back_url": "cards/bork_peer_back.png",
       "student_name": "Maham Malik",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "villa-komaroff_lydia",
+      "scientist_name": "Lydia Villa-Komaroff",
+      "scientist_years": "1947-present",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Lydia Villa-Komaroff helped prove that human genes could be expressed in bacteria to produce functional insulin, launching recombinant protein therapeutics and modern biotechnology.",
+      "card_front_url": "cards/villa-komaroff_lydia_front.png",
+      "card_back_url": "cards/villa-komaroff_lydia_back.png",
+      "student_name": "Bethelle Lanquaye",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3715,5 +3726,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:40:04.915Z"
+  "last_updated": "2026-01-27T23:40:25.328Z"
 }
