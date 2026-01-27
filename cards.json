@@ -3420,6 +3420,17 @@
       "card_back_url": "cards/avery_oswald_back.png",
       "student_name": "Catherine Goldstein",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hill_archibald",
+      "scientist_name": "Archibald Vivian Hill",
+      "scientist_years": "1886-1977",
+      "era": "Other",
+      "contribution": "\"Everything has depended on the technique.\"",
+      "card_front_url": "cards/hill_archibald_front.png",
+      "card_back_url": "cards/hill_archibald_back.png",
+      "student_name": "Elisabeth Bubay ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3440,5 +3451,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:34:40.229Z"
+  "last_updated": "2026-01-27T23:34:53.886Z"
 }
