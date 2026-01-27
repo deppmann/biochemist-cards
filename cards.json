@@ -4014,6 +4014,17 @@
       "card_back_url": "cards/colowick_sidney_back.png",
       "student_name": "Sierra Coppage",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "endy_drew",
+      "scientist_name": "Drew Endy",
+      "scientist_years": "1970 - Present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "He pioneered the engineering of living systems by standardizing biological \"BioBrick\" parts and inventing the \"transcriptor,\" a biological transistor that allows living cells to perform computing logic.\n\nMy file sizes are too big but I didn't want to miss the opportunity to submit",
+      "card_front_url": "cards/endy_drew_front.png",
+      "card_back_url": "cards/endy_drew_back.png",
+      "student_name": "Gabrielle Wibisono",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -4034,5 +4045,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:55:22.863Z"
+  "last_updated": "2026-01-27T23:55:29.582Z"
 }
