@@ -1759,6 +1759,17 @@
       "card_back_url": "cards/sharp_phillip_back.png",
       "student_name": "Katherine Littlejohn",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wood_harland",
+      "scientist_name": "Harland Goff Wood",
+      "scientist_years": "1907-1991",
+      "era": "Metabolic Revolutions",
+      "contribution": "Harland G. Wood transformed biochemistry by proving that animals and bacteria can fix carbon dioxide through metabolic reactions, overturning the belief that CO? fixation was exclusive to plants and revealing how core metabolic cycles are replenished.",
+      "card_front_url": "cards/wood_harland_front.png",
+      "card_back_url": "cards/wood_harland_back.png",
+      "student_name": "Melanie Dmytrijuk ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1779,5 +1790,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:12:42.342Z"
+  "last_updated": "2026-01-27T23:12:57.193Z"
 }
