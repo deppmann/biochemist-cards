@@ -1264,6 +1264,17 @@
       "card_back_url": "cards/shulman_gerald_back.png",
       "student_name": "Fiona Schuh",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "perlman_robert",
+      "scientist_name": "Robert Perlman",
+      "scientist_years": "1938",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Based on his academic profile at the University of Chicago, Robert L. Perlman is best known for integrating evolutionary biology into medical practice to help physicians understand why humans remain vulnerable to disease and how pathogens coevolve with their hosts.",
+      "card_front_url": "cards/perlman_robert_front.png",
+      "card_back_url": "cards/perlman_robert_back.png",
+      "student_name": "Michelle Chuang ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1284,5 +1295,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:04:42.187Z"
+  "last_updated": "2026-01-27T23:04:54.788Z"
 }
