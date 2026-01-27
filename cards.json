@@ -164,6 +164,17 @@
       "card_back_url": "cards/willsttter_richard_back.png",
       "student_name": "Afnan Rahman Akhand",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sager_ruth",
+      "scientist_name": "Ruth Sager",
+      "scientist_years": "1918-1997",
+      "era": "DNA Structure & Replication",
+      "contribution": "Ruth Sager shattered the \"nuclear monopoly\" by discovering non-Mendelian inheritance in Chlamydomonas, proving for the first time that genetic material exists outside the cell nucleus.",
+      "card_front_url": "cards/sager_ruth_front.png",
+      "card_back_url": "cards/sager_ruth_back.png",
+      "student_name": "Sarah Khan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -184,5 +195,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:53:41.263Z"
+  "last_updated": "2026-01-27T22:53:49.578Z"
 }
