@@ -2892,6 +2892,17 @@
       "card_back_url": "cards/moser_may-britt_back.png",
       "student_name": "Riley Scheffel",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "katzky_christoph",
+      "scientist_name": "Christoph Katzky",
+      "scientist_years": "1947-",
+      "era": "Structural Biology Revolution",
+      "contribution": "He discovered that B12 enzymes use a structural misfit strategy to trigger radical reactions while caging the reactive center to protect the cell.",
+      "card_front_url": "cards/katzky_christoph_front.png",
+      "card_back_url": "cards/katzky_christoph_back.png",
+      "student_name": "Lilly Krikorian",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2912,5 +2923,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:26:15.784Z"
+  "last_updated": "2026-01-27T23:26:22.872Z"
 }
