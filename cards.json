@@ -604,6 +604,17 @@
       "card_back_url": "cards/chance_britton_back.png",
       "student_name": "Kathryn Boerckel",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lehman_robert",
+      "scientist_name": "Robert Lehman",
+      "scientist_years": "1924-2019",
+      "era": "DNA Structure & Replication",
+      "contribution": "He synthesized DNA in vitro to characterize DNA polymerase and was an important figure in the discovery of DNA ligase.",
+      "card_front_url": "cards/lehman_robert_front.png",
+      "card_back_url": "cards/lehman_robert_back.png",
+      "student_name": "Hannah Harkins",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -624,5 +635,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:04.580Z"
+  "last_updated": "2026-01-27T22:58:06.855Z"
 }
