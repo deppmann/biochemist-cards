@@ -175,6 +175,17 @@
       "card_back_url": "cards/sager_ruth_back.png",
       "student_name": "Sarah Khan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "meyerhof_otto",
+      "scientist_name": "Otto Meyerhof",
+      "scientist_years": "1899-1986",
+      "era": "Other",
+      "contribution": "Meyerhof revealed that muscle energy metabolism is a cyclical and thermodynamically coupled process, and it displayed how lactic acid that is produced without oxygen will later be recycled back into glycogen by means of energy from oxygen consumption.",
+      "card_front_url": "cards/meyerhof_otto_front.png",
+      "card_back_url": "cards/meyerhof_otto_back.png",
+      "student_name": "Georgia Brown",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -195,5 +206,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:53:49.578Z"
+  "last_updated": "2026-01-27T22:53:57.455Z"
 }
