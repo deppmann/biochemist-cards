@@ -1154,6 +1154,17 @@
       "card_back_url": "cards/lippincott-schwartz_jennifer_back.png",
       "student_name": "Cecily Wainstein",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "williams_roger",
+      "scientist_name": "Roger J. Williams",
+      "scientist_years": "1893-1988",
+      "era": "Vitamins & Nutrition",
+      "contribution": "Roger J. Williams fundamentally shifted biochemistry from a study of averages to a study of individuals, discovering vital B-vitamins like folic and pantothenic acid while proving that every human possesses a unique metabolic fingerprint.",
+      "card_front_url": "cards/williams_roger_front.png",
+      "card_back_url": "cards/williams_roger_back.png",
+      "student_name": "Sam Carlisle",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1174,5 +1185,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:03:21.852Z"
+  "last_updated": "2026-01-27T23:03:33.717Z"
 }
