@@ -3156,6 +3156,17 @@
       "card_back_url": "cards/julian_percy_back.png",
       "student_name": "Joshua VanDoornik",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "haworth_norman",
+      "scientist_name": "Norman Haworth",
+      "scientist_years": "1883?1950",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Sir Walter Norman Haworth revolutionized our understanding of carbohydrates by establishing the 3D ring structure of sugars and performing the first chemical synthesis of Vitamin C, a feat that bridged the gap between organic chemistry and human health.",
+      "card_front_url": "cards/haworth_norman_front.png",
+      "card_back_url": "cards/haworth_norman_back.png",
+      "student_name": "Leen Alawneh",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3176,5 +3187,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:59.738Z"
+  "last_updated": "2026-01-27T23:30:07.530Z"
 }
