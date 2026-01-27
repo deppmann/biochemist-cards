@@ -3277,6 +3277,17 @@
       "card_back_url": "cards/anderson_daniel_back.png",
       "student_name": "Arya Rajesh",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dixit_vishva",
+      "scientist_name": "Vishva Dixit",
+      "scientist_years": "1956 - Present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "His landmark work on apoptosis (programmed cell death) is foundational to understanding cancer, where failure of apoptosis allows uncontrolled cell survival.",
+      "card_front_url": "cards/dixit_vishva_front.png",
+      "card_back_url": "cards/dixit_vishva_back.png",
+      "student_name": "Krischal Sutar",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3297,5 +3308,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:31:51.069Z"
+  "last_updated": "2026-01-27T23:31:58.175Z"
 }
