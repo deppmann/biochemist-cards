@@ -2331,6 +2331,17 @@
       "card_back_url": "cards/britten_roy_back.png",
       "student_name": "Vani Gupta",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cori_carl",
+      "scientist_name": "Carl Cori",
+      "scientist_years": "1896?1984",
+      "era": "Metabolic Revolutions",
+      "contribution": "He elucidated the \"Cori Cycle,\" a vital metabolic circuit where lactate produced by anaerobic glycolysis in muscles is transported to the liver, converted back into glucose, and returned to the muscles to be reused as fuel.",
+      "card_front_url": "cards/cori_carl_front.png",
+      "card_back_url": "cards/cori_carl_back.png",
+      "student_name": "Ariana Byrd",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2351,5 +2362,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:19:30.074Z"
+  "last_updated": "2026-01-27T23:19:44.050Z"
 }
