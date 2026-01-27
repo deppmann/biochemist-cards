@@ -3640,6 +3640,17 @@
       "card_back_url": "cards/kariko_katalin_back.png",
       "student_name": "Caitlyn Martin",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "scheres_sjors",
+      "scientist_name": "Sjors Scheres",
+      "scientist_years": "1975?Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Developed the RELION software, using Bayesian statistics to transform blurry cryo-EM images into near-atomic 3D structures",
+      "card_front_url": "cards/scheres_sjors_front.png",
+      "card_back_url": "cards/scheres_sjors_back.png",
+      "student_name": "Yannise Ladzekpo",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3660,5 +3671,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:38:34.630Z"
+  "last_updated": "2026-01-27T23:39:16.619Z"
 }
