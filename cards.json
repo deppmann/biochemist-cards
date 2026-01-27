@@ -2078,6 +2078,17 @@
       "card_back_url": "cards/bernard_ren_back.png",
       "student_name": "Natasha Sanghvi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rutter_william",
+      "scientist_name": "William Rutter",
+      "scientist_years": "1928-",
+      "era": "Other",
+      "contribution": "Beyond the lab, Rutter was famous for designing research environments that intentionally mixed scientists, students, and entrepreneurs to spark innovation.",
+      "card_front_url": "cards/rutter_william_front.png",
+      "card_back_url": "cards/rutter_william_back.png",
+      "student_name": "Tanner DeShazo",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2098,5 +2109,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:01.504Z"
+  "last_updated": "2026-01-27T23:17:03.146Z"
 }
