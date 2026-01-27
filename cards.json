@@ -406,6 +406,17 @@
       "card_back_url": "cards/osborne_thomas_back.png",
       "student_name": "Bori Kim",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "maniatis_tom",
+      "scientist_name": "Tom Maniatis",
+      "scientist_years": "1943 - ",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Tom Maniatis revolutionized molecular biology by pioneering cDNA cloning techniques and co-authoring the definitive laboratory manual, \"Molecular Cloning,\" which transformed gene manipulation from an \"occult\" art into a standardized global practice.",
+      "card_front_url": "cards/maniatis_tom_front.png",
+      "card_back_url": "cards/maniatis_tom_back.png",
+      "student_name": "Hailey Matthews",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -426,5 +437,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:17.769Z"
+  "last_updated": "2026-01-27T22:56:20.079Z"
 }
