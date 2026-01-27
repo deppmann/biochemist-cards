@@ -2155,6 +2155,17 @@
       "card_back_url": "cards/varela_francisco_back.png",
       "student_name": "Jenna Wade",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "venter_john",
+      "scientist_name": "John Craig Venter ",
+      "scientist_years": "1946-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "J. Craig Venter revolutionized the field of genetics by pioneering the whole-genome shotgun sequencing method, leading the private-sector race to sequence the first human genome, and creating the world?s first self-replicating synthetic bacterial cell.",
+      "card_front_url": "cards/venter_john_front.png",
+      "card_back_url": "cards/venter_john_back.png",
+      "student_name": "Ojaswi Oli",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2175,5 +2186,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:35.815Z"
+  "last_updated": "2026-01-27T23:17:52.340Z"
 }
