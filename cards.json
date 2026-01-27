@@ -373,6 +373,17 @@
       "card_back_url": "cards/selkoe_dennis_back.png",
       "student_name": "Nick Sparrow",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "smith_emil",
+      "scientist_name": "Emil Smith",
+      "scientist_years": "July 5, 1911 ? May 31, 2009",
+      "era": "Other",
+      "contribution": "Emil L. Smith helped found molecular evolution by showing that protein amino-acid sequences preserve a record of evolutionary relationships across species.",
+      "card_front_url": "cards/smith_emil_front.png",
+      "card_back_url": "cards/smith_emil_back.png",
+      "student_name": "Lloyd Choi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -393,5 +404,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:54.977Z"
+  "last_updated": "2026-01-27T22:56:05.582Z"
 }
