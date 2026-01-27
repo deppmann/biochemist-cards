@@ -329,6 +329,17 @@
       "card_back_url": "cards/green_eric_back.png",
       "student_name": "Carol Melek",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hsu_patrick",
+      "scientist_name": "Patrick  Hsu",
+      "scientist_years": "1975-present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Patrick Hsu pioneered next-generation CRISPR technologies?extending gene editing from DNA to RNA and programmable genome rearrangement?fundamentally expanding how scientists can read, write, and reprogram genetic information.",
+      "card_front_url": "cards/hsu_patrick_front.png",
+      "card_back_url": "cards/hsu_patrick_back.png",
+      "student_name": "Esther Yun",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -349,5 +360,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:21.961Z"
+  "last_updated": "2026-01-27T22:55:31.087Z"
 }
