@@ -3310,6 +3310,17 @@
       "card_back_url": "cards/ruvkun_gary_back.png",
       "student_name": "Fernando Medrano",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hunter_anthony",
+      "scientist_name": "Anthony John \"Tony\" Hunter",
+      "scientist_years": "1943-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Tony Hunter is known for discovering tyrosine phosphorylation, revealing a fundamental mechanism of cellular signaling and cancer development",
+      "card_front_url": "cards/hunter_anthony_front.png",
+      "card_back_url": "cards/hunter_anthony_back.png",
+      "student_name": "Skye Everett",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3330,5 +3341,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:32:09.658Z"
+  "last_updated": "2026-01-27T23:32:40.419Z"
 }
