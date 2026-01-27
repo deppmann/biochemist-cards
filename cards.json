@@ -2199,6 +2199,17 @@
       "card_back_url": "cards/vagelos_pindaros_back.png",
       "student_name": "Raiya Patel",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "elledge_steven",
+      "scientist_name": "Steven Elledge",
+      "scientist_years": "1956- ",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Discovered that when DNA damage or stalled replication exposes single stranded DNA, a protein called RPA coats it. ",
+      "card_front_url": "cards/elledge_steven_front.png",
+      "card_back_url": "cards/elledge_steven_back.png",
+      "student_name": "Grace Purinton",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2219,5 +2230,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:18:08.182Z"
+  "last_updated": "2026-01-27T23:18:12.715Z"
 }
