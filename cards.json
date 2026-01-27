@@ -1968,6 +1968,17 @@
       "card_back_url": "cards/weiss_ron_back.png",
       "student_name": "Marwa Zaki",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sellers_william",
+      "scientist_name": "William Sellers",
+      "scientist_years": "1963 - present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "He identified specific EGFR mutations in lung cancer that predict patient response to targeted therapies, effectively launching the era of precision oncology.",
+      "card_front_url": "cards/sellers_william_front.png",
+      "card_back_url": "cards/sellers_william_back.png",
+      "student_name": "Mora Rojas-Hernandez",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1988,5 +1999,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:15:46.562Z"
+  "last_updated": "2026-01-27T23:15:47.917Z"
 }
