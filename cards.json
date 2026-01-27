@@ -1352,6 +1352,17 @@
       "card_back_url": "cards/sulston_john_back.png",
       "student_name": "Hayden Martin",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "karik_katalin",
+      "scientist_name": "Katalin Karik?",
+      "scientist_years": "1955-present ",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Katalin Karik? pioneered the breakthrough method of modifying mRNA to bypass the body's immune response, directly enabling the rapid development of life-saving COVID-19 vaccines and a new frontier of genomic medicine.",
+      "card_front_url": "cards/karik_katalin_front.png",
+      "card_back_url": "cards/karik_katalin_back.png",
+      "student_name": "Natalie Torrence ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1372,5 +1383,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:05:43.936Z"
+  "last_updated": "2026-01-27T23:05:54.597Z"
 }
