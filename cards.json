@@ -3750,6 +3750,17 @@
       "card_back_url": "cards/heiden_matthew_back.png",
       "student_name": "Joshua A. Smith",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "haussler_david",
+      "scientist_name": "David Haussler",
+      "scientist_years": "1953-Present ",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Led the first public assembly of the human genome and helped create the UCSC Genome Browser.",
+      "card_front_url": "cards/haussler_david_front.png",
+      "card_back_url": "cards/haussler_david_back.png",
+      "student_name": "Bruce Mullin",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3770,5 +3781,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:43:37.343Z"
+  "last_updated": "2026-01-27T23:43:39.790Z"
 }
