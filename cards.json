@@ -3915,6 +3915,17 @@
       "card_back_url": "cards/ball_alice_back.png",
       "student_name": "Pallavi Rustogi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "milstein_csar",
+      "scientist_name": "C?sar Milstein ",
+      "scientist_years": "1927-2002 ",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "C?sar Milstein revolutionized immunology by co-developing the hybridoma technique for producing monoclonal antibodies, a breakthrough that transformed diagnostics and therapeutics worldwide.",
+      "card_front_url": "cards/milstein_csar_front.png",
+      "card_back_url": "cards/milstein_csar_back.png",
+      "student_name": "Kelly Wai",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3935,5 +3946,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:51:05.447Z"
+  "last_updated": "2026-01-27T23:51:31.600Z"
 }
