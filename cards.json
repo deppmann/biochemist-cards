@@ -3508,6 +3508,17 @@
       "card_back_url": "cards/kendal_eric_back.png",
       "student_name": "Chloe Zhang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lovelace_ava",
+      "scientist_name": "Ava Lovelace",
+      "scientist_years": "1815?1852",
+      "era": "Other",
+      "contribution": "Ada Lovelace wrote the first published algorithm intended for a machine and was the first to envision computers as general-purpose systems capable of processing symbols, not just numbers.",
+      "card_front_url": "cards/lovelace_ava_front.png",
+      "card_back_url": "cards/lovelace_ava_back.png",
+      "student_name": "Abigail Jimenez",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3528,5 +3539,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:36:15.166Z"
+  "last_updated": "2026-01-27T23:36:21.164Z"
 }
