@@ -395,6 +395,17 @@
       "card_back_url": "cards/lynen_feodor_back.png",
       "student_name": "Parker Chapman",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "osborne_thomas",
+      "scientist_name": "Thomas Burr Osborne",
+      "scientist_years": "1859?1929",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Thomas Burr Osborne transformed biochemistry by proving that proteins are chemically distinct molecules whose specific amino acid compositions determine their nutritional and biological value.",
+      "card_front_url": "cards/osborne_thomas_front.png",
+      "card_back_url": "cards/osborne_thomas_back.png",
+      "student_name": "Bori Kim",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -415,5 +426,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:11.615Z"
+  "last_updated": "2026-01-27T22:56:17.769Z"
 }
