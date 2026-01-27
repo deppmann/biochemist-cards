@@ -2785,13 +2785,13 @@
     },
     {
       "id": "doudna_jennifer",
-      "scientist_name": "Jennifer Doudna (Jennifer A. Doudna)",
-      "scientist_years": "1964?present",
+      "scientist_name": "Jennifer Anne Doudna",
+      "scientist_years": "Age: 61; Years Active: About 37",
       "era": "Genomics & Bioinformatics Era",
-      "contribution": "Jennifer Doudna co-discovered that the bacterial CRISPR-Cas9 system can be engineered into a programmable gene-editing tool?using a guide RNA to direct the Cas9 enzyme to cut DNA at specific sequences.",
+      "contribution": "Co-developed CRISP-Cas9 as programmable gene-editing technology that revolutionized molecular biology.",
       "card_front_url": "cards/doudna_jennifer_front.png",
       "card_back_url": "cards/doudna_jennifer_back.png",
-      "student_name": "Ryan Makarem ",
+      "student_name": "Luis Ruano Campos",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3231,5 +3231,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:30:43.095Z"
+  "last_updated": "2026-01-27T23:31:00.394Z"
 }
