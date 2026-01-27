@@ -197,6 +197,17 @@
       "card_back_url": "cards/curie_marie_back.png",
       "student_name": "Anna Riley",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kim_sung-hou",
+      "scientist_name": "Sung-Hou Kim",
+      "scientist_years": "1937?present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Solved the first atomic structure of transfer RNA (tRNA), revealing how the genetic code is physically translated into proteins.",
+      "card_front_url": "cards/kim_sung-hou_front.png",
+      "card_back_url": "cards/kim_sung-hou_back.png",
+      "student_name": "Joseph Hegenbart",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -217,5 +228,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:54:08.283Z"
+  "last_updated": "2026-01-27T22:54:21.217Z"
 }
