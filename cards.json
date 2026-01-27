@@ -3904,6 +3904,17 @@
       "card_back_url": "cards/warburg_otto_back.png",
       "student_name": "Evan Baker",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ball_alice",
+      "scientist_name": "Alice Ball ",
+      "scientist_years": "1892-1916",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Alice Ball revolutionized medicine by developing the first successful injectable treatment for leprosy, providing hope and healing to thousands of patients who had previously been forced into isolation.",
+      "card_front_url": "cards/ball_alice_front.png",
+      "card_back_url": "cards/ball_alice_back.png",
+      "student_name": "Pallavi Rustogi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3924,5 +3935,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:49:14.480Z"
+  "last_updated": "2026-01-27T23:49:39.069Z"
 }
