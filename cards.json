@@ -725,6 +725,17 @@
       "card_back_url": "cards/stein_lincoln_back.png",
       "student_name": "Trisha Nagulagari ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lehninger_albert",
+      "scientist_name": "Albert Lehninger",
+      "scientist_years": "1917-1986",
+      "era": "Metabolic Revolutions",
+      "contribution": "https://docs.google.com/document/d/1SuWKhymvXs2BQLQkePPdRLggpukwC2YSWEU9ySTsKP0/edit?usp=sharing. This is the link to the deep research.",
+      "card_front_url": "cards/lehninger_albert_front.png",
+      "card_back_url": "cards/lehninger_albert_back.png",
+      "student_name": "Natalie Byrne",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -745,5 +756,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:59:24.791Z"
+  "last_updated": "2026-01-27T22:59:32.722Z"
 }
