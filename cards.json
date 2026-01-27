@@ -3816,6 +3816,17 @@
       "card_back_url": "cards/grunberg-manago_marianne_back.png",
       "student_name": "Isabella Danner",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "coon_minor",
+      "scientist_name": "Minor Jesser Coon",
+      "scientist_years": "1921-2018",
+      "era": "Metabolic Revolutions",
+      "contribution": "Minor Jesser \"Jud\" Coon transformed the field of drug metabolism from descriptive pharmacology into mechanistic biochemistry by being the first to successfully resolve and reconstitute the complex, membrane-bound Cytochrome P450 enzyme system.",
+      "card_front_url": "cards/coon_minor_front.png",
+      "card_back_url": "cards/coon_minor_back.png",
+      "student_name": "Michelle Sherman",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3836,5 +3847,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:44:47.862Z"
+  "last_updated": "2026-01-27T23:44:57.760Z"
 }
