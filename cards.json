@@ -428,6 +428,17 @@
       "card_back_url": "cards/jasin_maria_back.png",
       "student_name": "Ellerie Tauber",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "yoshimori_tamotsu",
+      "scientist_name": "Tamotsu Yoshimori",
+      "scientist_years": "1960?present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Identified LC3 as the first reliable mammalian autophagosome marker, enabling real-time visualization of autophagy.",
+      "card_front_url": "cards/yoshimori_tamotsu_front.png",
+      "card_back_url": "cards/yoshimori_tamotsu_back.png",
+      "student_name": "Sophia Xie",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -448,5 +459,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:21.691Z"
+  "last_updated": "2026-01-27T22:56:25.313Z"
 }
