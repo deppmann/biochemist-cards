@@ -2298,6 +2298,17 @@
       "card_back_url": "cards/blow_david_back.png",
       "student_name": "Jetkeile Gatus ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "petsko_gregory",
+      "scientist_name": "Gregory Petsko",
+      "scientist_years": "1948-",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Gregory Petsko helped transform biochemistry by showing that understanding a protein?s 3D structure is essential for explaining how enzymes work.",
+      "card_front_url": "cards/petsko_gregory_front.png",
+      "card_back_url": "cards/petsko_gregory_back.png",
+      "student_name": "Catherine Duff",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2318,5 +2329,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:19:15.370Z"
+  "last_updated": "2026-01-27T23:19:18.047Z"
 }
