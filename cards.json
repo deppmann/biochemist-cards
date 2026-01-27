@@ -1396,6 +1396,17 @@
       "card_back_url": "cards/okeefe_john_back.png",
       "student_name": "Anna Stoops",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "calvin_melvin",
+      "scientist_name": "Melvin Calvin",
+      "scientist_years": "1911-1997",
+      "era": "Metabolic Revolutions",
+      "contribution": "",
+      "card_front_url": "cards/calvin_melvin_front.png",
+      "card_back_url": "cards/calvin_melvin_back.png",
+      "student_name": "Valerie Coutinho",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1416,5 +1427,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:06:18.835Z"
+  "last_updated": "2026-01-27T23:06:24.382Z"
 }
