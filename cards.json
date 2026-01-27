@@ -1209,6 +1209,17 @@
       "card_back_url": "cards/cohn_mildred_back.png",
       "student_name": "Joey Jiang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "anfinsen_christian",
+      "scientist_name": "Christian Anfinsen",
+      "scientist_years": "1916-1995",
+      "era": "Metabolic Revolutions",
+      "contribution": "Christian Anfinsen demonstrated that a protein?s three-dimensional structure is determined solely by its amino acid sequence, establishing the foundational principle of modern protein folding and molecular biology.",
+      "card_front_url": "cards/anfinsen_christian_front.png",
+      "card_back_url": "cards/anfinsen_christian_back.png",
+      "student_name": "Peyton Cochran",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1229,5 +1240,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:04:02.240Z"
+  "last_updated": "2026-01-27T23:04:14.902Z"
 }
