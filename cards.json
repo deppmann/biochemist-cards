@@ -2320,6 +2320,17 @@
       "card_back_url": "cards/crick_francis_back.png",
       "student_name": "Yash Gollapudi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "britten_roy",
+      "scientist_name": "Roy Britten",
+      "scientist_years": "1919-2012",
+      "era": "DNA Structure & Replication",
+      "contribution": "",
+      "card_front_url": "cards/britten_roy_front.png",
+      "card_back_url": "cards/britten_roy_back.png",
+      "student_name": "Vani Gupta",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2340,5 +2351,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:19:23.493Z"
+  "last_updated": "2026-01-27T23:19:30.074Z"
 }
