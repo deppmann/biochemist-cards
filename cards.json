@@ -3706,6 +3706,17 @@
       "card_back_url": "cards/villa-komaroff_lydia_back.png",
       "student_name": "Bethelle Lanquaye",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "brndn_carl-ivar",
+      "scientist_name": "Carl-Ivar Br?nd?n",
+      "scientist_years": "1934-2004",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Pioneered protein X-ray crystallography methods and structural interpretation that revealed how protein structure governs biological function.",
+      "card_front_url": "cards/brndn_carl-ivar_front.png",
+      "card_back_url": "cards/brndn_carl-ivar_back.png",
+      "student_name": "Nathan Ferns",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3726,5 +3737,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:40:29.050Z"
+  "last_updated": "2026-01-27T23:41:53.379Z"
 }
