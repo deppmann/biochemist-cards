@@ -3134,6 +3134,17 @@
       "card_back_url": "cards/dbereiner_johanna_back.png",
       "student_name": "Melat Tebeka",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "benson_andrew",
+      "scientist_name": "Andrew Benson",
+      "scientist_years": "1917-2015",
+      "era": "Metabolic Revolutions",
+      "contribution": "?Benson co-elucidated the biochemical pathway of carbon fixation in photosynthesis using carbon-14 radiotracing.?",
+      "card_front_url": "cards/benson_andrew_front.png",
+      "card_back_url": "cards/benson_andrew_back.png",
+      "student_name": "Emma Coatsworth",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3154,5 +3165,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:41.970Z"
+  "last_updated": "2026-01-27T23:29:53.215Z"
 }
