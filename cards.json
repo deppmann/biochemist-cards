@@ -626,6 +626,17 @@
       "card_back_url": "cards/watenpaugh_keith_back.png",
       "student_name": "Nathan Kim",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "miescher_friedrich",
+      "scientist_name": "Friedrich Miescher",
+      "scientist_years": "1844-1995",
+      "era": "Other",
+      "contribution": "Miescher was the first scientist to isolate DNA, which he called nuclein, from the nuclei of white blood cells.",
+      "card_front_url": "cards/miescher_friedrich_front.png",
+      "card_back_url": "cards/miescher_friedrich_back.png",
+      "student_name": "Henry",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -646,5 +657,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:09.928Z"
+  "last_updated": "2026-01-27T22:58:15.234Z"
 }
