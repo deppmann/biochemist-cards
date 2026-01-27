@@ -3046,6 +3046,17 @@
       "card_back_url": "cards/sprang_steven_back.png",
       "student_name": "David Lee",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "goldstein_joseph",
+      "scientist_name": "Joseph Goldstein",
+      "scientist_years": "1940-Present",
+      "era": "Metabolic Revolutions",
+      "contribution": "Joseph Leonard Goldstein co-discovered the LDL receptor pathway, a breakthrough that revealed how cells regulate cholesterol and provided the molecular basis for treating heart disease.",
+      "card_front_url": "cards/goldstein_joseph_front.png",
+      "card_back_url": "cards/goldstein_joseph_back.png",
+      "student_name": "Zachary Payne",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3066,5 +3077,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:28:51.043Z"
+  "last_updated": "2026-01-27T23:28:58.120Z"
 }
