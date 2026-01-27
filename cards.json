@@ -2653,10 +2653,10 @@
     },
     {
       "id": "garrod_sir",
-      "scientist_name": "Sir Edward Archibald Garrod",
+      "scientist_name": "Sir Archibald Edward Garrod",
       "scientist_years": "1857-1936",
       "era": "Enzymology & Protein Chemistry",
-      "contribution": "Garrod is widely regarded as the \"father of biochemical genetics\" and most known for discovering the \"inborn errors of metabolism,\" which was the first Mendelian proof of heredity in humans, and led to the rise of human genetics as we know it today.",
+      "contribution": "The Physician of Metabolic Paths",
       "card_front_url": "cards/garrod_sir_front.png",
       "card_back_url": "cards/garrod_sir_back.png",
       "student_name": "Basil Ali",
@@ -3407,5 +3407,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:33:52.949Z"
+  "last_updated": "2026-01-27T23:34:00.039Z"
 }
