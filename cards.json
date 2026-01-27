@@ -1726,6 +1726,17 @@
       "card_back_url": "cards/balasubramanian_shankar_back.png",
       "student_name": "Ashton Khamphavong",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "jacks_tyler",
+      "scientist_name": "Tyler Jacks",
+      "scientist_years": "1980s",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Research in cancer modeling ",
+      "card_front_url": "cards/jacks_tyler_front.png",
+      "card_back_url": "cards/jacks_tyler_back.png",
+      "student_name": "Maya Saucerman",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1746,5 +1757,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:12:20.511Z"
+  "last_updated": "2026-01-27T23:12:26.516Z"
 }
