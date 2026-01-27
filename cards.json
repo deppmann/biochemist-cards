@@ -3442,6 +3442,17 @@
       "card_back_url": "cards/darnell_james_back.png",
       "student_name": "Akhil Kalepalli",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bassler_bonnie",
+      "scientist_name": "Bonnie Bassler",
+      "scientist_years": "1962-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "She discovered that bacteria communicate using shared chemical signals, allowing entire populations to coordinate behavior as a group through quorum sensing.",
+      "card_front_url": "cards/bassler_bonnie_front.png",
+      "card_back_url": "cards/bassler_bonnie_back.png",
+      "student_name": "Mahlet Nebiyu",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3462,5 +3473,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:35:00.234Z"
+  "last_updated": "2026-01-27T23:35:13.990Z"
 }
