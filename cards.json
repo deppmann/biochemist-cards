@@ -2672,6 +2672,17 @@
       "card_back_url": "cards/michealis_leonor_back.png",
       "student_name": "Ivan Vorobyev",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sussman_joel",
+      "scientist_name": "Joel Sussman",
+      "scientist_years": "1943-",
+      "era": "Structural Biology Revolution",
+      "contribution": "",
+      "card_front_url": "cards/sussman_joel_front.png",
+      "card_back_url": "cards/sussman_joel_back.png",
+      "student_name": "Jaeyoung Lee",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2692,5 +2703,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:23:48.305Z"
+  "last_updated": "2026-01-27T23:23:53.734Z"
 }
