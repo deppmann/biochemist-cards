@@ -653,11 +653,11 @@
       "id": "franklin_rosalind",
       "scientist_name": "Rosalind Franklin",
       "scientist_years": "1920?1958",
-      "era": "DNA Structure & Replication",
-      "contribution": "She produced high-resolution X-ray diffraction images of DNA that revealed its helical structure.",
+      "era": "Metabolic Revolutions",
+      "contribution": "She captured Photo 51, the X-ray diffraction image that proved the double-helix structure of DNA.",
       "card_front_url": "cards/franklin_rosalind_front.png",
       "card_back_url": "cards/franklin_rosalind_back.png",
-      "student_name": "Nevin Philip",
+      "student_name": "Akshara Somu",
       "submitted_date": "2026-01-27"
     },
     {
@@ -1933,5 +1933,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:43.106Z"
+  "last_updated": "2026-01-27T23:14:53.777Z"
 }
