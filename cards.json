@@ -3079,6 +3079,17 @@
       "card_back_url": "cards/bragg_w_back.png",
       "student_name": "Hira Hyder",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "iknys_virginijus",
+      "scientist_name": "Virginijus ?ik?nys",
+      "scientist_years": "1956-present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "\"He independently demonstrated that the Cas9 protein is an RNA-guided endonuclease that can be programmed to cleave any specific DNA sequence in vitro.\"",
+      "card_front_url": "cards/iknys_virginijus_front.png",
+      "card_back_url": "cards/iknys_virginijus_back.png",
+      "student_name": "Alexandra Williams",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3099,5 +3110,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:12.583Z"
+  "last_updated": "2026-01-27T23:29:19.584Z"
 }
