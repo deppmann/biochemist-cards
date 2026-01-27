@@ -1781,6 +1781,17 @@
       "card_back_url": "cards/smith_george_back.png",
       "student_name": "Sanav Durgam",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "taylor_susan",
+      "scientist_name": "Susan Taylor",
+      "scientist_years": "1942-present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Susan Taylor provided the structural blueprint for the entire kinome by solving the first 3D crystal structure of a protein kinase, fundamentally changing our understanding of how cellular signals are switched on and off.",
+      "card_front_url": "cards/taylor_susan_front.png",
+      "card_back_url": "cards/taylor_susan_back.png",
+      "student_name": "Sneha Lakamsani",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1801,5 +1812,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:13:20.365Z"
+  "last_updated": "2026-01-27T23:13:36.430Z"
 }
