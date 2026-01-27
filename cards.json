@@ -2452,6 +2452,17 @@
       "card_back_url": "cards/mcclintock_barbara_back.png",
       "student_name": "Asees Kaur",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "benzer_seymour",
+      "scientist_name": "Seymour Benzer",
+      "scientist_years": "1921-2007",
+      "era": "Other",
+      "contribution": "Prominent Scientist in the field of Bacteriophage genetics",
+      "card_front_url": "cards/benzer_seymour_front.png",
+      "card_back_url": "cards/benzer_seymour_back.png",
+      "student_name": "Samuel Fidler",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2472,5 +2483,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:21:01.545Z"
+  "last_updated": "2026-01-27T23:21:06.057Z"
 }
