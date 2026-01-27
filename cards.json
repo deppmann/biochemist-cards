@@ -3662,6 +3662,17 @@
       "card_back_url": "cards/bennett_frank_back.png",
       "student_name": "Joe Ressler",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "tsui_lap-chee",
+      "scientist_name": "Lap-Chee Tsui",
+      "scientist_years": "1950-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "He led the team that identified the CFTR gene on chromosome 7 and discovered the specific three-base-pair deletion responsible for the majority of cystic fibrosis cases.",
+      "card_front_url": "cards/tsui_lap-chee_front.png",
+      "card_back_url": "cards/tsui_lap-chee_back.png",
+      "student_name": "Clarissa Tso",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3682,5 +3693,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:39:28.911Z"
+  "last_updated": "2026-01-27T23:39:33.252Z"
 }
