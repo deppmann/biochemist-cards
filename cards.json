@@ -1858,6 +1858,17 @@
       "card_back_url": "cards/hoobler_icie_back.png",
       "student_name": "Macie Tran",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "porter_keith",
+      "scientist_name": "Keith Porter",
+      "scientist_years": "1912-1997",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Keith Porter used an electron microscope to show cell organization and identified multiple organelles/structures including the endoplasmic reticulum. ",
+      "card_front_url": "cards/porter_keith_front.png",
+      "card_back_url": "cards/porter_keith_back.png",
+      "student_name": "Sophie Kaplan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1878,5 +1889,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:16.918Z"
+  "last_updated": "2026-01-27T23:14:18.199Z"
 }
