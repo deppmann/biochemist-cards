@@ -1484,6 +1484,17 @@
       "card_back_url": "cards/mitchell_peter_back.png",
       "student_name": "Sarah Carroll",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "oosawa_fumio",
+      "scientist_name": "Fumio Oosawa",
+      "scientist_years": "1922-2019",
+      "era": "Other",
+      "contribution": "Molecular Machine Concept",
+      "card_front_url": "cards/oosawa_fumio_front.png",
+      "card_back_url": "cards/oosawa_fumio_back.png",
+      "student_name": "Matthew Vogelstein",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1504,5 +1515,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:07:37.476Z"
+  "last_updated": "2026-01-27T23:07:41.912Z"
 }
