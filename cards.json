@@ -1187,6 +1187,17 @@
       "card_back_url": "cards/sofia_michael_back.png",
       "student_name": "Sriharsha Sambangi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hopkins_frederick",
+      "scientist_name": "Frederick Gowland Hopkins",
+      "scientist_years": "1861 - 1947",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Discovered essential vitamins",
+      "card_front_url": "cards/hopkins_frederick_front.png",
+      "card_back_url": "cards/hopkins_frederick_back.png",
+      "student_name": "Peace Nzyoki",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1207,5 +1218,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:03:41.456Z"
+  "last_updated": "2026-01-27T23:03:46.797Z"
 }
