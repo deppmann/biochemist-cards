@@ -1066,6 +1066,17 @@
       "card_back_url": "cards/stevens_raymond_back.png",
       "student_name": "Mihir Pokhriyal",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "weber_gregorio",
+      "scientist_name": "Gregorio Weber",
+      "scientist_years": "1916-1997",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "By sacrificing his own eyesight to the glare of early instrumentation, Gregorio Weber pioneered the use of fluorescence to prove that proteins are not rigid statues, but dynamic, 'breathing' machines?a discovery that transformed our understanding of molecular life.",
+      "card_front_url": "cards/weber_gregorio_front.png",
+      "card_back_url": "cards/weber_gregorio_back.png",
+      "student_name": "Ahana Garimella",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1086,5 +1097,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:31.811Z"
+  "last_updated": "2026-01-27T23:02:35.831Z"
 }
