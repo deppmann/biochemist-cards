@@ -2562,6 +2562,17 @@
       "card_back_url": "cards/bergmann_max_back.png",
       "student_name": "Rayyan Ansari",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "menten_maud",
+      "scientist_name": "Maud Menten",
+      "scientist_years": "1879-1960",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Maud Menten revolutionized biochemistry by co-developing the Michaelis-Menten equation, which provided the first mathematical framework for quantifying how enzymes catalyze chemical reactions in living organisms.",
+      "card_front_url": "cards/menten_maud_front.png",
+      "card_back_url": "cards/menten_maud_back.png",
+      "student_name": "Hajer Anjum",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2582,5 +2593,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:22:25.960Z"
+  "last_updated": "2026-01-27T23:22:42.655Z"
 }
