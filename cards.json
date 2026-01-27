@@ -3123,6 +3123,17 @@
       "card_back_url": "cards/sanger_frederick_back.png",
       "student_name": "Aarathi Manchikalapudi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dbereiner_johanna",
+      "scientist_name": "Johanna D?bereiner ",
+      "scientist_years": "1924-2000",
+      "era": "Other",
+      "contribution": "Johanna D?bereiner showed that certain bacteria can naturally help crops get nitrogen, reducing the need for chemical fertilizers.",
+      "card_front_url": "cards/dbereiner_johanna_front.png",
+      "card_back_url": "cards/dbereiner_johanna_back.png",
+      "student_name": "Melat Tebeka",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3143,5 +3154,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:35.032Z"
+  "last_updated": "2026-01-27T23:29:41.970Z"
 }
