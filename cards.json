@@ -1478,11 +1478,11 @@
       "id": "mitchell_peter",
       "scientist_name": "Peter Mitchell",
       "scientist_years": "1920-1992",
-      "era": "Other",
-      "contribution": "Peter Mitchell revolutionized our understanding of biological energy by proposing the chemiosmotic theory, which explains how cells generate ATP by using a proton gradient across membranes.",
+      "era": "Structural Biology Revolution",
+      "contribution": "Life is a proton battery",
       "card_front_url": "cards/mitchell_peter_front.png",
       "card_back_url": "cards/mitchell_peter_back.png",
-      "student_name": "Toprak Efe Yartas",
+      "student_name": "Sarah Song",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3781,5 +3781,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:43:39.790Z"
+  "last_updated": "2026-01-27T23:43:45.565Z"
 }
