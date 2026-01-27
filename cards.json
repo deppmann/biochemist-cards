@@ -1022,6 +1022,17 @@
       "card_back_url": "cards/weizmann_chaim_back.png",
       "student_name": "Pranav Babu",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "magasanik_boris",
+      "scientist_name": "Boris Magasanik",
+      "scientist_years": "1919-2013",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "",
+      "card_front_url": "cards/magasanik_boris_front.png",
+      "card_back_url": "cards/magasanik_boris_back.png",
+      "student_name": "Elizabeth Chuang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1042,5 +1053,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:09.846Z"
+  "last_updated": "2026-01-27T23:02:19.272Z"
 }
