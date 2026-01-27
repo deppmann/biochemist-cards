@@ -2210,6 +2210,17 @@
       "card_back_url": "cards/elledge_steven_back.png",
       "student_name": "Grace Purinton",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mirsky_alfred",
+      "scientist_name": "Alfred Ezra Mirsky",
+      "scientist_years": "1900?1974",
+      "era": "DNA Structure & Replication",
+      "contribution": "He pioneered the isolation of chromatin and demonstrated that DNA remains constant in amount within every somatic cell of an organism.",
+      "card_front_url": "cards/mirsky_alfred_front.png",
+      "card_back_url": "cards/mirsky_alfred_back.png",
+      "student_name": "Robert Jessen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2230,5 +2241,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:18:12.715Z"
+  "last_updated": "2026-01-27T23:18:21.767Z"
 }
