@@ -1990,6 +1990,17 @@
       "card_back_url": "cards/marrafini_luciano_back.png",
       "student_name": "Reilynd Worrell",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "woker_gertrud",
+      "scientist_name": "Gertrud Woker",
+      "scientist_years": "1903-1951",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Conducted early research on enzyme catalysis, studying how biological catalysts, like catalase and peroxidase, accelerate chemical reactions.",
+      "card_front_url": "cards/woker_gertrud_front.png",
+      "card_back_url": "cards/woker_gertrud_back.png",
+      "student_name": "Nanaki Bawa",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2010,5 +2021,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:16:02.370Z"
+  "last_updated": "2026-01-27T23:16:07.664Z"
 }
