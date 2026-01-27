@@ -1099,6 +1099,17 @@
       "card_back_url": "cards/wood_richard_back.png",
       "student_name": "Elaina Heghes",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wu_ray",
+      "scientist_name": "Ray Wu",
+      "scientist_years": "1928-2008",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Ray Jui Wu pioneered the first method for DNA sequencing by inventing location-specific primer extension using DNA polymerase, laying the biochemical foundation for Sanger sequencing and modern genomics while also catalyzing global scientific exchange through the CUSBEA program.",
+      "card_front_url": "cards/wu_ray_front.png",
+      "card_back_url": "cards/wu_ray_back.png",
+      "student_name": "Arav Mathapati",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1119,5 +1130,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:02:44.392Z"
+  "last_updated": "2026-01-27T23:02:53.291Z"
 }
