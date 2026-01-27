@@ -2144,6 +2144,17 @@
       "card_back_url": "cards/gerstein_mark_back.png",
       "student_name": "Angelina Nguyen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "varela_francisco",
+      "scientist_name": "Francisco Varela",
+      "scientist_years": "1946-2001",
+      "era": "Other",
+      "contribution": "Varela bridged the gap between biology and philosophy by proving that living organisms are self-producing networks whose primary \"output\" is the continuous creation and maintenance of their own existence.",
+      "card_front_url": "cards/varela_francisco_front.png",
+      "card_back_url": "cards/varela_francisco_back.png",
+      "student_name": "Jenna Wade",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2164,5 +2175,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:32.499Z"
+  "last_updated": "2026-01-27T23:17:35.815Z"
 }
