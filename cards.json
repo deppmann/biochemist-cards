@@ -1649,6 +1649,17 @@
       "card_back_url": "cards/pawson_tony_back.png",
       "student_name": "Shreya Shanmugan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "jenner_edward",
+      "scientist_name": "Edward Jenner",
+      "scientist_years": "1749-1823",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Developed the first successful smallpox vaccine by using cowpox inoculation to confer immunity to smallpox.",
+      "card_front_url": "cards/jenner_edward_front.png",
+      "card_back_url": "cards/jenner_edward_back.png",
+      "student_name": "Connor Oakes",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1669,5 +1680,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:10:14.723Z"
+  "last_updated": "2026-01-27T23:10:31.937Z"
 }
