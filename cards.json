@@ -219,6 +219,17 @@
       "card_back_url": "cards/cobb_jewel_back.png",
       "student_name": "Nita Hourn",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "semenza_gregg",
+      "scientist_name": "Gregg Semenza",
+      "scientist_years": "1956-Present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "\"He discovered HIF-1, the molecular switch that enables cells to sense low oxygen levels and activate the genes necessary for survival.\"",
+      "card_front_url": "cards/semenza_gregg_front.png",
+      "card_back_url": "cards/semenza_gregg_back.png",
+      "student_name": "Turner Russell",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -239,5 +250,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:54:30.047Z"
+  "last_updated": "2026-01-27T22:54:35.166Z"
 }
