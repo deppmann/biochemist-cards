@@ -978,6 +978,17 @@
       "card_back_url": "cards/witt_horst_back.png",
       "student_name": "Connor Dean",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "palczewski_krzysztof",
+      "scientist_name": "Krzysztof Palczewski",
+      "scientist_years": "1957-Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Solved the first atomic-resolution structure of a G protein-coupled receptor (rhodopsin), revealing the molecular architecture of visual signal transduction.",
+      "card_front_url": "cards/palczewski_krzysztof_front.png",
+      "card_back_url": "cards/palczewski_krzysztof_back.png",
+      "student_name": "Deeya Patel",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -998,5 +1009,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:01:43.442Z"
+  "last_updated": "2026-01-27T23:01:45.983Z"
 }
