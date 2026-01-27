@@ -2870,6 +2870,17 @@
       "card_back_url": "cards/sumner_james_back.png",
       "student_name": "Ali Al-Nidawi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "funk_casimir",
+      "scientist_name": "Casimir Funk",
+      "scientist_years": "1884-1967",
+      "era": "Vitamins & Nutrition",
+      "contribution": "Casimir Funk?s key contribution was proposing in 1912 that certain diseases are caused by deficiencies of specific nutrients in food and coining the term ?vitamines? (now vitamins) to describe them.",
+      "card_front_url": "cards/funk_casimir_front.png",
+      "card_back_url": "cards/funk_casimir_back.png",
+      "student_name": "Vadin Bruot",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2890,5 +2901,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:26:07.007Z"
+  "last_updated": "2026-01-27T23:26:14.287Z"
 }
