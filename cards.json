@@ -3717,6 +3717,17 @@
       "card_back_url": "cards/brndn_carl-ivar_back.png",
       "student_name": "Nathan Ferns",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hogness_david",
+      "scientist_name": "David Hogness",
+      "scientist_years": "1925-2019",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Resolved a foundational uncertainty in biochemistry by proving that enzyme induction requires the synthesis of new protein molecules.?",
+      "card_front_url": "cards/hogness_david_front.png",
+      "card_back_url": "cards/hogness_david_back.png",
+      "student_name": "Nick Macaluso",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3737,5 +3748,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:42:22.394Z"
+  "last_updated": "2026-01-27T23:42:33.868Z"
 }
