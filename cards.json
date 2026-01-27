@@ -2567,11 +2567,11 @@
       "id": "menten_maud",
       "scientist_name": "Maud Menten",
       "scientist_years": "1879-1960",
-      "era": "Enzymology & Protein Chemistry",
-      "contribution": "Maud Menten revolutionized biochemistry by co-developing the Michaelis-Menten equation, which provided the first mathematical framework for quantifying how enzymes catalyze chemical reactions in living organisms.",
+      "era": "Other",
+      "contribution": "\nMaud Leonora Menten was a pioneering Canadian physician and biochemist who co-authored the Michaelis-Menten equation, providing a mathematical foundation for understanding how enzymes catalyze chemical reactions.",
       "card_front_url": "cards/menten_maud_front.png",
       "card_back_url": "cards/menten_maud_back.png",
-      "student_name": "Hajer Anjum",
+      "student_name": "Eyram Golo",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3275,5 +3275,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:31:35.427Z"
+  "last_updated": "2026-01-27T23:31:37.457Z"
 }
