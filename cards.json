@@ -923,6 +923,17 @@
       "card_back_url": "cards/hamburger_viktor_back.png",
       "student_name": "Charles Dumont",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chang_howard",
+      "scientist_name": "Howard Y. Chang",
+      "scientist_years": "1972-Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Howard Chang revolutionized our understanding of the genome by discovering that \"junk DNA\" actually contains long noncoding RNAs that act as a biological operating system to control gene activity and cellular identity.",
+      "card_front_url": "cards/chang_howard_front.png",
+      "card_back_url": "cards/chang_howard_back.png",
+      "student_name": "Amy Nguyen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -943,5 +954,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:01:11.738Z"
+  "last_updated": "2026-01-27T23:01:14.739Z"
 }
