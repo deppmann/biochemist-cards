@@ -3937,6 +3937,17 @@
       "card_back_url": "cards/berzelius_jns_back.png",
       "student_name": "Muhammad Ahmad",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mootha_vamsi",
+      "scientist_name": "Vamsi Mootha",
+      "scientist_years": "1973-present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "He transformed modern mitochondrial biology by combining genomics and systems biology to map mitochondrial proteins and uncover the genetic basis of mitochondrial disease.",
+      "card_front_url": "cards/mootha_vamsi_front.png",
+      "card_back_url": "cards/mootha_vamsi_back.png",
+      "student_name": "Marie Yoon",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3957,5 +3968,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:51:58.486Z"
+  "last_updated": "2026-01-27T23:53:11.912Z"
 }
