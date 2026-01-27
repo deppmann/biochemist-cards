@@ -3090,6 +3090,17 @@
       "card_back_url": "cards/iknys_virginijus_back.png",
       "student_name": "Alexandra Williams",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lipman_david",
+      "scientist_name": "David J Lipman",
+      "scientist_years": "1954-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "David J. Lipman built and led NCBI?s ?brainware? that linked scientific literature to sequence and structure databases, powering genome-scale discovery for the world.",
+      "card_front_url": "cards/lipman_david_front.png",
+      "card_back_url": "cards/lipman_david_back.png",
+      "student_name": "Karan Malik",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3110,5 +3121,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:29:19.584Z"
+  "last_updated": "2026-01-27T23:29:24.571Z"
 }
