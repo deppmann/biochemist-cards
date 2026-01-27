@@ -3024,6 +3024,17 @@
       "card_back_url": "cards/corey_robert_back.png",
       "student_name": "Hana Kewaisy",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kendrew_john",
+      "scientist_name": "John Kendrew",
+      "scientist_years": "1917-1997",
+      "era": "Structural Biology Revolution",
+      "contribution": "He solved the three?dimensional structure of myoglobin, the first protein ever visualized at atomic resolution.",
+      "card_front_url": "cards/kendrew_john_front.png",
+      "card_back_url": "cards/kendrew_john_back.png",
+      "student_name": "Jalen Li",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3044,5 +3055,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:28:11.934Z"
+  "last_updated": "2026-01-27T23:28:19.194Z"
 }
