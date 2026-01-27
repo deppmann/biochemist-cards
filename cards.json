@@ -659,6 +659,17 @@
       "card_back_url": "cards/franklin_rosalind_back.png",
       "student_name": "Nevin Philip",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "payen_anselme",
+      "scientist_name": "Anselme Payen",
+      "scientist_years": "1795-1871",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Isolated the first enzyme, diastase, and identified cellulose as the universal component in plant walls. ",
+      "card_front_url": "cards/payen_anselme_front.png",
+      "card_back_url": "cards/payen_anselme_back.png",
+      "student_name": "Veda Akula",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -679,5 +690,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:58:35.846Z"
+  "last_updated": "2026-01-27T22:58:47.504Z"
 }
