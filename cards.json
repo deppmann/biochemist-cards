@@ -2584,6 +2584,17 @@
       "card_back_url": "cards/keasling_jay_back.png",
       "student_name": "Noor Zahid",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "meldal_morten",
+      "scientist_name": "Morten Meldal",
+      "scientist_years": "1954 - Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Co-discovered the copper-catalyzed azide?alkyne cycloaddition (CuAAC), enabling molecules to snap together cleanly and efficiently.",
+      "card_front_url": "cards/meldal_morten_front.png",
+      "card_back_url": "cards/meldal_morten_back.png",
+      "student_name": "Ayush Marata",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2604,5 +2615,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:22:44.446Z"
+  "last_updated": "2026-01-27T23:22:58.243Z"
 }
