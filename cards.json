@@ -2727,6 +2727,17 @@
       "card_back_url": "cards/mori_kazutoshi_back.png",
       "student_name": "Sam Jones",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "deisseroth_karl",
+      "scientist_name": "Karl Deisseroth",
+      "scientist_years": "1971-present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Karl Deisseroth revolutionized neuroscience by developing optogenetics, a breakthrough technique that uses light-responsive proteins to control the activity of specific neurons with millisecond precision in living tissue.",
+      "card_front_url": "cards/deisseroth_karl_front.png",
+      "card_back_url": "cards/deisseroth_karl_back.png",
+      "student_name": "Jessica Yi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2747,5 +2758,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:24:22.736Z"
+  "last_updated": "2026-01-27T23:24:31.638Z"
 }
