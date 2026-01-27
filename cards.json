@@ -2540,6 +2540,17 @@
       "card_back_url": "cards/mccollum_elmer_back.png",
       "student_name": "Haben Berhane",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fischer_emil",
+      "scientist_name": "Emil Fischer",
+      "scientist_years": "1852-1919",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Emil Fischer established the structural foundations of modern biochemistry by elucidating the three-dimensional configurations of sugars and purines, identifying the peptide bond as the fundamental unit of proteins, and proposing the revolutionary \"lock and key\" model for enzyme specificity.",
+      "card_front_url": "cards/fischer_emil_front.png",
+      "card_back_url": "cards/fischer_emil_back.png",
+      "student_name": "Ebtesaam Abdul-Qudoos",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2560,5 +2571,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:22:06.466Z"
+  "last_updated": "2026-01-27T23:22:13.565Z"
 }
