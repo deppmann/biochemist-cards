@@ -1203,11 +1203,11 @@
       "id": "cohn_mildred",
       "scientist_name": "Mildred Cohn",
       "scientist_years": "1913-2009",
-      "era": "Other",
-      "contribution": "Pioneered the use of phosphorus-31 NMR to observe ATP and enzyme-driven metabolism in living systems without destroying them.",
+      "era": "Structural Biology Revolution",
+      "contribution": "Mildred Cohn pioneered the use of nuclear magnetic resonance- especially phosphorus-31 NMR- to track phosphate and ATP chemistry in real time, revealing how enzymes work at the molecular level.",
       "card_front_url": "cards/cohn_mildred_front.png",
       "card_back_url": "cards/cohn_mildred_back.png",
-      "student_name": "Adriana",
+      "student_name": "Ethan Potter",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3055,5 +3055,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:28:19.194Z"
+  "last_updated": "2026-01-27T23:28:23.982Z"
 }
