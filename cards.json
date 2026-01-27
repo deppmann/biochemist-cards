@@ -516,6 +516,17 @@
       "card_back_url": "cards/allis_david_back.png",
       "student_name": "Karthik Vinaykumar",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "greider_carol",
+      "scientist_name": "Carol Greider ",
+      "scientist_years": "1961-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Carol Greider co-discovered telomerase, the enzyme that maintains and extends chromosome ends (telomeres), a breakthrough that transformed our understanding of aging, cancer, and cell division.",
+      "card_front_url": "cards/greider_carol_front.png",
+      "card_back_url": "cards/greider_carol_back.png",
+      "student_name": "Emma Meehan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -536,5 +547,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:57:10.804Z"
+  "last_updated": "2026-01-27T22:57:17.499Z"
 }
