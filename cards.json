@@ -1924,6 +1924,17 @@
       "card_back_url": "cards/moore_stanford_back.png",
       "student_name": "Katharine Hall",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fire_andrew",
+      "scientist_name": "Andrew Fire",
+      "scientist_years": "1959",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Andrew Fire co-discovered RNA interference (RNAi), a mechanism where double-stranded RNA silences specific genes, which revolutionized our ability to study gene function and treat genetic diseases.",
+      "card_front_url": "cards/fire_andrew_front.png",
+      "card_back_url": "cards/fire_andrew_back.png",
+      "student_name": "Jasmine Lobana",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1944,5 +1955,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:14:58.182Z"
+  "last_updated": "2026-01-27T23:15:00.995Z"
 }
