@@ -2364,6 +2364,17 @@
       "card_back_url": "cards/fischer_edmond_back.png",
       "student_name": "Alice Chang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kollman_peter",
+      "scientist_name": "Peter Kollman ",
+      "scientist_years": "1944-2001",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "He created the AMBER force field and software suite, enabling scientists to simulate the dynamic movements and interactions of biological molecules.",
+      "card_front_url": "cards/kollman_peter_front.png",
+      "card_back_url": "cards/kollman_peter_back.png",
+      "student_name": "Ishan Parikh ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2384,5 +2395,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:19:58.435Z"
+  "last_updated": "2026-01-27T23:20:07.066Z"
 }
