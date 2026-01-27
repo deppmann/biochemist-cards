@@ -3321,6 +3321,17 @@
       "card_back_url": "cards/hunter_anthony_back.png",
       "student_name": "Skye Everett",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "silver_pamela",
+      "scientist_name": "Pamela Silver",
+      "scientist_years": "1953-Present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Pioneered synthetic biology by engineering genetic circuits and programmable living systems that allow cells to sense, compute, and respond to their environments.",
+      "card_front_url": "cards/silver_pamela_front.png",
+      "card_back_url": "cards/silver_pamela_back.png",
+      "student_name": "Owen Wells",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3341,5 +3352,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:32:40.419Z"
+  "last_updated": "2026-01-27T23:32:51.569Z"
 }
