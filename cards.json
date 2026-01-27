@@ -472,6 +472,17 @@
       "card_back_url": "cards/hartl_franz-ulrich_back.png",
       "student_name": "Reese Kennedy",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "schwann_theodor",
+      "scientist_name": "Theodor Schwann",
+      "scientist_years": "1810-1882",
+      "era": "Other",
+      "contribution": "Theodor Schwann revolutionized biology by proving that the cell is the fundamental building block of all animal life, effectively unifying the plant and animal kingdoms under a single biological theory.",
+      "card_front_url": "cards/schwann_theodor_front.png",
+      "card_back_url": "cards/schwann_theodor_back.png",
+      "student_name": "Bailey Allen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -492,5 +503,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:42.775Z"
+  "last_updated": "2026-01-27T22:56:55.721Z"
 }
