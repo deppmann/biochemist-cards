@@ -2683,6 +2683,17 @@
       "card_back_url": "cards/sussman_joel_back.png",
       "student_name": "Jaeyoung Lee",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "stein_william",
+      "scientist_name": "William Stein ",
+      "scientist_years": "1911-1980",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "",
+      "card_front_url": "cards/stein_william_front.png",
+      "card_back_url": "cards/stein_william_back.png",
+      "student_name": "Sophia ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2703,5 +2714,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:23:53.734Z"
+  "last_updated": "2026-01-27T23:23:58.984Z"
 }
