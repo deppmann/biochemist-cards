@@ -483,6 +483,17 @@
       "card_back_url": "cards/schwann_theodor_back.png",
       "student_name": "Bailey Allen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "khorana_har",
+      "scientist_name": "Har Gobind Khorana",
+      "scientist_years": "1922-2011",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Har Gobind Khorana chemically decoded the genetic code by using synthetic nucleic acids and then proved genes are buildable molecules by creating the first artificial gene, laying the foundation for modern molecular biology and genetic engineering.",
+      "card_front_url": "cards/khorana_har_front.png",
+      "card_back_url": "cards/khorana_har_back.png",
+      "student_name": "Brianna Lazear",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -503,5 +514,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:56:55.721Z"
+  "last_updated": "2026-01-27T22:57:00.360Z"
 }
