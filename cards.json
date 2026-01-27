@@ -1308,6 +1308,17 @@
       "card_back_url": "cards/caruthers_marvin_back.png",
       "student_name": "Yara Nasef",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ramakrishnan_venkatraman",
+      "scientist_name": "Venkatraman Ramakrishnan",
+      "scientist_years": " 1952-",
+      "era": "Structural Biology Revolution",
+      "contribution": "Venkatraman Ramakrishnan determined the atomic structure of the 30S ribosomal subunit, revealing the \"molecular ruler\" mechanism that ensures the correct tRNA is selected during protein synthesis.",
+      "card_front_url": "cards/ramakrishnan_venkatraman_front.png",
+      "card_back_url": "cards/ramakrishnan_venkatraman_back.png",
+      "student_name": "Dongze Li ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1328,5 +1339,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:05:19.791Z"
+  "last_updated": "2026-01-27T23:05:21.416Z"
 }
