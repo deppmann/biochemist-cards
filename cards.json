@@ -2045,6 +2045,17 @@
       "card_back_url": "cards/altschul_stephen_back.png",
       "student_name": "Gwen Huyen Nguyen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "emerson_robert",
+      "scientist_name": "Robert Emerson",
+      "scientist_years": "1903-1959",
+      "era": "Metabolic Revolutions",
+      "contribution": "Discovered the \"Emerson Effect,\" proving that photosynthesis requires two distinct photochemical reactions working in tandem.",
+      "card_front_url": "cards/emerson_robert_front.png",
+      "card_back_url": "cards/emerson_robert_back.png",
+      "student_name": "Henry Clark",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2065,5 +2076,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:16:43.135Z"
+  "last_updated": "2026-01-27T23:16:49.729Z"
 }
