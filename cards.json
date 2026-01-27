@@ -1528,6 +1528,17 @@
       "card_back_url": "cards/hartley_brian_back.png",
       "student_name": "Sanjana Rao",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wagner_gerhard",
+      "scientist_name": "Gerhard Wagner",
+      "scientist_years": "1949-",
+      "era": "Other",
+      "contribution": "Gerhard Wagner pioneered high-resolution NMR spectroscopy to prove that proteins are dynamic, \"breathing\" ensembles rather than rigid structures, fundamentally changing our understanding of biomolecular motion and function.",
+      "card_front_url": "cards/wagner_gerhard_front.png",
+      "card_back_url": "cards/wagner_gerhard_back.png",
+      "student_name": "Olivia Lasnicki",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1548,5 +1559,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:08:06.287Z"
+  "last_updated": "2026-01-27T23:08:19.407Z"
 }
