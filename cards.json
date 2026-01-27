@@ -1561,6 +1561,17 @@
       "card_back_url": "cards/berthelot_marcellin_back.png",
       "student_name": "Jai Arora",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chory_joanne",
+      "scientist_name": "Joanne Chory",
+      "scientist_years": "1955-2014",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Joanne Chory revealed how plants use hormone and light-signaling pathways to control growth and development.",
+      "card_front_url": "cards/chory_joanne_front.png",
+      "card_back_url": "cards/chory_joanne_back.png",
+      "student_name": "Mariah Morgan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1581,5 +1592,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:08:53.240Z"
+  "last_updated": "2026-01-27T23:08:58.564Z"
 }
