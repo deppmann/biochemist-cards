@@ -230,6 +230,17 @@
       "card_back_url": "cards/semenza_gregg_back.png",
       "student_name": "Turner Russell",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "nunez_gabriel",
+      "scientist_name": "Gabriel Nunez",
+      "scientist_years": "1952 -Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "He discovered the intracellular sensor NOD2, establishing the first genetic link between the innate immune system's detection of bacteria and Crohn?s disease.",
+      "card_front_url": "cards/nunez_gabriel_front.png",
+      "card_back_url": "cards/nunez_gabriel_back.png",
+      "student_name": "Shrey Sheth",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -250,5 +261,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:54:35.166Z"
+  "last_updated": "2026-01-27T22:54:42.482Z"
 }
