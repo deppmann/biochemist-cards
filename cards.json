@@ -1751,13 +1751,13 @@
     },
     {
       "id": "sharp_phillip",
-      "scientist_name": "Phillip Allen Sharp",
-      "scientist_years": "1944-present",
+      "scientist_name": "Phillip Sharp",
+      "scientist_years": "1944-Present",
       "era": "Molecular Biology of Gene Regulation",
-      "contribution": "",
+      "contribution": "Discovered RNA splicing, revealing that eukaryotic genes are actively edited to regulate gene expression and generate protein diversity.",
       "card_front_url": "cards/sharp_phillip_front.png",
       "card_back_url": "cards/sharp_phillip_back.png",
-      "student_name": "Katherine Littlejohn",
+      "student_name": "Mehedi Nafis",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3880,5 +3880,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:46:42.223Z"
+  "last_updated": "2026-01-27T23:46:55.813Z"
 }
