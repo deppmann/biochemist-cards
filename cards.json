@@ -2694,6 +2694,17 @@
       "card_back_url": "cards/stein_william_back.png",
       "student_name": "Sophia ",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "alberts_bruce",
+      "scientist_name": "Bruce Alberts",
+      "scientist_years": "(1938?Present)",
+      "era": "DNA Structure & Replication",
+      "contribution": "He revolutionized our understanding of DNA replication by proving it is carried out by a highly coordinated \"protein machine\" and proposed the \"trombone model\" to explain lagging-strand synthesis.",
+      "card_front_url": "cards/alberts_bruce_front.png",
+      "card_back_url": "cards/alberts_bruce_back.png",
+      "student_name": "Camyla Gonzalez",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2714,5 +2725,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:23:58.984Z"
+  "last_updated": "2026-01-27T23:24:06.232Z"
 }
