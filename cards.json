@@ -582,6 +582,17 @@
       "card_back_url": "cards/june_carl_back.png",
       "student_name": "Lauren Solimano",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "huber_robert",
+      "scientist_name": "Robert Huber",
+      "scientist_years": "1937 - Present",
+      "era": "Metabolic Revolutions",
+      "contribution": "Significant work on X-Ray crystallography in photosynthetic intermediates",
+      "card_front_url": "cards/huber_robert_front.png",
+      "card_back_url": "cards/huber_robert_back.png",
+      "student_name": "Nicholas Cormas",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -602,5 +613,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:57:50.469Z"
+  "last_updated": "2026-01-27T22:58:00.584Z"
 }
