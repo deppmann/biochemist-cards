@@ -186,6 +186,17 @@
       "card_back_url": "cards/meyerhof_otto_back.png",
       "student_name": "Georgia Brown",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "curie_marie",
+      "scientist_name": "Marie Sk?odowska Curie",
+      "scientist_years": "1867?1934",
+      "era": "Pre-1900 Foundations",
+      "contribution": "She discovered the radioactive elements polonium and radium, fundamentally changing our understanding of atomic science and medical treatment.",
+      "card_front_url": "cards/curie_marie_front.png",
+      "card_back_url": "cards/curie_marie_back.png",
+      "student_name": "Anna Riley",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -206,5 +217,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:53:57.455Z"
+  "last_updated": "2026-01-27T22:54:08.283Z"
 }
