@@ -1792,6 +1792,17 @@
       "card_back_url": "cards/taylor_susan_back.png",
       "student_name": "Sneha Lakamsani",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "meyerson_matthew",
+      "scientist_name": "Matthew Meyerson",
+      "scientist_years": "1962 - present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "He transformed cancer treatment by showing that specific genetic mutations?most famously EGFR in lung cancer?can predict which targeted therapies will work for individual patients.",
+      "card_front_url": "cards/meyerson_matthew_front.png",
+      "card_back_url": "cards/meyerson_matthew_back.png",
+      "student_name": "Maura Saad",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1812,5 +1823,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:13:36.430Z"
+  "last_updated": "2026-01-27T23:13:42.804Z"
 }
