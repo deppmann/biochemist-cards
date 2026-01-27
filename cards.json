@@ -3783,6 +3783,17 @@
       "card_back_url": "cards/emerson_gladys_back.png",
       "student_name": "Vivian Suh",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "newman_paul",
+      "scientist_name": "Paul Newman",
+      "scientist_years": "1949 - Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Discovered and categorized the cyclin dependent kinases--the master regulators of the cell cycle.",
+      "card_front_url": "cards/newman_paul_front.png",
+      "card_back_url": "cards/newman_paul_back.png",
+      "student_name": "Wyatt Packer",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3803,5 +3814,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:44:25.979Z"
+  "last_updated": "2026-01-27T23:44:33.160Z"
 }
