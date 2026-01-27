@@ -989,6 +989,17 @@
       "card_back_url": "cards/palczewski_krzysztof_back.png",
       "student_name": "Deeya Patel",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "krebs_edwin",
+      "scientist_name": "Edwin Krebs",
+      "scientist_years": "1918-2009",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Edwin G. Krebs discovered that reversible protein phosphorylation acts as a molecular switch, establishing how enzymes are turned on and off to regulate cellular processes.",
+      "card_front_url": "cards/krebs_edwin_front.png",
+      "card_back_url": "cards/krebs_edwin_back.png",
+      "student_name": "Emily Bloom",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1009,5 +1020,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:01:45.983Z"
+  "last_updated": "2026-01-27T23:01:50.460Z"
 }
