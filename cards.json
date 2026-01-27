@@ -32,6 +32,17 @@
       "card_back_url": "cards/lipman_fritz_back.png",
       "student_name": "C dizzle",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "druker_brian",
+      "scientist_name": "Brian Druker",
+      "scientist_years": "1955-",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Developed Gleevec (imatinib), first targeted cancer therapy for CML",
+      "card_front_url": "cards/druker_brian_front.png",
+      "card_back_url": "cards/druker_brian_back.png",
+      "student_name": "Ananya Sista",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -52,5 +63,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T15:50:59.740Z"
+  "last_updated": "2026-01-27T22:50:52.645Z"
 }
