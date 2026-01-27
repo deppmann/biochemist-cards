@@ -362,6 +362,17 @@
       "card_back_url": "cards/krebs_hans_back.png",
       "student_name": "Caoilainn Bischoff",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "selkoe_dennis",
+      "scientist_name": "Dennis Selkoe",
+      "scientist_years": "1943?Present",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Dennis Selkoe?s most significant contribution is his pioneering formulation of the amyloid cascade hypothesis, which posits that the accumulation of amyloid-beta protein in the brain is the primary trigger for Alzheimer's disease pathology.",
+      "card_front_url": "cards/selkoe_dennis_front.png",
+      "card_back_url": "cards/selkoe_dennis_back.png",
+      "student_name": "Nick Sparrow",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -382,5 +393,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:55:45.503Z"
+  "last_updated": "2026-01-27T22:55:54.977Z"
 }
