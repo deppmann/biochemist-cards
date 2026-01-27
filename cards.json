@@ -2969,6 +2969,17 @@
       "card_back_url": "cards/dam_henrik_back.png",
       "student_name": "Asfar Chaudhry",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rodnina_marina",
+      "scientist_name": "Marina Rodnina",
+      "scientist_years": "1960-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Demonstrated that ribosomal arises from kinetic proofreading driven by timing differences in tRNA binding. ",
+      "card_front_url": "cards/rodnina_marina_front.png",
+      "card_back_url": "cards/rodnina_marina_back.png",
+      "student_name": "Khalilah Ellison",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2989,5 +3000,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:27:19.380Z"
+  "last_updated": "2026-01-27T23:27:23.564Z"
 }
