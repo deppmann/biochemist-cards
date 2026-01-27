@@ -1429,6 +1429,17 @@
       "card_back_url": "cards/pastan_ira_back.png",
       "student_name": "Nathalia de la Rosa",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kuntz_irwin",
+      "scientist_name": "Irwin Kuntz",
+      "scientist_years": "1935-",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Irwin \"Tack\" Kuntz revolutionized pharmaceutical research by developing DOCK, the first computational algorithm to automate structure-based drug design by mathematically matching the geometric and chemical \"negative image\" of a protein's binding pocket with potential small-molecule ligands.",
+      "card_front_url": "cards/kuntz_irwin_front.png",
+      "card_back_url": "cards/kuntz_irwin_back.png",
+      "student_name": "Thanvi Parupati",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1449,5 +1460,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:06:40.082Z"
+  "last_updated": "2026-01-27T23:06:52.032Z"
 }
