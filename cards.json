@@ -2463,6 +2463,17 @@
       "card_back_url": "cards/benzer_seymour_back.png",
       "student_name": "Samuel Fidler",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mardis_elaine",
+      "scientist_name": "Elaine Mardis",
+      "scientist_years": "1962?present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Elaine Mardis helped revolutionize cancer research by co-leading the first complete sequencing of a human cancer genome, proving that genomic data could directly inform precision cancer treatment.",
+      "card_front_url": "cards/mardis_elaine_front.png",
+      "card_back_url": "cards/mardis_elaine_back.png",
+      "student_name": "Dade Prince-Shittu",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2483,5 +2494,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:21:06.057Z"
+  "last_updated": "2026-01-27T23:21:10.209Z"
 }
