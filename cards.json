@@ -1693,6 +1693,17 @@
       "card_back_url": "cards/altman_sidney_back.png",
       "student_name": "Morgan Mackey",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "snyder_solomon",
+      "scientist_name": "Solomon H. Snyder ",
+      "scientist_years": "1938-Present ",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Revolutionized neuroscience by developing the 'bind and grind' rapid filtration method, which enabled the first biochemical identification of opiate receptors and transformed drug discovery into a molecular science.",
+      "card_front_url": "cards/snyder_solomon_front.png",
+      "card_back_url": "cards/snyder_solomon_back.png",
+      "student_name": "Caroline Schnebly ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1713,5 +1724,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:11:14.006Z"
+  "last_updated": "2026-01-27T23:11:55.922Z"
 }
