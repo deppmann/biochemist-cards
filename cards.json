@@ -2738,6 +2738,17 @@
       "card_back_url": "cards/deisseroth_karl_back.png",
       "student_name": "Jessica Yi",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "vigneaud_vincent",
+      "scientist_name": "Vincent du Vigneaud",
+      "scientist_years": "1901-1978",
+      "era": "Vitamins & Nutrition",
+      "contribution": "",
+      "card_front_url": "cards/vigneaud_vincent_front.png",
+      "card_back_url": "cards/vigneaud_vincent_back.png",
+      "student_name": "Sarah Cahill",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2758,5 +2769,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:24:31.638Z"
+  "last_updated": "2026-01-27T23:24:37.040Z"
 }
