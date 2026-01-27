@@ -109,6 +109,17 @@
       "card_back_url": "cards/lange_titia_back.png",
       "student_name": "Rob Sullivan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sll_dieter",
+      "scientist_name": "Dieter S?ll",
+      "scientist_years": "1935 -",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Dieter S?ll fundamentally expanded our understanding of the \"universal\" genetic code by discovering the indirect pathways organisms use to synthesize proteins and validating the existence of the 21st amino acid, Selenocysteine.",
+      "card_front_url": "cards/sll_dieter_front.png",
+      "card_back_url": "cards/sll_dieter_back.png",
+      "student_name": "Charlene Huynh",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -129,5 +140,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:53:06.887Z"
+  "last_updated": "2026-01-27T22:53:13.751Z"
 }
