@@ -3453,6 +3453,17 @@
       "card_back_url": "cards/bassler_bonnie_back.png",
       "student_name": "Mahlet Nebiyu",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "daly_marie",
+      "scientist_name": "Marie Maynard Daly",
+      "scientist_years": "1921-2003",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "First black women to receive a PhD in Chemistry and discovered a link between cholesterol and clogged arteries, improving understanding of heart disease.",
+      "card_front_url": "cards/daly_marie_front.png",
+      "card_back_url": "cards/daly_marie_back.png",
+      "student_name": "Sharzeeda Diallo",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3473,5 +3484,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:35:13.990Z"
+  "last_updated": "2026-01-27T23:35:32.100Z"
 }
