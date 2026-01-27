@@ -736,6 +736,17 @@
       "card_back_url": "cards/lehninger_albert_back.png",
       "student_name": "Natalie Byrne",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "perlmann_gertrude",
+      "scientist_name": "Gertrude Erika Perlmann",
+      "scientist_years": "1912-1974",
+      "era": "Metabolic Revolutions",
+      "contribution": "Gertrude Erika Perlmann clarified the structure and mechanism of the digestive enzyme pepsin, laying foundational groundwork for modern protein chemistry and enzymology.",
+      "card_front_url": "cards/perlmann_gertrude_front.png",
+      "card_back_url": "cards/perlmann_gertrude_back.png",
+      "student_name": "Emily Douglas",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -756,5 +767,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:59:32.722Z"
+  "last_updated": "2026-01-27T22:59:36.214Z"
 }
