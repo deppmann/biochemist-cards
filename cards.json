@@ -4025,6 +4025,17 @@
       "card_back_url": "cards/endy_drew_back.png",
       "student_name": "Gabrielle Wibisono",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "szent-gyrgyi_albert",
+      "scientist_name": "Albert Szent-Gy?rgyi",
+      "scientist_years": "1893 - 1966",
+      "era": "Vitamins & Nutrition",
+      "contribution": "He identified Vitamin C and discovered the catalylic role the dicauiactible acids, laying the groundwork for Krebs Cycle.",
+      "card_front_url": "cards/szent-gyrgyi_albert_front.png",
+      "card_back_url": "cards/szent-gyrgyi_albert_back.png",
+      "student_name": "Aiden G Boone",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -4045,5 +4056,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:55:29.582Z"
+  "last_updated": "2026-01-27T23:56:02.490Z"
 }
