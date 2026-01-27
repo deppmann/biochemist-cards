@@ -758,6 +758,17 @@
       "card_back_url": "cards/karrer_paul_back.png",
       "student_name": "Nina Breen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "pasteur_louis",
+      "scientist_name": "Louis Pasteur",
+      "scientist_years": "1822-1895",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Louis Pasteur's groundbreaking discovery that microorganisms cause fermentation and disease led to the development of the germ theory, revolutionizing microbiology and public health practices.",
+      "card_front_url": "cards/pasteur_louis_front.png",
+      "card_back_url": "cards/pasteur_louis_back.png",
+      "student_name": "Alzina Aman",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -778,5 +789,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:59:43.092Z"
+  "last_updated": "2026-01-27T22:59:44.626Z"
 }
