@@ -3860,6 +3860,17 @@
       "card_back_url": "cards/kahn_barbara_back.png",
       "student_name": "Maggie Shifflett",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "schoenheimer_rudolf",
+      "scientist_name": "Rudolf Schoenheimer",
+      "scientist_years": "1898-1941",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Proved that the body's chemical constituents are in a continuous state of breakdown and regeneration using isotopic tracers.",
+      "card_front_url": "cards/schoenheimer_rudolf_front.png",
+      "card_back_url": "cards/schoenheimer_rudolf_back.png",
+      "student_name": "Abdul Cheema",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3880,5 +3891,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:47:34.700Z"
+  "last_updated": "2026-01-27T23:48:19.519Z"
 }
