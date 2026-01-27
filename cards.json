@@ -1605,6 +1605,17 @@
       "card_back_url": "cards/bergstrm_sune_back.png",
       "student_name": "Sarah Hinds",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "zamore_phillip",
+      "scientist_name": "Phillip Zamore",
+      "scientist_years": "1963-Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Phillip Zamore fundamentally transformed our understanding of gene regulation by biochemically defining how the Dicer enzyme and RISC complex use small RNA guides to precisely silence target messenger RNAs.",
+      "card_front_url": "cards/zamore_phillip_front.png",
+      "card_back_url": "cards/zamore_phillip_back.png",
+      "student_name": "Syna Lodaya",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1625,5 +1636,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:09:36.064Z"
+  "last_updated": "2026-01-27T23:09:37.872Z"
 }
