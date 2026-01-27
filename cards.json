@@ -2100,6 +2100,17 @@
       "card_back_url": "cards/kaplan_nathan_back.png",
       "student_name": "Nathan David",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lipmann_fritz",
+      "scientist_name": "Fritz Albert Lipmann",
+      "scientist_years": "1899-1986",
+      "era": "Metabolic Revolutions",
+      "contribution": "",
+      "card_front_url": "cards/lipmann_fritz_front.png",
+      "card_back_url": "cards/lipmann_fritz_back.png",
+      "student_name": "Laura Chen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2120,5 +2131,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:17:05.221Z"
+  "last_updated": "2026-01-27T23:17:14.519Z"
 }
