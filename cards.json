@@ -3981,6 +3981,17 @@
       "card_back_url": "cards/richardson_charles_back.png",
       "student_name": "Nishita Koya",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cohn_mildren",
+      "scientist_name": "Mildren Cohn",
+      "scientist_years": "1913-2009",
+      "era": "Other",
+      "contribution": "Mildred Cohn pioneered the use of nuclear magnetic resonance (NMR) spectroscopy to visualize ATP's molecular structure and elucidate the mechanisms of enzymatic reactions in energy metabolism (used ai for this if this is the correct thing for us to do). ",
+      "card_front_url": "cards/cohn_mildren_front.png",
+      "card_back_url": "cards/cohn_mildren_back.png",
+      "student_name": "Caden Cleffi ",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -4001,5 +4012,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:54:36.119Z"
+  "last_updated": "2026-01-27T23:54:58.080Z"
 }
