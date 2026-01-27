@@ -2353,6 +2353,17 @@
       "card_back_url": "cards/collins_francis_back.png",
       "student_name": "Kate McCool",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fischer_edmond",
+      "scientist_name": "Edmond Fischer",
+      "scientist_years": "1920-2021",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Edmond Fischer discovered reversible protein phosphorylation, the fundamental mechanism that acts as a molecular \"on/off switch\" to regulate enzyme activity and control nearly all cellular processes.",
+      "card_front_url": "cards/fischer_edmond_front.png",
+      "card_back_url": "cards/fischer_edmond_back.png",
+      "student_name": "Alice Chang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2373,5 +2384,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:19:49.077Z"
+  "last_updated": "2026-01-27T23:19:54.292Z"
 }
