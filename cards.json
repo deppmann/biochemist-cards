@@ -868,6 +868,17 @@
       "card_back_url": "cards/rine_jasper_back.png",
       "student_name": "Yesenia Mosquera",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "london_irving",
+      "scientist_name": "Irving London",
+      "scientist_years": "1918-2012",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Revealed translational control of hemoglobin synthesis through heme-regulated mechanisms and clarified hemoglobin breakdown into bilirubin, foundational to molecular hematology.",
+      "card_front_url": "cards/london_irving_front.png",
+      "card_back_url": "cards/london_irving_back.png",
+      "student_name": "Rudra Dave",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -888,5 +899,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:00:42.900Z"
+  "last_updated": "2026-01-27T23:00:48.354Z"
 }
