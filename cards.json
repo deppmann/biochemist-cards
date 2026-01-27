@@ -3530,6 +3530,17 @@
       "card_back_url": "cards/keller_elizabeth_back.png",
       "student_name": "Naomi Debebe",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "abelson_john",
+      "scientist_name": "John Abelson",
+      "scientist_years": "1938-present",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "John Abelson is a pioneering molecular biologist who elucidated the mechanism of RNA splicing in yeast, including the identification of the spliceosome and the essential role of snRNAs. ",
+      "card_front_url": "cards/abelson_john_front.png",
+      "card_back_url": "cards/abelson_john_back.png",
+      "student_name": "Elsabea Martin",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3550,5 +3561,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:36:40.793Z"
+  "last_updated": "2026-01-27T23:36:52.304Z"
 }
