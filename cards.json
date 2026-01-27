@@ -2925,6 +2925,17 @@
       "card_back_url": "cards/tymoczko_john_back.png",
       "student_name": "Naomi Mesfin",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fajans_kasimir",
+      "scientist_name": "Kasimir Fajans",
+      "scientist_years": "1887-1975",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Kasimir Fajans established the Radioactive Displacement Law, which describes how the emission of alpha or beta particles changes an element's atomic number and shifts its position within the periodic table.",
+      "card_front_url": "cards/fajans_kasimir_front.png",
+      "card_back_url": "cards/fajans_kasimir_back.png",
+      "student_name": "Fayaz Naqshbandi",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2945,5 +2956,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:26:31.174Z"
+  "last_updated": "2026-01-27T23:26:34.432Z"
 }
