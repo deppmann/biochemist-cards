@@ -769,6 +769,17 @@
       "card_back_url": "cards/pasteur_louis_back.png",
       "student_name": "Alzina Aman",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bishop_j",
+      "scientist_name": "J. Michael Bishop ",
+      "scientist_years": "1936-Present ",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "J. Michael Bishop fundamentally changed our thinking about cancer by showing that it arises from mutations in normal genes rather than external foreign viruses. ",
+      "card_front_url": "cards/bishop_j_front.png",
+      "card_back_url": "cards/bishop_j_back.png",
+      "student_name": "Riya Soni",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -789,5 +800,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T22:59:44.626Z"
+  "last_updated": "2026-01-27T22:59:50.015Z"
 }
