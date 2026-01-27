@@ -4003,6 +4003,17 @@
       "card_back_url": "cards/rosen_evan_back.png",
       "student_name": "Clara Smith",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "colowick_sidney",
+      "scientist_name": "sidney colowick",
+      "scientist_years": "1916-1985",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Sidney Colowick co-discovered hexokinase, the vital first enzyme of glycolysis, and revolutionized the field by co-editing the definitive multi-volume series Methods in Enzymology.",
+      "card_front_url": "cards/colowick_sidney_front.png",
+      "card_back_url": "cards/colowick_sidney_back.png",
+      "student_name": "Sierra Coppage",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -4023,5 +4034,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:55:03.693Z"
+  "last_updated": "2026-01-27T23:55:22.863Z"
 }
