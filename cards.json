@@ -1165,6 +1165,17 @@
       "card_back_url": "cards/williams_roger_back.png",
       "student_name": "Sam Carlisle",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "schulten_klaus",
+      "scientist_name": "Klaus Schulten",
+      "scientist_years": "1947-2016",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Klaus Schulten revolutionized biophysics by creating the computational microscope, allowing scientists to visualize and simulate biomolecular motion at atomic resolution.",
+      "card_front_url": "cards/schulten_klaus_front.png",
+      "card_back_url": "cards/schulten_klaus_back.png",
+      "student_name": "Anjali Potu",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1185,5 +1196,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:03:33.717Z"
+  "last_updated": "2026-01-27T23:03:39.575Z"
 }
