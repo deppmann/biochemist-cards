@@ -2529,6 +2529,17 @@
       "card_back_url": "cards/lefkowitz_robert_back.png",
       "student_name": "Aaron Falik",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mccollum_elmer",
+      "scientist_name": "Elmer McCollum",
+      "scientist_years": "1879-1967",
+      "era": "Vitamins & Nutrition",
+      "contribution": "",
+      "card_front_url": "cards/mccollum_elmer_front.png",
+      "card_back_url": "cards/mccollum_elmer_back.png",
+      "student_name": "Haben Berhane",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -2549,5 +2560,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:21:55.381Z"
+  "last_updated": "2026-01-27T23:22:06.466Z"
 }
