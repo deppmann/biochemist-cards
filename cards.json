@@ -1748,6 +1748,17 @@
       "card_back_url": "cards/chargaff_erwin_back.png",
       "student_name": "Selivia Habib",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sharp_phillip",
+      "scientist_name": "Phillip Allen Sharp",
+      "scientist_years": "1944-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "",
+      "card_front_url": "cards/sharp_phillip_front.png",
+      "card_back_url": "cards/sharp_phillip_back.png",
+      "student_name": "Katherine Littlejohn",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -1768,5 +1779,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:12:30.825Z"
+  "last_updated": "2026-01-27T23:12:42.342Z"
 }
