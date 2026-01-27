@@ -3519,6 +3519,17 @@
       "card_back_url": "cards/lovelace_ava_back.png",
       "student_name": "Abigail Jimenez",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "keller_elizabeth",
+      "scientist_name": "Elizabeth Keller",
+      "scientist_years": "1918 - 1997",
+      "era": "Other",
+      "contribution": "Developed cloverleaf model of transfer RNA showing how transfer RNA helps direct genetic info within DNA to form proteins",
+      "card_front_url": "cards/keller_elizabeth_front.png",
+      "card_back_url": "cards/keller_elizabeth_back.png",
+      "student_name": "Naomi Debebe",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -3539,5 +3550,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:36:21.164Z"
+  "last_updated": "2026-01-27T23:36:28.030Z"
 }
