@@ -956,6 +956,17 @@
       "card_back_url": "cards/eijkman_christiaan_back.png",
       "student_name": "Rachel Woods",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wohler_friedrich",
+      "scientist_name": "Friedrich Wohler",
+      "scientist_years": "1800-1886",
+      "era": "Pre-1900 Foundations",
+      "contribution": "He was the first to isolate the chemical elements beryllium and yttrium in pure metallic form.",
+      "card_front_url": "cards/wohler_friedrich_front.png",
+      "card_back_url": "cards/wohler_friedrich_back.png",
+      "student_name": "Feeman Annas",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -976,5 +987,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:01:23.438Z"
+  "last_updated": "2026-01-27T23:01:26.103Z"
 }
