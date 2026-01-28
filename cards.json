@@ -4498,6 +4498,116 @@
       "card_back_url": "cards/greengard_paul_back.png",
       "student_name": "Samuel Tawiah",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "stryer_lubert",
+      "scientist_name": "Lubert Stryer",
+      "scientist_years": "1938-2024",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Lubert Stryer revolutionized biochemistry by experimentally validating the \"spectroscopic ruler\" using fluorescence resonance energy transfer (FRET) and elucidating the molecular amplification cascade of vision, while simultaneously educating millions through his definitive textbook.",
+      "card_front_url": "cards/stryer_lubert_front.png",
+      "card_back_url": "cards/stryer_lubert_back.png",
+      "student_name": "Mackenzie Elward",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hood_leroy",
+      "scientist_name": "Leroy Hood",
+      "scientist_years": "1938- present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Hood developed the first automated fluorescent DNA sequencer (1986) that replaced radioactive labeling with color-coded dyes and real-time computer detection, enabling rapid, large-scale sequencing of DNA and making the Human Genome Project feasible.",
+      "card_front_url": "cards/hood_leroy_front.png",
+      "card_back_url": "cards/hood_leroy_back.png",
+      "student_name": "Ragad Mohamedahmed",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sohonie_kamala",
+      "scientist_name": "Kamala Sohonie",
+      "scientist_years": "1911-1998",
+      "era": "Vitamins & Nutrition",
+      "contribution": "Kamala Sohonie made early, peer-reviewed contributions to biochemistry by demonstrating cytochrome oxidase activity in flowering plant tissues and later applying biochemical principles to study vitamin C stability in Indian foods.",
+      "card_front_url": "cards/sohonie_kamala_front.png",
+      "card_back_url": "cards/sohonie_kamala_back.png",
+      "student_name": "Claire Thomas",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "michel_hartmut",
+      "scientist_name": "Hartmut Michel",
+      "scientist_years": "1948\u2013Present",
+      "era": "Metabolic Revolutions",
+      "contribution": "He proved that membrane proteins\u2014once thought impossible to crystallize\u2014could be solved at atomic resolution, unlocking the molecular mechanics of photosynthesis and transforming structural biology.",
+      "card_front_url": "cards/michel_hartmut_front.png",
+      "card_back_url": "cards/michel_hartmut_back.png",
+      "student_name": "Emily Davis",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bender_myron",
+      "scientist_name": "Myron Bender",
+      "scientist_years": "1924 - 1988",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Myron Bender proved the existence of the tetrahedral intermediate in ester hydrolysis using oxygen-18 labeling, which provided the essential chemical blueprint for understanding how enzymes like chymotrypsin function.",
+      "card_front_url": "cards/bender_myron_front.png",
+      "card_back_url": "cards/bender_myron_back.png",
+      "student_name": "Jonathan George",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "caldas_carlos",
+      "scientist_name": "Carlos Caldas",
+      "scientist_years": "1963 - Present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Carlos Caldas fundamentally redefined oncology by leading the METABRIC study, which reclassified breast cancer from a single disease into a constellation of at least ten distinct molecular entities, enabling the shift toward personalized \"DNA barcode\" medicine",
+      "card_front_url": "cards/caldas_carlos_front.png",
+      "card_back_url": "cards/caldas_carlos_back.png",
+      "student_name": "Evelyn Pritchard",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cohen_stanley",
+      "scientist_name": "Stanley Cohen",
+      "scientist_years": "1922-2020",
+      "era": "Other",
+      "contribution": "Stanley Cohen revolutionized developmental biology by isolating Epidermal Growth Factor (EGF) and Nerve Growth Factor (NGF), proving that specific proteins act as chemical signals to control cell growth and differentiation.",
+      "card_front_url": "cards/cohen_stanley_front.png",
+      "card_back_url": "cards/cohen_stanley_back.png",
+      "student_name": "Sarah Finley",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "garraway_dr",
+      "scientist_name": "Dr. Levi Garraway",
+      "scientist_years": "1968-present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Dr. Levi Garraway pioneered precision oncology by creating high-throughput genomic profiling tools to identify cancer mutations and systematically uncovering the biochemical mechanisms that allow tumors to resist targeted therapies.",
+      "card_front_url": "cards/garraway_dr_front.png",
+      "card_back_url": "cards/garraway_dr_back.png",
+      "student_name": "Mackayla Raynor",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "frank_joachim",
+      "scientist_name": "Joachim Frank",
+      "scientist_years": "1940-present",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Joachim Frank pioneered single-particle cryo-electron microscopy, developing the computational algorithms necessary to reconstruct high-resolution 3D images of complex biological molecules like the ribosome from thousands of random 2D projections.",
+      "card_front_url": "cards/frank_joachim_front.png",
+      "card_back_url": "cards/frank_joachim_back.png",
+      "student_name": "Kiersten Fearrington",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "levitt_michael",
+      "scientist_name": "Michael Levitt",
+      "scientist_years": "1947 - present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "",
+      "card_front_url": "cards/levitt_michael_front.png",
+      "card_back_url": "cards/levitt_michael_back.png",
+      "student_name": "Andrea Palomino-Jayo",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
