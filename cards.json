@@ -5708,6 +5708,116 @@
       "card_back_url": "cards/prendergast_george_back.png",
       "student_name": "Raegan Reed",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "medzhitov_ruslan",
+      "scientist_name": "Ruslan Medzhitov",
+      "scientist_years": "1966-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Demonstrated that Toll-like receptors are essential for activating the innate immune response in mammals.",
+      "card_front_url": "cards/medzhitov_ruslan_front.png",
+      "card_back_url": "cards/medzhitov_ruslan_back.png",
+      "student_name": "Veronica Silva",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "zhang_yi",
+      "scientist_name": "Yi Zhang",
+      "scientist_years": "1961-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Yi Zhang systematically discovered and characterized key chromatin\u2011modifying enzymes, revealing how epigenetic regulation controls gene expression and development.",
+      "card_front_url": "cards/zhang_yi_front.png",
+      "card_back_url": "cards/zhang_yi_back.png",
+      "student_name": "Kayli Nguyen",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hershey_alfred",
+      "scientist_name": "Alfred Hershey",
+      "scientist_years": "1908-1997",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Alfred Hershey, alongside Martha Chase, conducted the 1952 \"blender experiment\" using bacteriophages to definitively prove that DNA, not protein, is the genetic material responsible for carrying hereditary information.",
+      "card_front_url": "cards/hershey_alfred_front.png",
+      "card_back_url": "cards/hershey_alfred_back.png",
+      "student_name": "Kareem Fenaish",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "brunger_axel",
+      "scientist_name": "Axel Brunger",
+      "scientist_years": "1956-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Axel Brunger is a cellist and often incorporates music in his work",
+      "card_front_url": "cards/brunger_axel_front.png",
+      "card_back_url": "cards/brunger_axel_back.png",
+      "student_name": "Kate Lee",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "young_michael",
+      "scientist_name": "Michael W. Young",
+      "scientist_years": "1949 - Present",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "I inserted the prompts into AI and changed the filenames to .JPEG and changed them to be under 1MB",
+      "card_front_url": "cards/young_michael_front.png",
+      "card_back_url": "cards/young_michael_back.png",
+      "student_name": "Jordan Stewart-Mitchell",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cedar_howard",
+      "scientist_name": "Howard Cedar",
+      "scientist_years": "January 12, 1943 - Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Howard Cedar helped establish DNA methylation as a core epigenetic mechanism that can regulate (often silence) gene expression, shaping how cells with the same DNA adopt different identities and states.",
+      "card_front_url": "cards/cedar_howard_front.png",
+      "card_back_url": "cards/cedar_howard_back.png",
+      "student_name": "Kate Liang",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lu_yi",
+      "scientist_name": "Yi Lu",
+      "scientist_years": "1971-Present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Yi Lu pioneered DNAzymes as metal-dependent catalytic tools, enabling simple biosensors and new DNA-based methods for molecular targeting and gene editing.",
+      "card_front_url": "cards/lu_yi_front.png",
+      "card_back_url": "cards/lu_yi_back.png",
+      "student_name": "Daniel Xu",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "schwede_torsten",
+      "scientist_name": "Torsten Schwede",
+      "scientist_years": "1971-Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Torsten Schwede is a renowned computational biologist known for his pioneering contributions to homology modeling, specifically for developing and maintaining SWISS-MODEL, one of the most widely used automated systems for predicting the 3D structures of proteins.",
+      "card_front_url": "cards/schwede_torsten_front.png",
+      "card_back_url": "cards/schwede_torsten_back.png",
+      "student_name": "Lily Orabi",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "weissman_drew",
+      "scientist_name": "Drew Weissman",
+      "scientist_years": "1959-",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "He discovered that modifying mRNA with nucleoside base modifications allows it to evade the immune system's inflammatory response, a breakthrough that enabled the development of effective mRNA vaccines.",
+      "card_front_url": "cards/weissman_drew_front.png",
+      "card_back_url": "cards/weissman_drew_back.png",
+      "student_name": "Sophia Qamari",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ross_irwin",
+      "scientist_name": "Irwin Ross",
+      "scientist_years": "1926\u20132015",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Decoding Protein Death",
+      "card_front_url": "cards/ross_irwin_front.png",
+      "card_back_url": "cards/ross_irwin_back.png",
+      "student_name": "Elliot Jang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
