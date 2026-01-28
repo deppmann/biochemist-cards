@@ -4080,6 +4080,17 @@
       "card_back_url": "cards/lynen_fedor_back.png",
       "student_name": "Rediet Bedasso",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "hill_robin",
+      "scientist_name": "Robin Hill",
+      "scientist_years": "1899-1991",
+      "era": "Metabolic Revolutions",
+      "contribution": "Robin Hill fundamentally changed our understanding of photosynthesis by experimentally proving that oxygen production comes from splitting water (the \"Hill Reaction\") and later developing the Z-scheme model to map electron transport.",
+      "card_front_url": "cards/hill_robin_front.png",
+      "card_back_url": "cards/hill_robin_back.png",
+      "student_name": "Emily Cobourn",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4100,5 +4111,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T00:01:50.962Z"
+  "last_updated": "2026-01-28T00:07:42.503Z"
 }
