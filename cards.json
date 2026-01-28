@@ -4091,6 +4091,17 @@
       "card_back_url": "cards/hill_robin_back.png",
       "student_name": "Emily Cobourn",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "gunthrie_christine",
+      "scientist_name": "Christine Gunthrie ",
+      "scientist_years": "1945-2022",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Christine Guthrie made a major contribution to molecular biology by demonstrating that RNA splicing is directed by specific RNA?RNA base-pairing interactions, providing the first genetic proof of how the spliceosome recognizes splice sites.",
+      "card_front_url": "cards/gunthrie_christine_front.png",
+      "card_back_url": "cards/gunthrie_christine_back.png",
+      "student_name": "Emma Leishear",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4111,5 +4122,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T00:14:43.355Z"
+  "last_updated": "2026-01-28T00:15:00.999Z"
 }
