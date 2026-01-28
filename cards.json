@@ -4388,6 +4388,116 @@
       "card_back_url": "cards/tsvet_mikhail_back.png",
       "student_name": "Schubin Chon",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kolbe_hermann",
+      "scientist_name": "Hermann Kolbe",
+      "scientist_years": "1818-1884",
+      "era": "Other",
+      "contribution": "Hermann Kolbe advanced 19th-century organic chemistry by using rigorous reaction-based evidence to argue for molecular \u201cconstitution\u201d and by demonstrating a widely accepted synthesis of acetic acid from inorganic precursors, helping make organic compounds feel buildable rather than \u201cvital.\u201d",
+      "card_front_url": "cards/kolbe_hermann_front.png",
+      "card_back_url": "cards/kolbe_hermann_back.png",
+      "student_name": "Zahra Amin",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hassabis_demis",
+      "scientist_name": "Demis Hassabis",
+      "scientist_years": "1976-present",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Demis Hassabis oversaw the development of AlphaFold, a deep learning system that predicts 3D protein structures from amino acid sequences with near-experimental accuracy, thereby transforming structural biology and biochemistry research globally.",
+      "card_front_url": "cards/hassabis_demis_front.png",
+      "card_back_url": "cards/hassabis_demis_back.png",
+      "student_name": "Lilly Mae Patterson",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sabatini_david",
+      "scientist_name": "David Sabatini",
+      "scientist_years": "2002\u20132021",
+      "era": "Metabolic Revolutions",
+      "contribution": "David M. Sabatini revolutionized our understanding of cellular physiology by discovering the mTOR (mechanistic Target of Rapamycin) protein kinase and its role as a master \"switch\" that coordinates cell growth and metabolism in response to nutrient availability.",
+      "card_front_url": "cards/sabatini_david_front.png",
+      "card_back_url": "cards/sabatini_david_back.png",
+      "student_name": "Eric Wei",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sharma_manju",
+      "scientist_name": "Manju Sharma",
+      "scientist_years": "1940-2024",
+      "era": "Metabolic Revolutions",
+      "contribution": "She demonstrated that applying ethylene-stimulating compounds could double latex yield in rubber plants, linking plant biochemistry directly to industrial output.",
+      "card_front_url": "cards/sharma_manju_front.png",
+      "card_back_url": "cards/sharma_manju_back.png",
+      "student_name": "Sofia Vargas",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "eisenberg_david",
+      "scientist_name": "David Eisenberg",
+      "scientist_years": "1939-Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "David Eisenberg discovered the \"steric zipper,\" the structural core of amyloid fibrils that consists of two tightly interdigitated $\\beta$-sheets, providing the first high-resolution molecular explanation for the protein aggregation found in neurodegenerative diseases like Alzheimer\u2019s.",
+      "card_front_url": "cards/eisenberg_david_front.png",
+      "card_back_url": "cards/eisenberg_david_back.png",
+      "student_name": "Caleb Lee",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "groudine_mark",
+      "scientist_name": "Mark Groudine",
+      "scientist_years": "1948 - Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Mark Groudine fundamentally transformed our understanding of gene regulation by proving that active DNA exists in a physically \"open\" and accessible chromatin state, uniquely susceptible to enzymatic digestion.",
+      "card_front_url": "cards/groudine_mark_front.png",
+      "card_back_url": "cards/groudine_mark_back.png",
+      "student_name": "Franklin Li",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "baker_david",
+      "scientist_name": "David Baker",
+      "scientist_years": "1962- present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "He pioneered the Rosetta platform for predicting and designing protein structures, proving scientists can create entirely new proteins (like Top7) that fold with near-atomic accuracy",
+      "card_front_url": "cards/baker_david_front.png",
+      "card_back_url": "cards/baker_david_back.png",
+      "student_name": "Connor Pennell",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "guillemin_roger",
+      "scientist_name": "Roger Guillemin",
+      "scientist_years": "1924 - 2024",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Roger Guillemin discovered that the brain controls the body\u2019s hormone system by releasing tiny peptide signals (like TRH and GnRH) that tell the pituitary gland what to do, founding modern neuroendocrinology.",
+      "card_front_url": "cards/guillemin_roger_front.png",
+      "card_back_url": "cards/guillemin_roger_back.png",
+      "student_name": "Henry Hance",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "huxley_andrew",
+      "scientist_name": "Andrew Huxley",
+      "scientist_years": "1917-2012",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Sir Andrew Huxley's primary contribution was the discovery of the ionic mechanism of the nerve impulse, which he mathematically modeled with Alan Hodgkin to explain how voltage-gated ion channels generate action potentials.",
+      "card_front_url": "cards/huxley_andrew_front.png",
+      "card_back_url": "cards/huxley_andrew_back.png",
+      "student_name": "Maya Farley",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "greengard_paul",
+      "scientist_name": "Paul Greengard",
+      "scientist_years": "1925 - 2019",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "He revealed how neurotransmitters trigger intracellular signaling pathways in neurons, transforming modern neuroscience and earning the 2000 Nobel Prize.",
+      "card_front_url": "cards/greengard_paul_front.png",
+      "card_back_url": "cards/greengard_paul_back.png",
+      "student_name": "Samuel Tawiah",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
