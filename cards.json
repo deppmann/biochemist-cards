@@ -6038,6 +6038,116 @@
       "card_back_url": "cards/chen_junjie_back.png",
       "student_name": "Samantha Wang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "foote_eunice",
+      "scientist_name": "Eunice Foote",
+      "scientist_years": "1819-1888",
+      "era": "Pre-1900 Foundations",
+      "contribution": "She is best known for discovering the Greenhouse Effect and CO2 heat trapping.",
+      "card_front_url": "cards/foote_eunice_front.png",
+      "card_back_url": "cards/foote_eunice_back.png",
+      "student_name": "Naja Pressey",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sancar_aziz",
+      "scientist_name": "Aziz Sancar",
+      "scientist_years": "1946 - Present",
+      "era": "DNA Structure & Replication",
+      "contribution": "He mapped the mechanism of nucleotide excision repair, showing how cells fix DNA damage from UV radiation and chemicals.",
+      "card_front_url": "cards/sancar_aziz_front.png",
+      "card_back_url": "cards/sancar_aziz_back.png",
+      "student_name": "Alexa Gross",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "berg_jeremy",
+      "scientist_name": "Jeremy Berg",
+      "scientist_years": "1958",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Jeremy Berg bridged the gap between molecular structure and science policy by predicting the zinc finger motif through chemical logic, authoring the definitive Biochemistry textbook, and pioneering transparency at the NIH.",
+      "card_front_url": "cards/berg_jeremy_front.png",
+      "card_back_url": "cards/berg_jeremy_back.png",
+      "student_name": "Jackson Gayeski",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bouhassira_eric",
+      "scientist_name": "Eric Bouhassira",
+      "scientist_years": "1947-2017",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Eric Bouhassira pioneered techniques to transform human embryonic stem cells into functional red blood cells, laying the groundwork for the future of synthetic blood production and regenerative medicine.",
+      "card_front_url": "cards/bouhassira_eric_front.png",
+      "card_back_url": "cards/bouhassira_eric_back.png",
+      "student_name": "Yury Park",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "heijne_gunnar",
+      "scientist_name": "Gunnar von Heijne",
+      "scientist_years": "1951-present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Gunnar von Heijne revolutionized our understanding of membrane protein assembly by discovering the \"positive-inside rule,\" which explains how positively charged amino acids determine the orientation of proteins within cell membranes.",
+      "card_front_url": "cards/heijne_gunnar_front.png",
+      "card_back_url": "cards/heijne_gunnar_back.png",
+      "student_name": "Emma Nickol",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wyman_jeffries",
+      "scientist_name": "Jeffries Wyman",
+      "scientist_years": "1950-2000",
+      "era": "Other",
+      "contribution": "Co-developed Monod-Wyman-Changeux (MWC) model explaining allostery and cooperativity via a connected T <-> R state transition.",
+      "card_front_url": "cards/wyman_jeffries_front.png",
+      "card_back_url": "cards/wyman_jeffries_back.png",
+      "student_name": "Ava Franklin",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rich_alexander",
+      "scientist_name": "Alexander Rich",
+      "scientist_years": "1924-2015",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "",
+      "card_front_url": "cards/rich_alexander_front.png",
+      "card_back_url": "cards/rich_alexander_back.png",
+      "student_name": "Samia Khan",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "honjo_tasuku",
+      "scientist_name": "Tasuku Honjo",
+      "scientist_years": "1942-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "He identified PD-1 as an inhibitory \"brake\" on the immune system, leading to revolutionary cancer immunotherapy treatments.",
+      "card_front_url": "cards/honjo_tasuku_front.png",
+      "card_back_url": "cards/honjo_tasuku_back.png",
+      "student_name": "Kenny Jiang",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "michaelis_leonor",
+      "scientist_name": "Leonor Michaelis",
+      "scientist_years": "1875\u20131949",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Leonor Michaelis laid the mathematical foundation of modern enzymology by co-developing the Michaelis\u2013Menten equation, which quantitatively explains how enzymes catalyze chemical reactions.",
+      "card_front_url": "cards/michaelis_leonor_front.png",
+      "card_back_url": "cards/michaelis_leonor_back.png",
+      "student_name": "Ishita Bakshi",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "buchner_eduard",
+      "scientist_name": "Eduard Buchner",
+      "scientist_years": "1860-1917",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Eduard Buchner proved that fermentation is driven by enzymes rather than living cells by demonstrating alcoholic fermentation in cell-free yeast extracts.",
+      "card_front_url": "cards/buchner_eduard_front.png",
+      "card_back_url": "cards/buchner_eduard_back.png",
+      "student_name": "Faizan Ali",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
