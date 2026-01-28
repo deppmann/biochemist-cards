@@ -4069,6 +4069,17 @@
       "card_back_url": "cards/steitz_thomas_back.png",
       "student_name": "Lucy Friedman",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lynen_fedor",
+      "scientist_name": "Fedor Lynen",
+      "scientist_years": "1911?1979",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "He won a Nobel prize in physiology or medicine for discovering concerning mechanism and regulation of cholestrol and fatty acid metabolism.",
+      "card_front_url": "cards/lynen_fedor_front.png",
+      "card_back_url": "cards/lynen_fedor_back.png",
+      "student_name": "Rediet Bedasso",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4089,5 +4100,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-27T23:59:50.166Z"
+  "last_updated": "2026-01-28T00:01:50.962Z"
 }
