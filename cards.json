@@ -6368,6 +6368,116 @@
       "card_back_url": "cards/kouzarides_tony_back.png",
       "student_name": "Khang Nguyen",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "needleman_phillip",
+      "scientist_name": "Phillip Needleman",
+      "scientist_years": "1936-2022",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Philip Needleman's defining contribution was the discovery of the COX-2 enzyme, which paved the way for the development of Celebrex and a new class of safer, more targeted anti-inflammatory drugs.",
+      "card_front_url": "cards/needleman_phillip_front.png",
+      "card_back_url": "cards/needleman_phillip_back.png",
+      "student_name": "Yasmin",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "vousden_karen",
+      "scientist_name": "Karen Vousden",
+      "scientist_years": "1957-",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Karen H. Vousden transformed cancer biology by revealing how the p53 tumor suppressor is regulated by MDM2 and linked to broader cellular stress and metabolic pathways, enabling new strategies to reactivate p53 in cancer therapy.",
+      "card_front_url": "cards/vousden_karen_front.png",
+      "card_back_url": "cards/vousden_karen_back.png",
+      "student_name": "Akshara Reddy",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "szostak_jack",
+      "scientist_name": "Jack Szostak",
+      "scientist_years": "1952-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Demonstrated that simple fatty-acid membranes could form leaky protocells capable of supporting early RNA-based life.",
+      "card_front_url": "cards/szostak_jack_front.png",
+      "card_back_url": "cards/szostak_jack_back.png",
+      "student_name": "Heewon Lim",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ephrussi-taylor_harriet",
+      "scientist_name": "Harriet Ephrussi-Taylor",
+      "scientist_years": "1918-1968",
+      "era": "Other",
+      "contribution": "Harriet Ephrussi-Taylor provided early, critical confirmation that DNA is the genetic material and pioneered the mapping of bacterial genes by demonstrating that distinct traits are carried on specific, transferable DNA fragments.",
+      "card_front_url": "cards/ephrussi-taylor_harriet_front.png",
+      "card_back_url": "cards/ephrussi-taylor_harriet_back.png",
+      "student_name": "Julia Dill",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mccammon_andrew",
+      "scientist_name": "Andrew McCammon",
+      "scientist_years": "1947-Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Performed the first molecular dynamics simulation of a protein, proving that biological molecules are not static but dynamic machines in constant motion.",
+      "card_front_url": "cards/mccammon_andrew_front.png",
+      "card_back_url": "cards/mccammon_andrew_back.png",
+      "student_name": "Alexis Niemi",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "levinthal_cyrus",
+      "scientist_name": "Cyrus Levinthal",
+      "scientist_years": "1922-1990",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Cyrus Levinthal showed that protein folding cannot occur by random trial and error\u2014a principle later called Levinthal\u2019s paradox\u2014and pioneered interactive computer graphics to visualize how amino acid sequences fold into three-dimensional structures.",
+      "card_front_url": "cards/levinthal_cyrus_front.png",
+      "card_back_url": "cards/levinthal_cyrus_back.png",
+      "student_name": "Jack Clements",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "windaus_adolf",
+      "scientist_name": "Adolf Windaus",
+      "scientist_years": "1876-1959",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Adolf Windaus elucidated the chemical structures of sterols and demonstrated their fundamental connection to vitamins, laying the groundwork for the discovery and understanding of vitamin D.",
+      "card_front_url": "cards/windaus_adolf_front.png",
+      "card_back_url": "cards/windaus_adolf_back.png",
+      "student_name": "Allan Cheng",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hofmeister_franz",
+      "scientist_name": "Franz Hofmeister",
+      "scientist_years": "1850-1922",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Ranking ions, revealing proteins",
+      "card_front_url": "cards/hofmeister_franz_front.png",
+      "card_back_url": "cards/hofmeister_franz_back.png",
+      "student_name": "Isabel Shim",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "laviosier_antione",
+      "scientist_name": "Antione Laviosier",
+      "scientist_years": "1743-1794",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Quantifusion and consumed and produced, framing respiration as \"slow combustion\"",
+      "card_front_url": "cards/laviosier_antione_front.png",
+      "card_back_url": "cards/laviosier_antione_back.png",
+      "student_name": "Melis Baloglu",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "todd_alexander",
+      "scientist_name": "Alexander Todd",
+      "scientist_years": "1907-1997",
+      "era": "Vitamins & Nutrition",
+      "contribution": "He achieved the total synthesis of ATP and identified the 3'-5' phosphodiester linkage that forms the backbone of DNA and RNA.",
+      "card_front_url": "cards/todd_alexander_front.png",
+      "card_back_url": "cards/todd_alexander_back.png",
+      "student_name": "Leila Carey",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
