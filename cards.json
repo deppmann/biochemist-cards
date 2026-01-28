@@ -4278,6 +4278,116 @@
       "card_back_url": "cards/pearce_erika_back.png",
       "student_name": "Julia Skinner",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wickner_susan",
+      "scientist_name": "Susan Wickner",
+      "scientist_years": "1945-2016",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Sue Wickner's research elucidated the ATP-dependent activity of chaperones like Hsp70 and Hsp90, critical for protein folding, aggregation prevention, and maintaining cellular proteostasis.",
+      "card_front_url": "cards/wickner_susan_front.png",
+      "card_back_url": "cards/wickner_susan_back.png",
+      "student_name": "Dua Umar",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bhattacharyya_ruben",
+      "scientist_name": "Ruben Bhattacharyya",
+      "scientist_years": "1947-2021",
+      "era": "Structural Biology Revolution",
+      "contribution": "He pioneered fluorescence-based assays showing that colchicine \u201clights up\u201d when bound to tubulin, transforming how scientists study protein\u2013drug interactions in real time.",
+      "card_front_url": "cards/bhattacharyya_ruben_front.png",
+      "card_back_url": "cards/bhattacharyya_ruben_back.png",
+      "student_name": "Cayla Lee",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "arnold_frances",
+      "scientist_name": "Frances Hamilton Arnold",
+      "scientist_years": "1956\u2013Present",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Pioneered directed evolution by using iterative random mutagenesis and artificial selection to \"breed\" enzymes for non-natural environments.",
+      "card_front_url": "cards/arnold_frances_front.png",
+      "card_back_url": "cards/arnold_frances_back.png",
+      "student_name": "Diya Ghosh",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "keilin_david",
+      "scientist_name": "David Keilin",
+      "scientist_years": "1887\u20131963",
+      "era": "Metabolic Revolutions",
+      "contribution": "David Keilin is best known for rediscovering and naming cytochromes, fundamentally changing biochemistry by demonstrating that these respiratory pigments are the universal machinery used by all living cells to generate energy.",
+      "card_front_url": "cards/keilin_david_front.png",
+      "card_back_url": "cards/keilin_david_back.png",
+      "student_name": "Reese Burgener",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sutherland_earl",
+      "scientist_name": "Earl Sutherland",
+      "scientist_years": "1915\u20131974",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Earl Sutherland revolutionized our understanding of cell signaling by discovering cyclic AMP (cAMP) and establishing the \"second messenger\" concept, which explains how hormones transmit information from outside the cell to trigger specific internal responses.",
+      "card_front_url": "cards/sutherland_earl_front.png",
+      "card_back_url": "cards/sutherland_earl_back.png",
+      "student_name": "Taylor Buckley",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "friedman_jeffrey",
+      "scientist_name": "Jeffrey Friedman",
+      "scientist_years": "1954-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Jeffrey Friedman revolutionized our understanding of obesity by identifying and cloning the ob gene, which led to the discovery of leptin\u2014a hormone secreted by fat cells that signals the brain to regulate food intake and body weight.",
+      "card_front_url": "cards/friedman_jeffrey_front.png",
+      "card_back_url": "cards/friedman_jeffrey_back.png",
+      "student_name": "Aaron Silver",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ratner_sarah",
+      "scientist_name": "Sarah Ratner",
+      "scientist_years": "1903-1999",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "\"If a problem is worth doing, it is worth doing well, regardless of the time it takes.\"",
+      "card_front_url": "cards/ratner_sarah_front.png",
+      "card_back_url": "cards/ratner_sarah_back.png",
+      "student_name": "Carolina Brown Vasquez",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "brown_michael",
+      "scientist_name": "Michael Brown",
+      "scientist_years": "1941-Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Michael Brown discovered the LDL receptor and the process of receptor-mediated endocytosis, revealing how cells regulate cholesterol and providing the scientific foundation for life-saving statin drugs.",
+      "card_front_url": "cards/brown_michael_front.png",
+      "card_back_url": "cards/brown_michael_back.png",
+      "student_name": "Reilly O'Brien",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hartwell_leland",
+      "scientist_name": "Leland Hartwell",
+      "scientist_years": "1939-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "",
+      "card_front_url": "cards/hartwell_leland_front.png",
+      "card_back_url": "cards/hartwell_leland_back.png",
+      "student_name": "Krishita Muduli",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "tsvet_mikhail",
+      "scientist_name": "Mikhail Tsvet",
+      "scientist_years": "1872-1919",
+      "era": "Pre-1900 Foundations",
+      "contribution": "(Chose Favorite Scientist) \"Mikhail Tsvet invented column chromatography, the first non-destructive method for separating complex biological mixtures, which became the fundamental tool required to analyze everything from proteins to DNA.\"",
+      "card_front_url": "cards/tsvet_mikhail_front.png",
+      "card_back_url": "cards/tsvet_mikhail_back.png",
+      "student_name": "Schubin Chon",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
