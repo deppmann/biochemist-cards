@@ -4938,6 +4938,116 @@
       "card_back_url": "cards/rodbell_martin_back.png",
       "student_name": "Maria Dolan",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "smith_lloyd",
+      "scientist_name": "Lloyd Smith",
+      "scientist_years": "1949-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Lloyd M. Smith revolutionized genetics by inventing the first fluorescence-based automated DNA sequencer, a breakthrough that replaced hazardous radioactive materials with a four-color \"color code\" and transformed DNA sequencing from a slow, manual craft into a high-speed digital industry.",
+      "card_front_url": "cards/smith_lloyd_front.png",
+      "card_back_url": "cards/smith_lloyd_back.png",
+      "student_name": "Mishti Mittal",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chambon_pierre",
+      "scientist_name": "Pierre Chambon",
+      "scientist_years": "1931-Present",
+      "era": "Other",
+      "contribution": "Revealed how small molecules like retinoic acid regulate gene expression by binding nuclear receptors that directly control transcription.",
+      "card_front_url": "cards/chambon_pierre_front.png",
+      "card_back_url": "cards/chambon_pierre_back.png",
+      "student_name": "Meredith McDermott",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "varmus_harold",
+      "scientist_name": "Harold Varmus",
+      "scientist_years": "1939 - present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Harold Varmus discovered that cancer-causing viral oncogenes are altered versions of normal cellular genes, fundamentally redefining cancer as a genetic disease",
+      "card_front_url": "cards/varmus_harold_front.png",
+      "card_back_url": "cards/varmus_harold_back.png",
+      "student_name": "Isabel Smith",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "massey_vincent",
+      "scientist_name": "Vincent Massey",
+      "scientist_years": "1926-2002",
+      "era": "Metabolic Revolutions",
+      "contribution": "Vincent Massey's primary contribution was the pioneering use of stopped-flow spectrophotometry to directly observe and characterize short-lived, transient intermediates in enzymatic reactions, which revolutionized our mechanistic understanding of how flavoproteins utilize Vitamin B2 to facilitate electron transfer.",
+      "card_front_url": "cards/massey_vincent_front.png",
+      "card_back_url": "cards/massey_vincent_back.png",
+      "student_name": "Lyden Butler",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "masui_yoshio",
+      "scientist_name": "Yoshio Masui",
+      "scientist_years": "1931\u20132024",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "",
+      "card_front_url": "cards/masui_yoshio_front.png",
+      "card_back_url": "cards/masui_yoshio_back.png",
+      "student_name": "Maggie Parkhurst",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lindquist_susan",
+      "scientist_name": "Susan Lee Lindquist",
+      "scientist_years": "1949-2016",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "\"Folded Proteins, Unfolded Rules\"",
+      "card_front_url": "cards/lindquist_susan_front.png",
+      "card_back_url": "cards/lindquist_susan_back.png",
+      "student_name": "Nadia Kamal",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lancefield_rebecca",
+      "scientist_name": "Rebecca Lancefield",
+      "scientist_years": "1895-1981",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "She discovered and characterized the streptococcal M protein, creating the precipitin-based serological typing system that linked specific bacterial strains to diseases like rheumatic fever.",
+      "card_front_url": "cards/lancefield_rebecca_front.png",
+      "card_back_url": "cards/lancefield_rebecca_back.png",
+      "student_name": "Carolyn Tran",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "stanley_wendell",
+      "scientist_name": "Wendell Meredith Stanley",
+      "scientist_years": "1904-1971",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Wendell Meredith Stanley pioneered the field of molecular virology by demonstrating that the tobacco mosaic virus could be crystallized and characterized as a functional nucleoprotein, effectively bridging the gap between inanimate chemical substances and living organisms.",
+      "card_front_url": "cards/stanley_wendell_front.png",
+      "card_back_url": "cards/stanley_wendell_back.png",
+      "student_name": "Alhaji Bah",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dzirasa_kafui",
+      "scientist_name": "Kafui Dzirasa",
+      "scientist_years": "Life: 1978-Present   Career: 2001-Present",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Kafui Dzirasa pioneered the concept of the \"electrome,\" demonstrating that mental illness arises from the precise timing of electrical signals between brain circuits rather than just chemical imbalances, and he developed closed-loop optogenetic tools to detect and correct these dysfunctions in real-time.",
+      "card_front_url": "cards/dzirasa_kafui_front.png",
+      "card_back_url": "cards/dzirasa_kafui_back.png",
+      "student_name": "Esam Zafar",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "green_philip",
+      "scientist_name": "Philip Green",
+      "scientist_years": "1949",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Philip Green revolutionized the field of genomics by developing the Phred and Phrap algorithms, which provided the essential mathematical accuracy and assembly tools required to sequence the first human genome.",
+      "card_front_url": "cards/green_philip_front.png",
+      "card_back_url": "cards/green_philip_back.png",
+      "student_name": "Isabelle Michalski",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
