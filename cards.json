@@ -5928,6 +5928,116 @@
       "card_back_url": "cards/fletterick_robert_back.png",
       "student_name": "Angela Kim",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "meister_alton",
+      "scientist_name": "Alton Meister",
+      "scientist_years": "1922-1995",
+      "era": "Metabolic Revolutions",
+      "contribution": "",
+      "card_front_url": "cards/meister_alton_front.png",
+      "card_back_url": "cards/meister_alton_back.png",
+      "student_name": "Ben Curulla",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "woese_carl",
+      "scientist_name": "Carl Woese",
+      "scientist_years": "1928-2012",
+      "era": "DNA Structure & Replication",
+      "contribution": "By combining rigorous molecular \"fingerprinting\" with a rebellious disregard for academic dogma, Carl Woese effectively redrew the map of existence to include the long-hidden domain of Archaea.",
+      "card_front_url": "cards/woese_carl_front.png",
+      "card_back_url": "cards/woese_carl_back.png",
+      "student_name": "Alexandra Janssen",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "snell_esmond",
+      "scientist_name": "Esmond Snell",
+      "scientist_years": "1914-2003",
+      "era": "Vitamins & Nutrition",
+      "contribution": "Esmond Emerson Snell was a pioneering biochemist whose work helped identify, characterize, and explain the biological roles of essential vitamins and enzyme cofactors, laying foundations for modern nutritional biochemistry.",
+      "card_front_url": "cards/snell_esmond_front.png",
+      "card_back_url": "cards/snell_esmond_back.png",
+      "student_name": "Lily Bui",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "goldberger_joseph",
+      "scientist_name": "Joseph Goldberger",
+      "scientist_years": "1874\u20131929",
+      "era": "Vitamins & Nutrition",
+      "contribution": "Joseph Goldberger transformed both epidemiology and biochemistry by proving that pellagra was not a infectious disease, but rather a metabolic failure caused by nutritional deficiency.",
+      "card_front_url": "cards/goldberger_joseph_front.png",
+      "card_back_url": "cards/goldberger_joseph_back.png",
+      "student_name": "Christa Carneal",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sternberg_samuel",
+      "scientist_name": "Samuel Sternberg",
+      "scientist_years": "1984-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Revealed the safety catch mechanism of Cas9 and developed the transposon-based INTEGRATE system.",
+      "card_front_url": "cards/sternberg_samuel_front.png",
+      "card_back_url": "cards/sternberg_samuel_back.png",
+      "student_name": "Benjamin Wu",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sadiqi_obaid",
+      "scientist_name": "Obaid Sadiqi",
+      "scientist_years": "1932-2019",
+      "era": "Other",
+      "contribution": "He discovered \"suppressors of nonsense mutations,\" providing the biochemical proof for stop codons and protein chain termination.",
+      "card_front_url": "cards/sadiqi_obaid_front.png",
+      "card_back_url": "cards/sadiqi_obaid_back.png",
+      "student_name": "Rehaan Wadhwannia",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "govindjee",
+      "scientist_name": "Govindjee",
+      "scientist_years": "1932-present",
+      "era": "Metabolic Revolutions",
+      "contribution": "Govindjee is a foundational figure in biochemistry, most notably celebrated for his pioneering research on Photosystem II and the mechanisms of chlorophyll fluorescence, which fundamentally reshaped our understanding of how plants convert light into chemical energy.",
+      "card_front_url": "cards/govindjee_front.png",
+      "card_back_url": "cards/govindjee_back.png",
+      "student_name": "Davis Curley",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "strooper_bart",
+      "scientist_name": "Bart de Strooper",
+      "scientist_years": "1960-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Identified the $\\gamma$-secretase complex and proved that Presenilin acts as the catalytic \"scissors\" that produce Amyloid-$\\beta$.",
+      "card_front_url": "cards/strooper_bart_front.png",
+      "card_back_url": "cards/strooper_bart_back.png",
+      "student_name": "Aidan Schaar",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "palade_george",
+      "scientist_name": "George Emil Palade",
+      "scientist_years": "1912-2008",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "George Emil Palade pioneered the use of electron microscopy to reveal the structure and function of ribosomes and intracellular pathways, laying the foundation of modern cell biology.",
+      "card_front_url": "cards/palade_george_front.png",
+      "card_back_url": "cards/palade_george_back.png",
+      "student_name": "Alexandra Cerny",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chen_junjie",
+      "scientist_name": "Junjie Chen",
+      "scientist_years": "1966-",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Investigation of the roles of DNA damage response in innate immunity",
+      "card_front_url": "cards/chen_junjie_front.png",
+      "card_back_url": "cards/chen_junjie_back.png",
+      "student_name": "Samantha Wang",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
