@@ -5598,6 +5598,116 @@
       "card_back_url": "cards/sorensen_soren_back.png",
       "student_name": "ashley",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "helmont_jan",
+      "scientist_name": "Jan Baptist van Helmont",
+      "scientist_years": "1580-1644",
+      "era": "Pre-1900 Foundations",
+      "contribution": "He identified that plants gain mass from water rather than soil and was the first to recognize and name 'gas' as a distinct state of matter.",
+      "card_front_url": "cards/helmont_jan_front.png",
+      "card_back_url": "cards/helmont_jan_back.png",
+      "student_name": "Bethel Abebe",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "frydman_judith",
+      "scientist_name": "Judith Frydman",
+      "scientist_years": "1963-Present",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Mapping the Secrets of Rebel Proteins",
+      "card_front_url": "cards/frydman_judith_front.png",
+      "card_back_url": "cards/frydman_judith_back.png",
+      "student_name": "Catherine Zhou",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ernst_richard",
+      "scientist_name": "Richard Ernst",
+      "scientist_years": "1933-2021",
+      "era": "Structural Biology Revolution",
+      "contribution": "Richard Ernst revolutionized biochemistry by developing 2D Fourier Transform NMR spectroscopy, which transformed atomic nuclei into \"spies\" that allow scientists to map the complex 3D structures of proteins in their natural liquid state.",
+      "card_front_url": "cards/ernst_richard_front.png",
+      "card_back_url": "cards/ernst_richard_back.png",
+      "student_name": "Zara Kotadiya",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "elowitz_michael",
+      "scientist_name": "Michael Elowitz",
+      "scientist_years": "1970 - Present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "Michael Elowitz pioneered the field of synthetic biology by engineering the \"Repressilator,\" the first synthetic genetic oscillator, which proved that complex biological behaviors can be systematically programmed and predicted using mathematical principles and molecular feedback loops.",
+      "card_front_url": "cards/elowitz_michael_front.png",
+      "card_back_url": "cards/elowitz_michael_back.png",
+      "student_name": "Kristin Zhang",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "vogelstein_bert",
+      "scientist_name": "Bert Vogelstein",
+      "scientist_years": "1949\u2013present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Demonstrated that human cancers arise through the stepwise accumulation of specific genetic mutations, including loss of tumor-suppressor genes such as TP53.",
+      "card_front_url": "cards/vogelstein_bert_front.png",
+      "card_back_url": "cards/vogelstein_bert_back.png",
+      "student_name": "Josie Puckett",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hodge_harold",
+      "scientist_name": "Harold C. Hodge",
+      "scientist_years": "1904-1999",
+      "era": "Metabolic Revolutions",
+      "contribution": "Hodge established the biochemical mechanism for fluoride\u2019s safety and efficacy by mapping how the body absorbs and integrates it into tooth enamel.",
+      "card_front_url": "cards/hodge_harold_front.png",
+      "card_back_url": "cards/hodge_harold_back.png",
+      "student_name": "Natalie Ladocsi",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "barbacid_mariano",
+      "scientist_name": "Mariano Barbacid",
+      "scientist_years": "1949-present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Mariano Barbacid\u2019s group identified the first human cancer-causing gene, HRAS, and demonstrated that a single-point mutation in its signaling protein locks the molecular switch in a permanent \"on\" position, driving uncontrolled cell proliferation.",
+      "card_front_url": "cards/barbacid_mariano_front.png",
+      "card_back_url": "cards/barbacid_mariano_back.png",
+      "student_name": "Beall Roberts",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "greenberg_e",
+      "scientist_name": "E Peter Greenberg",
+      "scientist_years": "1948-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Discovered quontom sensing",
+      "card_front_url": "cards/greenberg_e_front.png",
+      "card_back_url": "cards/greenberg_e_back.png",
+      "student_name": "Angelina Navarro",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rothman_james",
+      "scientist_name": "James Rothman",
+      "scientist_years": "(1950- )",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "James Rothman revolutionized our understanding of cellular logistics by identifying the specific protein machinery that allows molecular cargo to be delivered to the correct destination within the cell.",
+      "card_front_url": "cards/rothman_james_front.png",
+      "card_back_url": "cards/rothman_james_back.png",
+      "student_name": "Sierra Irving",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "prendergast_george",
+      "scientist_name": "George Prendergast",
+      "scientist_years": "1961- present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "George C. Prendergast pioneered the Acapreneurial model of research, discovering how the IDO1 enzyme acts as a metabolic shield that cancer uses to starve and evade the immune system.",
+      "card_front_url": "cards/prendergast_george_front.png",
+      "card_back_url": "cards/prendergast_george_back.png",
+      "student_name": "Raegan Reed",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
