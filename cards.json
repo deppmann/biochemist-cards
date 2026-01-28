@@ -4168,6 +4168,116 @@
       "card_back_url": "cards/levine_arnold_back.png",
       "student_name": "Anna Saline",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "crooke_stanley",
+      "scientist_name": "Stanley Crooke",
+      "scientist_years": "1945-",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Widely recognized as the \"father of antisense technology,\" Stanley Crooke pioneered a revolutionary drug discovery platform using synthetic DNA snippets to silence disease-causing genes, a mission he now continues through his non-profit n-Lorem Foundation by providing free, personalized treatments for \"nano-rare\" patients.",
+      "card_front_url": "cards/crooke_stanley_front.png",
+      "card_back_url": "cards/crooke_stanley_back.png",
+      "student_name": "Olivia Profit",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lu_timothy",
+      "scientist_name": "Timothy Lu",
+      "scientist_years": "1977-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Engineered bacteriophages to deliver biofilm-degrading enzymes, enabling a programmable \u201cTrojan Horse\u201d strategy against antibiotic-resistant bacteria.",
+      "card_front_url": "cards/lu_timothy_front.png",
+      "card_back_url": "cards/lu_timothy_back.png",
+      "student_name": "Nancy Zhang",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sharpless_k",
+      "scientist_name": "K. Barry Sharpless",
+      "scientist_years": "1941-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Trolling the Oceans of Molecular Unknowns",
+      "card_front_url": "cards/sharpless_k_front.png",
+      "card_back_url": "cards/sharpless_k_back.png",
+      "student_name": "Ashlyn McGinn",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "charpentier_emmanuelle",
+      "scientist_name": "Emmanuelle Charpentier",
+      "scientist_years": "1968-",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Emmanuelle Charpentier co-developed the CRISPR-Cas9 genome-editing technology, a revolutionary \"molecular scissors\" that allows scientists to make precise, targeted changes to the DNA of living organisms.",
+      "card_front_url": "cards/charpentier_emmanuelle_front.png",
+      "card_back_url": "cards/charpentier_emmanuelle_back.png",
+      "student_name": "Garvey Tenzin Mckee",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "tijan_robert",
+      "scientist_name": "Robert Tijan",
+      "scientist_years": "1949 - present",
+      "era": "Other",
+      "contribution": "Robert Tjian's primary contribution was the discovery of transcription factors, the specific proteins that act as \"molecular switches\" to bind to DNA and command a cell to turn certain genes on or off.",
+      "card_front_url": "cards/tijan_robert_front.png",
+      "card_back_url": "cards/tijan_robert_back.png",
+      "student_name": "Saniyah Manaal",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mello_craig",
+      "scientist_name": "Craig Mello",
+      "scientist_years": "1960-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Craig Mello revolutionized biology by co-discovering RNA interference, a fundamental gene-silencing mechanism that transformed genetic research and enabled powerful new tools for studying and treating disease.",
+      "card_front_url": "cards/mello_craig_front.png",
+      "card_back_url": "cards/mello_craig_back.png",
+      "student_name": "Kiley McGee",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "davis_marguerite",
+      "scientist_name": "Marguerite Davis",
+      "scientist_years": "1887-1967",
+      "era": "Vitamins & Nutrition",
+      "contribution": "I was interested in the work and I had the time to do it, so I did it",
+      "card_front_url": "cards/davis_marguerite_front.png",
+      "card_back_url": "cards/davis_marguerite_back.png",
+      "student_name": "Chloe Chen",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "jaenisch_rudolph",
+      "scientist_name": "Rudolph Jaenisch",
+      "scientist_years": "1942 -",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Rudolph Jaenisch is a pioneer in transgenic science and epigenetics\u2014essentially the man who figured out how to \"reprogram\" the software of life.",
+      "card_front_url": "cards/jaenisch_rudolph_front.png",
+      "card_back_url": "cards/jaenisch_rudolph_back.png",
+      "student_name": "Madeline Livingston",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "zervas_leonidas",
+      "scientist_name": "Leonidas Zervas",
+      "scientist_years": "1905-1986",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "",
+      "card_front_url": "cards/zervas_leonidas_front.png",
+      "card_back_url": "cards/zervas_leonidas_back.png",
+      "student_name": "Will Wo",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "pearce_erika",
+      "scientist_name": "Erika Pearce",
+      "scientist_years": "1975-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Erika Pearce discovered that immune cells use their metabolism as a set of instructions to decide how to fight disease and identified a specific enzyme that helps these cells settle into organs like the brain to keep them healthy.",
+      "card_front_url": "cards/pearce_erika_front.png",
+      "card_back_url": "cards/pearce_erika_back.png",
+      "student_name": "Julia Skinner",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
@@ -4188,5 +4298,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T03:25:09.523Z"
+  "last_updated": "2026-01-28T00:00:00Z"
 }
