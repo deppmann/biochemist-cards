@@ -6258,6 +6258,116 @@
       "card_back_url": "cards/kossel_albrecht_back.png",
       "student_name": "Saketh Alluri",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "zhuang_xiaowei",
+      "scientist_name": "Xiaowei Zhuang",
+      "scientist_years": "1972 - Present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Invented STORM super-resolution microscopy, enabling visualization of individual molecules inside cells beyond the diffraction limit of light.",
+      "card_front_url": "cards/zhuang_xiaowei_front.png",
+      "card_back_url": "cards/zhuang_xiaowei_back.png",
+      "student_name": "Sydney Tchiong",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "allison_jim",
+      "scientist_name": "Jim Allison",
+      "scientist_years": "1948-",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Demonstrated that blocking CTLA-4 unleashes T cells to destroy tumors, founding checkpoint blockade immunotherapy.",
+      "card_front_url": "cards/allison_jim_front.png",
+      "card_back_url": "cards/allison_jim_back.png",
+      "student_name": "Nicholas Santos",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "steinman_ralph",
+      "scientist_name": "Ralph Steinman",
+      "scientist_years": "1943-2011",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "\"This discovery did not merely add a new cell type to the existing repertoire; it redefined the immune system as an information-processing network directed by specialized sentinels.\"",
+      "card_front_url": "cards/steinman_ralph_front.png",
+      "card_back_url": "cards/steinman_ralph_back.png",
+      "student_name": "Dylan Seoparsan",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "yonath_ada",
+      "scientist_name": "Ada Yonath",
+      "scientist_years": "1939-",
+      "era": "Structural Biology Revolution",
+      "contribution": "Ada Yonath made it possible to determine the ribosome\u2019s atomic structure, revealing how proteins are synthesized and how many antibiotics block bacterial translation.",
+      "card_front_url": "cards/yonath_ada_front.png",
+      "card_back_url": "cards/yonath_ada_back.png",
+      "student_name": "Grace Flynn",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "leibel_rudolph",
+      "scientist_name": "Rudolph Leibel",
+      "scientist_years": "1942-present",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Rudolph Leibel co-discovered the hormone leptin and its receptor, fundamentally shifting the understanding of obesity from a behavioral failure to a biological homeostatic feedback loop regulated by the hypothalamus.",
+      "card_front_url": "cards/leibel_rudolph_front.png",
+      "card_back_url": "cards/leibel_rudolph_back.png",
+      "student_name": "Smera Shanmugan",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "agard_david",
+      "scientist_name": "David Agard",
+      "scientist_years": "1953\u2013present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Pioneered structural biology methods including cryo-EM and crystallography to reveal how proteins fold, function, and misfold, advancing both basic science and drug discovery.",
+      "card_front_url": "cards/agard_david_front.png",
+      "card_back_url": "cards/agard_david_back.png",
+      "student_name": "Logan Kucharski",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rubner_max",
+      "scientist_name": "Max Rubner",
+      "scientist_years": "1854-1932",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Max Rubner proved that the law of conservation of energy applies to living organisms by demonstrating that the energy released from oxidized food exactly equals the heat produced and work performed by the body.",
+      "card_front_url": "cards/rubner_max_front.png",
+      "card_back_url": "cards/rubner_max_back.png",
+      "student_name": "Sana Aziz",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sizer_irwin",
+      "scientist_name": "Irwin Sizer",
+      "scientist_years": "1910-2009",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Deciphering the Speed of Life",
+      "card_front_url": "cards/sizer_irwin_front.png",
+      "card_back_url": "cards/sizer_irwin_back.png",
+      "student_name": "Suraj Gangar",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "houssay_bernardo",
+      "scientist_name": "Bernardo Houssay",
+      "scientist_years": "1887-1991",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "He discovered the role played by pituitary hormones in regulating the amount of glucose in animals",
+      "card_front_url": "cards/houssay_bernardo_front.png",
+      "card_back_url": "cards/houssay_bernardo_back.png",
+      "student_name": "Yoko Chan",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kouzarides_tony",
+      "scientist_name": "Tony Kouzarides",
+      "scientist_years": "1956 - Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Decoder of the Histone Code",
+      "card_front_url": "cards/kouzarides_tony_front.png",
+      "card_back_url": "cards/kouzarides_tony_back.png",
+      "student_name": "Khang Nguyen",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
