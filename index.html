@@ -14,10 +14,33 @@
         <div class="hero-content">
             <div class="molecular-bg"></div>
             <h1 class="title">BIOCHEMISTS<br><span class="title-accent">THROUGH TIME</span></h1>
-            <p class="subtitle">A Trading Card Collection by BIOL 3030 Students • UVA • Spring 2026</p>
+            <p class="subtitle">A Trading Card Collection by BIOL 3030 Students &bull; UVA &bull; Spring 2026</p>
         </div>
     </header>
 
+    <!-- ===== CAROUSEL ===== -->
+    <section class="carousel-section">
+        <div class="carousel-viewport">
+            <button class="carousel-btn carousel-prev" aria-label="Previous card">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 18l-6-6 6-6"/></svg>
+            </button>
+            <div class="carousel-stage">
+                <div class="carousel-track" id="carousel-track"></div>
+            </div>
+            <button class="carousel-btn carousel-next" aria-label="Next card">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg>
+            </button>
+        </div>
+        <div class="carousel-controls">
+            <button class="spin-btn" id="spin-btn" title="Spin to random card">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg>
+                Spin
+            </button>
+            <p class="carousel-hint">Click card to flip &bull; Double-click to enlarge &bull; Arrow keys to browse</p>
+        </div>
+    </section>
+
+    <!-- ===== CONTROLS ===== -->
     <main class="gallery-container">
         <section class="controls">
             <div class="search-box">
@@ -38,40 +61,24 @@
                 <select id="sort-by">
                     <option value="name">Name (A-Z)</option>
                     <option value="name-desc">Name (Z-A)</option>
-                    <option value="era">Era</option>
                     <option value="recent">Recently Added</option>
-                    <option value="random">Shuffle</option>
                 </select>
             </div>
-            <button class="shuffle-btn" id="shuffle-btn" title="Shuffle cards">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/>
-                </svg>
-            </button>
+            <button class="expand-toggle" id="expand-toggle">Expand All</button>
             <div class="card-count">
                 <span id="count">0</span> cards
             </div>
         </section>
 
-        <p class="interaction-hint">Click a card to flip it • Double-click to enlarge</p>
-
-        <section class="gallery" id="gallery">
-            <div class="loading">
-                <div class="helix-loader">
-                    <div class="strand strand-1"></div>
-                    <div class="strand strand-2"></div>
-                </div>
-                <p>Loading collection...</p>
-            </div>
-        </section>
+        <!-- ===== ERA-GROUPED SECTIONS ===== -->
+        <section class="era-sections" id="era-sections"></section>
     </main>
 
+    <!-- ===== LIGHTBOX ===== -->
     <div class="lightbox" id="lightbox">
         <button class="lightbox-close" aria-label="Close">&times;</button>
         <button class="lightbox-nav lightbox-prev" aria-label="Previous card">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M15 18l-6-6 6-6"/>
-            </svg>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
         </button>
         <div class="lightbox-content">
             <div class="lightbox-card-container">
@@ -86,16 +93,14 @@
             </div>
         </div>
         <button class="lightbox-nav lightbox-next" aria-label="Next card">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M9 18l6-6-6-6"/>
-            </svg>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
         </button>
-        <p class="lightbox-hint">Click card to flip • Arrow keys to navigate • ESC to close</p>
+        <p class="lightbox-hint">Click card to flip &bull; Arrow keys to navigate &bull; ESC to close</p>
     </div>
 
     <footer>
         <div class="footer-content">
-            <p>BIOL 3030: Biochemistry • University of Virginia • Spring 2026</p>
+            <p>BIOL 3030: Biochemistry &bull; University of Virginia &bull; Spring 2026</p>
             <p class="footer-credit">A collaborative project celebrating the scientists who shaped biochemistry</p>
         </div>
     </footer>

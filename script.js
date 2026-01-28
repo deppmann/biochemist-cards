@@ -1,19 +1,32 @@
 /**
  * Biochemists Through Time - Trading Card Gallery
+ * Carousel + Grid Hybrid Display
  * BIOL 3030 • UVA • Spring 2026
  */
 
 // ===== STATE =====
 let allCards = [];
 let filteredCards = [];
+let cardsByEra = {};
+let eras = [];
+let carouselCards = [];
+let carouselIndex = 0;
+let carouselRotation = 0;
+let autoRotateInterval = null;
 let currentLightboxIndex = 0;
+let allExpanded = false;
+
+const CAROUSEL_VISIBLE = 7; // Number of visible cards in carousel
+const AUTO_ROTATE_DELAY = 4000; // ms between auto-rotations
 
 // ===== DOM ELEMENTS =====
-const gallery = document.getElementById('gallery');
+const carouselTrack = document.getElementById('carousel-track');
+const eraSections = document.getElementById('era-sections');
 const searchInput = document.getElementById('search');
 const eraFilter = document.getElementById('era-filter');
 const sortSelect = document.getElementById('sort-by');
-const shuffleBtn = document.getElementById('shuffle-btn');
+const expandToggle = document.getElementById('expand-toggle');
+const spinBtn = document.getElementById('spin-btn');
 const countDisplay = document.getElementById('count');
 const lightbox = document.getElementById('lightbox');
 const lightboxCard = document.getElementById('lightbox-card');
@@ -27,96 +40,354 @@ async function init() {
         const data = await response.json();
 
         allCards = data.cards || [];
-        populateEraFilter(data.eras || []);
+        eras = data.eras || [];
+
+        populateEraFilter();
+        organizeByEra();
         filteredCards = [...allCards];
-        renderCards();
+
+        initCarousel();
+        renderEraSections();
+        updateCount();
         setupEventListeners();
+
+        startAutoRotate();
     } catch (error) {
         console.error('Error loading cards:', error);
-        showEmptyState('Unable to load cards. Please refresh the page.');
+        eraSections.innerHTML = '<div class="loading"><p>Unable to load cards. Please refresh the page.</p></div>';
     }
 }
 
-// ===== RENDER FUNCTIONS =====
-function renderCards() {
-    if (filteredCards.length === 0) {
-        showEmptyState('No cards match your search.');
-        countDisplay.textContent = '0';
+// ===== CAROUSEL FUNCTIONS =====
+function initCarousel() {
+    // Pick random cards for carousel from filtered set
+    const shuffled = [...filteredCards].sort(() => Math.random() - 0.5);
+    carouselCards = shuffled.slice(0, Math.min(CAROUSEL_VISIBLE, shuffled.length));
+    carouselIndex = Math.floor(carouselCards.length / 2); // Start with center card
+    carouselRotation = 0;
+
+    renderCarousel();
+}
+
+function renderCarousel() {
+    if (carouselCards.length === 0) {
+        carouselTrack.innerHTML = '<div class="loading"><p>No cards to display</p></div>';
         return;
     }
 
-    gallery.innerHTML = filteredCards.map((card, index) => createCardHTML(card, index)).join('');
-    countDisplay.textContent = filteredCards.length;
+    const angleStep = 360 / carouselCards.length;
+    const radius = getComputedStyle(document.documentElement).getPropertyValue('--carousel-radius').trim() || '500px';
+    const radiusNum = parseInt(radius);
 
-    // Add click listeners to cards
-    document.querySelectorAll('.card-wrapper').forEach((wrapper, index) => {
-        const card = wrapper.querySelector('.card');
+    carouselTrack.innerHTML = carouselCards.map((card, i) => {
+        const angle = angleStep * i;
+        const isCenter = i === carouselIndex;
+
+        return `
+            <div class="carousel-card ${isCenter ? 'center' : ''}"
+                 data-index="${i}"
+                 data-card-id="${card.id}"
+                 style="transform: rotateY(${angle}deg) translateZ(${radiusNum}px)">
+                <div class="carousel-card-inner">
+                    <div class="carousel-card-face carousel-card-front">
+                        <img src="${card.card_front_url}" alt="${card.scientist_name}" loading="eager">
+                    </div>
+                    <div class="carousel-card-face carousel-card-back">
+                        <img src="${card.card_back_url}" alt="${card.scientist_name} - Stats" loading="eager">
+                    </div>
+                </div>
+            </div>
+        `;
+    }).join('');
+
+    // Apply rotation to track
+    carouselTrack.style.transform = `rotateY(${carouselRotation}deg)`;
+
+    // Add click listeners to carousel cards
+    carouselTrack.querySelectorAll('.carousel-card').forEach((el, i) => {
         let clickCount = 0;
         let clickTimer = null;
 
-        wrapper.addEventListener('click', (e) => {
+        el.addEventListener('click', () => {
             clickCount++;
 
             if (clickCount === 1) {
-                // Wait to see if it's a double-click
                 clickTimer = setTimeout(() => {
-                    // Single click - flip the card
-                    card.classList.toggle('flipped');
+                    // Single click
+                    if (el.classList.contains('center')) {
+                        // Flip the center card
+                        el.classList.toggle('flipped');
+                    } else {
+                        // Rotate to this card
+                        rotateToCard(i);
+                    }
                     clickCount = 0;
                 }, 250);
             } else if (clickCount === 2) {
                 // Double click - open lightbox
                 clearTimeout(clickTimer);
                 clickCount = 0;
-                openLightbox(index);
+                openLightboxForCard(carouselCards[i]);
             }
         });
     });
 }
 
-function createCardHTML(card, index) {
-    const shortEra = card.era ? card.era.split(' ').slice(0, 3).join(' ') : '';
+function rotateToCard(targetIndex) {
+    stopAutoRotate();
 
-    return `
-        <div class="card-wrapper" data-scientist="${card.scientist_name}" data-era="${card.era}" data-index="${index}">
-            <div class="card">
-                <div class="card-face card-front">
-                    <img src="${card.card_front_url}" alt="${card.scientist_name} - Front" loading="lazy"
-                         onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 500 700%22><rect fill=%22%231a237e%22 width=%22500%22 height=%22700%22/><text fill=%22white%22 x=%22250%22 y=%22350%22 text-anchor=%22middle%22 font-size=%2220%22>Image Loading...</text></svg>'">
-                    ${shortEra ? `<span class="card-era-tag">${shortEra}</span>` : ''}
-                    <div class="card-info">
-                        <div class="card-name">${card.scientist_name}</div>
-                        <div class="card-years">${card.scientist_years || ''}</div>
+    const angleStep = 360 / carouselCards.length;
+    const currentAngle = carouselRotation % 360;
+    const targetAngle = -angleStep * targetIndex;
+
+    // Find shortest rotation path
+    let diff = targetAngle - currentAngle;
+    if (diff > 180) diff -= 360;
+    if (diff < -180) diff += 360;
+
+    carouselRotation += diff;
+    carouselIndex = targetIndex;
+
+    updateCarouselTransform();
+    updateCenterClass();
+
+    // Restart auto-rotate after user interaction
+    setTimeout(startAutoRotate, 3000);
+}
+
+function rotateCarousel(direction) {
+    stopAutoRotate();
+
+    const angleStep = 360 / carouselCards.length;
+    carouselRotation += direction * angleStep;
+    carouselIndex = (carouselIndex - direction + carouselCards.length) % carouselCards.length;
+
+    updateCarouselTransform();
+    updateCenterClass();
+
+    setTimeout(startAutoRotate, 3000);
+}
+
+function updateCarouselTransform() {
+    carouselTrack.style.transform = `rotateY(${carouselRotation}deg)`;
+}
+
+function updateCenterClass() {
+    carouselTrack.querySelectorAll('.carousel-card').forEach((el, i) => {
+        el.classList.toggle('center', i === carouselIndex);
+        if (i !== carouselIndex) {
+            el.classList.remove('flipped'); // Unflip non-center cards
+        }
+    });
+}
+
+function spinCarousel() {
+    stopAutoRotate();
+
+    // Pick new random cards
+    const shuffled = [...filteredCards].sort(() => Math.random() - 0.5);
+    carouselCards = shuffled.slice(0, Math.min(CAROUSEL_VISIBLE, shuffled.length));
+
+    // Add spinning animation class
+    carouselTrack.classList.add('spinning');
+
+    // Random number of rotations (2-4 full spins) plus random position
+    const spins = 2 + Math.floor(Math.random() * 3);
+    const randomIndex = Math.floor(Math.random() * carouselCards.length);
+    const angleStep = 360 / carouselCards.length;
+
+    carouselRotation = -(spins * 360) - (randomIndex * angleStep);
+    carouselIndex = randomIndex;
+
+    renderCarousel();
+
+    // Remove spinning class after animation
+    setTimeout(() => {
+        carouselTrack.classList.remove('spinning');
+        startAutoRotate();
+    }, 2000);
+}
+
+function startAutoRotate() {
+    stopAutoRotate();
+    autoRotateInterval = setInterval(() => {
+        rotateCarouselSilent(1);
+    }, AUTO_ROTATE_DELAY);
+}
+
+function stopAutoRotate() {
+    if (autoRotateInterval) {
+        clearInterval(autoRotateInterval);
+        autoRotateInterval = null;
+    }
+}
+
+function rotateCarouselSilent(direction) {
+    const angleStep = 360 / carouselCards.length;
+    carouselRotation += direction * angleStep;
+    carouselIndex = (carouselIndex - direction + carouselCards.length) % carouselCards.length;
+
+    updateCarouselTransform();
+    updateCenterClass();
+}
+
+// ===== ERA SECTIONS FUNCTIONS =====
+function organizeByEra() {
+    cardsByEra = {};
+
+    // Initialize all eras
+    eras.forEach(era => {
+        cardsByEra[era] = [];
+    });
+
+    // Add "Unknown Era" for cards without era
+    cardsByEra['Unknown Era'] = [];
+
+    // Sort cards into eras
+    allCards.forEach(card => {
+        const era = card.era || 'Unknown Era';
+        if (!cardsByEra[era]) {
+            cardsByEra[era] = [];
+        }
+        cardsByEra[era].push(card);
+    });
+
+    // Sort cards within each era alphabetically by default
+    Object.keys(cardsByEra).forEach(era => {
+        cardsByEra[era].sort((a, b) => a.scientist_name.localeCompare(b.scientist_name));
+    });
+}
+
+function renderEraSections() {
+    const searchTerm = searchInput.value.toLowerCase().trim();
+    const selectedEra = eraFilter.value;
+
+    // Combine defined eras with any extras
+    const allEras = [...eras];
+    if (cardsByEra['Unknown Era'] && cardsByEra['Unknown Era'].length > 0) {
+        allEras.push('Unknown Era');
+    }
+
+    eraSections.innerHTML = allEras.map(era => {
+        const cards = cardsByEra[era] || [];
+
+        // Filter cards based on search
+        const matchingCards = cards.filter(card => {
+            const matchesSearch = !searchTerm ||
+                card.scientist_name.toLowerCase().includes(searchTerm) ||
+                (card.contribution && card.contribution.toLowerCase().includes(searchTerm));
+            const matchesEra = selectedEra === 'all' || card.era === selectedEra;
+            return matchesSearch && matchesEra;
+        });
+
+        if (matchingCards.length === 0) {
+            return ''; // Hide era with no matching cards
+        }
+
+        // Sort based on dropdown
+        const sortBy = sortSelect.value;
+        const sortedCards = [...matchingCards];
+        sortCards(sortedCards, sortBy);
+
+        return `
+            <div class="era-group ${allExpanded ? 'expanded' : ''}" data-era="${era}">
+                <button class="era-header" aria-expanded="${allExpanded}">
+                    <div class="era-header-content">
+                        <span class="era-name">${era}</span>
+                        <span class="era-count">${matchingCards.length}</span>
                     </div>
-                    <div class="flip-indicator">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
-                            <path d="M3 3v5h5"/>
-                        </svg>
+                    <svg class="era-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M6 9l6 6 6-6"/>
+                    </svg>
+                </button>
+                <div class="era-cards">
+                    ${sortedCards.map(card => createThumbHTML(card)).join('')}
+                </div>
+            </div>
+        `;
+    }).join('');
+
+    // Add event listeners to era headers
+    eraSections.querySelectorAll('.era-header').forEach(header => {
+        header.addEventListener('click', () => {
+            const group = header.closest('.era-group');
+            group.classList.toggle('expanded');
+            header.setAttribute('aria-expanded', group.classList.contains('expanded'));
+        });
+    });
+
+    // Add event listeners to thumbnails
+    eraSections.querySelectorAll('.thumb-wrapper').forEach(wrapper => {
+        const cardId = wrapper.dataset.cardId;
+        let clickCount = 0;
+        let clickTimer = null;
+
+        wrapper.addEventListener('click', () => {
+            clickCount++;
+
+            if (clickCount === 1) {
+                clickTimer = setTimeout(() => {
+                    // Single click - flip the thumb
+                    wrapper.querySelector('.thumb').classList.toggle('flipped');
+                    clickCount = 0;
+                }, 250);
+            } else if (clickCount === 2) {
+                // Double click - open in lightbox
+                clearTimeout(clickTimer);
+                clickCount = 0;
+                const card = allCards.find(c => c.id === cardId);
+                if (card) {
+                    openLightboxForCard(card);
+                }
+            }
+        });
+    });
+}
+
+function createThumbHTML(card) {
+    return `
+        <div class="thumb-wrapper" data-card-id="${card.id}">
+            <div class="thumb">
+                <div class="thumb-face thumb-front">
+                    <img src="${card.card_front_url}" alt="${card.scientist_name}" loading="lazy">
+                    <div class="thumb-info">
+                        <div class="thumb-name">${card.scientist_name}</div>
                     </div>
                 </div>
-                <div class="card-face card-back">
-                    <img src="${card.card_back_url}" alt="${card.scientist_name} - Back" loading="lazy"
-                         onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 500 700%22><rect fill=%22%23f5f5f0%22 width=%22500%22 height=%22700%22/><text fill=%22%23333%22 x=%22250%22 y=%22350%22 text-anchor=%22middle%22 font-size=%2220%22>Back Side</text></svg>'">
+                <div class="thumb-face thumb-back">
+                    <img src="${card.card_back_url}" alt="${card.scientist_name} - Stats" loading="lazy">
                 </div>
             </div>
         </div>
     `;
 }
 
-function showEmptyState(message) {
-    gallery.innerHTML = `
-        <div class="empty-state">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                <path d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
-            </svg>
-            <p>${message}</p>
-        </div>
-    `;
+function sortCards(cards, sortBy) {
+    cards.sort((a, b) => {
+        switch (sortBy) {
+            case 'name':
+                return a.scientist_name.localeCompare(b.scientist_name);
+            case 'name-desc':
+                return b.scientist_name.localeCompare(a.scientist_name);
+            case 'recent':
+                return (b.submitted_date || '').localeCompare(a.submitted_date || '');
+            default:
+                return 0;
+        }
+    });
 }
 
-// ===== FILTER & SORT FUNCTIONS =====
-function populateEraFilter(eras) {
+function toggleAllSections(expand) {
+    allExpanded = expand;
+    eraSections.querySelectorAll('.era-group').forEach(group => {
+        group.classList.toggle('expanded', expand);
+        group.querySelector('.era-header').setAttribute('aria-expanded', expand);
+    });
+    expandToggle.textContent = expand ? 'Collapse All' : 'Expand All';
+}
+
+// ===== FILTER FUNCTIONS =====
+function populateEraFilter() {
     eras.forEach(era => {
         const option = document.createElement('option');
         option.value = era;
@@ -128,94 +399,74 @@ function populateEraFilter(eras) {
 function filterAndSort() {
     const searchTerm = searchInput.value.toLowerCase().trim();
     const selectedEra = eraFilter.value;
-    const sortBy = sortSelect.value;
 
-    // Filter
+    // Filter the global filteredCards list
     filteredCards = allCards.filter(card => {
         const matchesSearch = !searchTerm ||
             card.scientist_name.toLowerCase().includes(searchTerm) ||
             (card.contribution && card.contribution.toLowerCase().includes(searchTerm));
-
         const matchesEra = selectedEra === 'all' || card.era === selectedEra;
-
         return matchesSearch && matchesEra;
     });
 
-    // Sort
-    if (sortBy === 'random') {
-        shuffleArray(filteredCards);
-    } else {
-        filteredCards.sort((a, b) => {
-            switch (sortBy) {
-                case 'name':
-                    return a.scientist_name.localeCompare(b.scientist_name);
-                case 'name-desc':
-                    return b.scientist_name.localeCompare(a.scientist_name);
-                case 'era':
-                    return (a.era || '').localeCompare(b.era || '');
-                case 'recent':
-                    return (b.submitted_date || '').localeCompare(a.submitted_date || '');
-                default:
-                    return 0;
-            }
-        });
-    }
+    // Re-initialize carousel with filtered cards
+    initCarousel();
 
-    renderCards();
+    // Re-render era sections
+    renderEraSections();
+
+    // Update count
+    updateCount();
 }
 
-// Fisher-Yates shuffle algorithm
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-}
+function updateCount() {
+    const searchTerm = searchInput.value.toLowerCase().trim();
+    const selectedEra = eraFilter.value;
 
-function shuffle() {
-    shuffleArray(filteredCards);
-    gallery.classList.add('shuffling');
-    renderCards();
+    const count = allCards.filter(card => {
+        const matchesSearch = !searchTerm ||
+            card.scientist_name.toLowerCase().includes(searchTerm) ||
+            (card.contribution && card.contribution.toLowerCase().includes(searchTerm));
+        const matchesEra = selectedEra === 'all' || card.era === selectedEra;
+        return matchesSearch && matchesEra;
+    }).length;
 
-    // Remove shuffling class after animation
-    setTimeout(() => {
-        gallery.classList.remove('shuffling');
-    }, 500);
-
-    // Update sort dropdown to show "Shuffle"
-    sortSelect.value = 'random';
+    countDisplay.textContent = count;
 }
 
 // ===== LIGHTBOX FUNCTIONS =====
-function openLightbox(index) {
-    currentLightboxIndex = index;
-    const card = filteredCards[index];
+function openLightboxForCard(card) {
+    // Find index in filtered cards for navigation
+    currentLightboxIndex = filteredCards.findIndex(c => c.id === card.id);
+    if (currentLightboxIndex === -1) {
+        currentLightboxIndex = 0;
+    }
 
     lightboxFront.src = card.card_front_url;
     lightboxBack.src = card.card_back_url;
     lightboxFront.alt = `${card.scientist_name} - Front`;
     lightboxBack.alt = `${card.scientist_name} - Back`;
 
-    // Reset to front side
     lightboxCard.classList.remove('flipped');
-
     lightbox.classList.add('active');
     document.body.style.overflow = 'hidden';
+
+    stopAutoRotate();
 }
 
 function closeLightbox() {
     lightbox.classList.remove('active');
     document.body.style.overflow = '';
+    startAutoRotate();
 }
 
 function navigateLightbox(direction) {
+    if (filteredCards.length === 0) return;
+
     currentLightboxIndex = (currentLightboxIndex + direction + filteredCards.length) % filteredCards.length;
     const card = filteredCards[currentLightboxIndex];
 
-    // Reset flip state when navigating
     lightboxCard.classList.remove('flipped');
-
     lightboxFront.src = card.card_front_url;
     lightboxBack.src = card.card_back_url;
     lightboxFront.alt = `${card.scientist_name} - Front`;
@@ -237,10 +488,30 @@ function setupEventListeners() {
 
     // Filters
     eraFilter.addEventListener('change', filterAndSort);
-    sortSelect.addEventListener('change', filterAndSort);
+    sortSelect.addEventListener('change', () => {
+        renderEraSections();
+    });
 
-    // Shuffle button
-    shuffleBtn.addEventListener('click', shuffle);
+    // Expand/Collapse toggle
+    expandToggle.addEventListener('click', () => {
+        toggleAllSections(!allExpanded);
+    });
+
+    // Carousel navigation
+    document.querySelector('.carousel-prev').addEventListener('click', () => {
+        rotateCarousel(-1);
+    });
+
+    document.querySelector('.carousel-next').addEventListener('click', () => {
+        rotateCarousel(1);
+    });
+
+    // Spin button
+    spinBtn.addEventListener('click', spinCarousel);
+
+    // Pause auto-rotate on carousel hover
+    document.querySelector('.carousel-section').addEventListener('mouseenter', stopAutoRotate);
+    document.querySelector('.carousel-section').addEventListener('mouseleave', startAutoRotate);
 
     // Lightbox close
     document.querySelector('.lightbox-close').addEventListener('click', closeLightbox);
@@ -271,48 +542,93 @@ function setupEventListeners() {
 
     // Keyboard navigation
     document.addEventListener('keydown', (e) => {
-        if (!lightbox.classList.contains('active')) return;
+        // Lightbox keyboard navigation
+        if (lightbox.classList.contains('active')) {
+            switch (e.key) {
+                case 'Escape':
+                    closeLightbox();
+                    break;
+                case 'ArrowLeft':
+                    navigateLightbox(-1);
+                    break;
+                case 'ArrowRight':
+                    navigateLightbox(1);
+                    break;
+                case ' ':
+                case 'Enter':
+                    e.preventDefault();
+                    flipLightboxCard();
+                    break;
+            }
+            return;
+        }
 
+        // Carousel keyboard navigation (when lightbox is closed)
         switch (e.key) {
-            case 'Escape':
-                closeLightbox();
-                break;
             case 'ArrowLeft':
-                navigateLightbox(-1);
+                rotateCarousel(-1);
                 break;
             case 'ArrowRight':
-                navigateLightbox(1);
+                rotateCarousel(1);
                 break;
             case ' ':
-            case 'Enter':
                 e.preventDefault();
-                flipLightboxCard();
+                // Flip center carousel card
+                const centerCard = carouselTrack.querySelector('.carousel-card.center');
+                if (centerCard) {
+                    centerCard.classList.toggle('flipped');
+                }
                 break;
         }
     });
 
-    // Touch swipe for mobile lightbox navigation
+    // Touch swipe for mobile
     let touchStartX = 0;
     let touchEndX = 0;
 
+    // Lightbox swipe
     lightbox.addEventListener('touchstart', (e) => {
         touchStartX = e.changedTouches[0].screenX;
     }, { passive: true });
 
     lightbox.addEventListener('touchend', (e) => {
         touchEndX = e.changedTouches[0].screenX;
-        handleSwipe();
+        handleLightboxSwipe();
     }, { passive: true });
 
-    function handleSwipe() {
+    function handleLightboxSwipe() {
         const swipeThreshold = 50;
         const diff = touchStartX - touchEndX;
 
         if (Math.abs(diff) > swipeThreshold) {
             if (diff > 0) {
-                navigateLightbox(1); // Swipe left = next
+                navigateLightbox(1);
             } else {
-                navigateLightbox(-1); // Swipe right = previous
+                navigateLightbox(-1);
+            }
+        }
+    }
+
+    // Carousel swipe
+    const carouselSection = document.querySelector('.carousel-section');
+    carouselSection.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    carouselSection.addEventListener('touchend', (e) => {
+        touchEndX = e.changedTouches[0].screenX;
+        handleCarouselSwipe();
+    }, { passive: true });
+
+    function handleCarouselSwipe() {
+        const swipeThreshold = 50;
+        const diff = touchStartX - touchEndX;
+
+        if (Math.abs(diff) > swipeThreshold) {
+            if (diff > 0) {
+                rotateCarousel(1);
+            } else {
+                rotateCarousel(-1);
             }
         }
     }
