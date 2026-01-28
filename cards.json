@@ -6698,6 +6698,17 @@
       "card_back_url": "cards/szent-gyorgyi_albert_back.png",
       "student_name": "Aiden G Boone",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "siksnys_virginijus",
+      "scientist_name": "Virginijus Šikšnys",
+      "scientist_years": "1956-present",
+      "era": "Synthetic Biology & Future Pioneers",
+      "contribution": "\"He independently demonstrated that the Cas9 protein is an RNA-guided endonuclease that can be programmed to cleave any specific DNA sequence in vitro.\"",
+      "card_front_url": "cards/siksnys_virginijus_front.png",
+      "card_back_url": "cards/siksnys_virginijus_back.png",
+      "student_name": "Alexandra Williams",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
