@@ -4157,6 +4157,17 @@
       "card_back_url": "cards/kent_james_back.png",
       "student_name": "Maha Mirbacha",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "levine_arnold",
+      "scientist_name": "Arnold J . Levine",
+      "scientist_years": "1939-Present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Co-discovered the p53 protein and later corrected a decade of scientific error by proving it acts as a master tumor suppressor and transcription factor.",
+      "card_front_url": "cards/levine_arnold_front.png",
+      "card_back_url": "cards/levine_arnold_back.png",
+      "student_name": "Anna Saline",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4177,5 +4188,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T02:00:08.388Z"
+  "last_updated": "2026-01-28T02:17:11.524Z"
 }
