@@ -5268,6 +5268,116 @@
       "card_back_url": "cards/kok_bessel_back.png",
       "student_name": "Joshua Bright",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "johnson_louise",
+      "scientist_name": "Louise Johnson",
+      "scientist_years": "1940-2012",
+      "era": "Structural Biology Revolution",
+      "contribution": "Dame Louise Napier Johnson transformed biochemistry by revealing how enzymes work as physical machines, providing the first structural explanations of catalysis and allosteric regulation through atomic-level protein structures.",
+      "card_front_url": "cards/johnson_louise_front.png",
+      "card_back_url": "cards/johnson_louise_back.png",
+      "student_name": "Nara Lee",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "transduction_shu",
+      "scientist_name": "Shu Chien (hormone and signal transduction)",
+      "scientist_years": "1931-2024",
+      "era": "Other",
+      "contribution": "Engineering the flow of life.",
+      "card_front_url": "cards/transduction_shu_front.png",
+      "card_back_url": "cards/transduction_shu_back.png",
+      "student_name": "Maria Gaytan",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "betzig_eric",
+      "scientist_name": "Eric Betzig",
+      "scientist_years": "1960-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Developed the PALM microscope, which uses \"photoactivatable\" proteins to bypass the diffraction limit of light and image individual molecules.",
+      "card_front_url": "cards/betzig_eric_front.png",
+      "card_back_url": "cards/betzig_eric_back.png",
+      "student_name": "Angela Wadden",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "irwin_john",
+      "scientist_name": "John Irwin",
+      "scientist_years": "1971-present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "John Irwin has transformed drug discovery by engineering the ZINC database and computational tools like the Aggregation Advisor, creating a digital bridge that allows researchers to navigate and screen billions of virtual molecules with unprecedented physical rigor.",
+      "card_front_url": "cards/irwin_john_front.png",
+      "card_back_url": "cards/irwin_john_back.png",
+      "student_name": "Julia Porter",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "roux_benoit",
+      "scientist_name": "Benoit Roux",
+      "scientist_years": "1958-present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Beno\u00eet Roux used atomistic molecular dynamics simulations to reveal how ions permeate membrane channels by resolving protein\u2013lipid\u2013water interactions at atomic resolution.",
+      "card_front_url": "cards/roux_benoit_front.png",
+      "card_back_url": "cards/roux_benoit_back.png",
+      "student_name": "Josslyn Owji",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wills_lucy",
+      "scientist_name": "Lucy Wills",
+      "scientist_years": "1888-1964",
+      "era": "Vitamins & Nutrition",
+      "contribution": "Pioneer of Prenatal Folate",
+      "card_front_url": "cards/wills_lucy_front.png",
+      "card_back_url": "cards/wills_lucy_back.png",
+      "student_name": "Maggie Bothwell",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "murad_ferid",
+      "scientist_name": "Ferid Murad",
+      "scientist_years": "1936-2023",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Ferid Murad showed that nitric oxide activates soluble guanylyl cyclase, establishing cyclic GMP as a key signaling pathway in physiology.",
+      "card_front_url": "cards/murad_ferid_front.png",
+      "card_back_url": "cards/murad_ferid_back.png",
+      "student_name": "Chase Greer",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "macleod_colin",
+      "scientist_name": "Colin MacLeod",
+      "scientist_years": "1909-1972",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Proved DNA to be the \"transforming principle.\"",
+      "card_front_url": "cards/macleod_colin_front.png",
+      "card_back_url": "cards/macleod_colin_back.png",
+      "student_name": "Clay Grisius",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wu_hao",
+      "scientist_name": "Hao Wu",
+      "scientist_years": "1964 - present",
+      "era": "Other",
+      "contribution": "Dr. Hao Wu physicist roots turned to a biochemistry phenom.",
+      "card_front_url": "cards/wu_hao_front.png",
+      "card_back_url": "cards/wu_hao_back.png",
+      "student_name": "Brian Varghese",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "axel_richard",
+      "scientist_name": "Richard Axel",
+      "scientist_years": "1946-Present",
+      "era": "Other",
+      "contribution": "Richard Axel revolutionized neuroscience by discovering the vast multigene family of G-protein coupled receptors that encode olfactory sensors, providing the first definitive molecular logic for how the brain perceives and discriminates thousands of different smells.",
+      "card_front_url": "cards/axel_richard_front.png",
+      "card_back_url": "cards/axel_richard_back.png",
+      "student_name": "Aayush Kulkarni",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
