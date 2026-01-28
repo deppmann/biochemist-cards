@@ -5488,6 +5488,116 @@
       "card_back_url": "cards/bhargava_pushpa_back.png",
       "student_name": "Christa Varghese",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "boyden_ed",
+      "scientist_name": "Ed Boyden",
+      "scientist_years": "1979-present",
+      "era": "Other",
+      "contribution": "Lighting the path of thought.",
+      "card_front_url": "cards/boyden_ed_front.png",
+      "card_back_url": "cards/boyden_ed_back.png",
+      "student_name": "Zoe Winters",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rinn_john",
+      "scientist_name": "John Rinn",
+      "scientist_years": "1976-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "John Rinn pioneered the field of RNA biology by discovering that long noncoding RNAs (lncRNAs), such as HOTAIR, are not \"genomic junk\" but essential regulators that act as molecular scaffolds to control gene expression across the human genome.",
+      "card_front_url": "cards/rinn_john_front.png",
+      "card_back_url": "cards/rinn_john_back.png",
+      "student_name": "Shiv Mylavarapu",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "henri_victor",
+      "scientist_name": "Victor Henri",
+      "scientist_years": "1872-1940",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "He derived the first mathematical equation for enzyme kinetics, proving that an enzyme-substrate complex must form for a reaction to occur.",
+      "card_front_url": "cards/henri_victor_front.png",
+      "card_back_url": "cards/henri_victor_back.png",
+      "student_name": "Swayam Admala",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "endo_akira",
+      "scientist_name": "Akira Endo",
+      "scientist_years": "1933-2024",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Akira Endo discovered the first statins by isolating metabolites from fungi that inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, a breakthrough that revolutionized the treatment of cardiovascular disease.",
+      "card_front_url": "cards/endo_akira_front.png",
+      "card_back_url": "cards/endo_akira_back.png",
+      "student_name": "Lea Patel",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "calvin_malvin",
+      "scientist_name": "Malvin Calvin",
+      "scientist_years": "1911-1997",
+      "era": "Metabolic Revolutions",
+      "contribution": "Melvin Calvin revolutionized our understanding of biology by utilizing radioactive Carbon-14 to map the complex, multi-step chemical pathway that plants use to convert carbon dioxide into energy-rich sugar during photosynthesis.",
+      "card_front_url": "cards/calvin_malvin_front.png",
+      "card_back_url": "cards/calvin_malvin_back.png",
+      "student_name": "Valerie Coutinho",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kuhne_wilhelm",
+      "scientist_name": "Wilhelm Kuhne",
+      "scientist_years": "1837-1900",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Coined the word enzyme",
+      "card_front_url": "cards/kuhne_wilhelm_front.png",
+      "card_back_url": "cards/kuhne_wilhelm_back.png",
+      "student_name": "Suryan Athreya",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bertozzi_carolyn",
+      "scientist_name": "Carolyn Bertozzi",
+      "scientist_years": "1966-Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "She developed bioorthogonal chemistry, allowing scientists to study molecules in living systems without disrupting normal cell function",
+      "card_front_url": "cards/bertozzi_carolyn_front.png",
+      "card_back_url": "cards/bertozzi_carolyn_back.png",
+      "student_name": "Nitya Manikonda",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rabinowitz_joshua",
+      "scientist_name": "Joshua Rabinowitz",
+      "scientist_years": "1977-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Joshua Rabinowitz revolutionized the field of \"fluxomics\" by utilizing in vivo isotope tracing to prove that lactate is a primary systemic fuel for the TCA cycle rather than a mere anaerobic waste product.",
+      "card_front_url": "cards/rabinowitz_joshua_front.png",
+      "card_back_url": "cards/rabinowitz_joshua_back.png",
+      "student_name": "Harshroop Kaur Singh",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "yan_nieng",
+      "scientist_name": "Nieng Yan",
+      "scientist_years": "1977 - Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Nieng Yan is a pioneering structural biologist renowned for resolving the long-standing mystery of the human glucose transporter GLUT1 at atomic resolution, a discovery that provided the first physical map of how sugar fuels the human brain and opened new pathways for targeting the metabolic engines of cancer cells.",
+      "card_front_url": "cards/yan_nieng_front.png",
+      "card_back_url": "cards/yan_nieng_back.png",
+      "student_name": "Omkar Peshave",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sorensen_soren",
+      "scientist_name": "Soren Sorensen",
+      "scientist_years": "1868-1939",
+      "era": "Pre-1900 Foundations",
+      "contribution": "S\u00f8rensen transformed biochemistry from a qualitative observation of \"sourness\" into an exact mathematical science by introducing the pH scale to measure the precise hydrogen ion activity that governs all life-sustaining enzymatic reactions.",
+      "card_front_url": "cards/sorensen_soren_front.png",
+      "card_back_url": "cards/sorensen_soren_back.png",
+      "student_name": "ashley",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
