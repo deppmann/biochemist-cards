@@ -6148,6 +6148,116 @@
       "card_back_url": "cards/buchner_eduard_back.png",
       "student_name": "Faizan Ali",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "miller_christopher",
+      "scientist_name": "Christopher Miller",
+      "scientist_years": "1946\u2013Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Christopher Miller revolutionized our understanding of cell membrane dynamics by proving that certain proteins act as both channels and transporters, physically bridging the gap between physics and biology.",
+      "card_front_url": "cards/miller_christopher_front.png",
+      "card_back_url": "cards/miller_christopher_back.png",
+      "student_name": "Jai Sethi",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chagas_carlos",
+      "scientist_name": "Carlos Chagas",
+      "scientist_years": "1879-1934",
+      "era": "Other",
+      "contribution": "Identified Trypanosome Cruzi, uniquely predicting a human disease by first discovering its insect vector and parasite.",
+      "card_front_url": "cards/chagas_carlos_front.png",
+      "card_back_url": "cards/chagas_carlos_back.png",
+      "student_name": "Alexis Vaughn",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "moncada_salvador",
+      "scientist_name": "Salvador Moncada",
+      "scientist_years": "1944-",
+      "era": "Other",
+      "contribution": "Salvador Moncada discovered that **nitric oxide is a key biological signaling molecule that regulates blood vessel dilation**, transforming our understanding of vascular function and cardiovascular medicine.",
+      "card_front_url": "cards/moncada_salvador_front.png",
+      "card_back_url": "cards/moncada_salvador_back.png",
+      "student_name": "Mariana Gonzalez Gomez",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chandel_naveep",
+      "scientist_name": "Naveep Chandel",
+      "scientist_years": "1967-",
+      "era": "Metabolic Revolutions",
+      "contribution": "Found that metabolites act as signaling molecules that can be used in biomedical research for neurological diseases, cancer, and other diseases.",
+      "card_front_url": "cards/chandel_naveep_front.png",
+      "card_back_url": "cards/chandel_naveep_back.png",
+      "student_name": "Noelle Searing",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lindahl_tomas",
+      "scientist_name": "Tomas Lindahl",
+      "scientist_years": "1938-",
+      "era": "DNA Structure & Replication",
+      "contribution": "Tomas Lindahl proved that DNA is chemically unstable and discovered the essential \"molecular janitorial\" enzymes that constantly repair this spontaneous decay to keep us alive.",
+      "card_front_url": "cards/lindahl_tomas_front.png",
+      "card_back_url": "cards/lindahl_tomas_back.png",
+      "student_name": "Angela Ho",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kay_lewis",
+      "scientist_name": "Lewis E. Kay",
+      "scientist_years": "1961\u2013present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Developed biomolecular NMR spectroscopy methods that revealed transient, low-population protein conformations and established protein dynamics as central to biochemical function.",
+      "card_front_url": "cards/kay_lewis_front.png",
+      "card_back_url": "cards/kay_lewis_back.png",
+      "student_name": "Jenna Kim",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kaptein_robert",
+      "scientist_name": "Robert Kaptein",
+      "scientist_years": "1941 -",
+      "era": "Structural Biology Revolution",
+      "contribution": "Robert Kaptein pioneered the fields of spin chemistry and structural biology by establishing the Radical Pair Mechanism and \"Kaptein's Rules\" for interpreting CIDNP signals, while simultaneously laying the groundwork for modern biomolecular research through his early determination of protein structures and interactions using NMR spectroscopy.",
+      "card_front_url": "cards/kaptein_robert_front.png",
+      "card_back_url": "cards/kaptein_robert_back.png",
+      "student_name": "Matthew Konikoff",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wu_chien-shiung",
+      "scientist_name": "Chien-Shiung Wu",
+      "scientist_years": "1912-1997",
+      "era": "Other",
+      "contribution": "She experimentally proved that parity is not conserved in weak interactions, overturning a fundamental assumption in physics.",
+      "card_front_url": "cards/wu_chien-shiung_front.png",
+      "card_back_url": "cards/wu_chien-shiung_back.png",
+      "student_name": "Orchid",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "green_rachel",
+      "scientist_name": "Rachel Green",
+      "scientist_years": "1964-",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "",
+      "card_front_url": "cards/green_rachel_front.png",
+      "card_back_url": "cards/green_rachel_back.png",
+      "student_name": "Hillary Estrada",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kossel_albrecht",
+      "scientist_name": "Albrecht Kossel",
+      "scientist_years": "1853-1927",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Albrecht Kossel systematically chemically dissected the cell nucleus to isolate the five primary nitrogenous bases\u2014adenine, guanine, cytosine, thymine, and uracil\u2014effectively discovering the molecular alphabet of the genetic code.",
+      "card_front_url": "cards/kossel_albrecht_front.png",
+      "card_back_url": "cards/kossel_albrecht_back.png",
+      "student_name": "Saketh Alluri",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
