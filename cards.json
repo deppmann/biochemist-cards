@@ -4124,6 +4124,17 @@
       "card_back_url": "cards/olson_maynard_back.png",
       "student_name": "Symeon Moss",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "ptashne_mark",
+      "scientist_name": "Mark Ptashne",
+      "scientist_years": "1940 - currently alive",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Mark Ptashne helped establish the modern molecular understanding of gene regulation by revealing how specific DNA-binding proteins, such as the lambda repressor, act as genetic switches that turn genes on and off.\n",
+      "card_front_url": "cards/ptashne_mark_front.png",
+      "card_back_url": "cards/ptashne_mark_back.png",
+      "student_name": "Krish Mallina",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4144,5 +4155,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T00:23:27.126Z"
+  "last_updated": "2026-01-28T00:29:28.198Z"
 }
