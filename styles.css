@@ -238,6 +238,8 @@ body {
 
 /* Carousel controls */
 .carousel-controls {
+    position: relative;
+    z-index: 30;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -882,21 +884,25 @@ footer {
 
 /* ===== ABOUT LINK IN HERO ===== */
 .about-link {
-    display: inline-block;
-    margin-top: 1rem;
-    padding: 0.5rem 1.5rem;
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    z-index: 100;
+    padding: 0.5rem 1.25rem;
     color: var(--gold);
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     font-weight: 600;
     letter-spacing: 0.05em;
     border: 1px solid rgba(255, 215, 0, 0.4);
     border-radius: 2rem;
     transition: var(--transition-smooth);
+    background: rgba(26, 35, 126, 0.5);
+    backdrop-filter: blur(4px);
 }
 
 .about-link:hover {
-    background: rgba(255, 215, 0, 0.15);
+    background: rgba(255, 215, 0, 0.2);
     border-color: var(--gold);
 }
 
