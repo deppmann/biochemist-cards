@@ -4146,6 +4146,17 @@
       "card_back_url": "cards/karin_michael_back.png",
       "student_name": "Rachel Huang",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "kent_james",
+      "scientist_name": "James Kent",
+      "scientist_years": "1960 - ",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Created the GigAssembler algorithm to assemble the first public draft of the Human Genome sequence",
+      "card_front_url": "cards/kent_james_front.png",
+      "card_back_url": "cards/kent_james_back.png",
+      "student_name": "Maha Mirbacha",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4166,5 +4177,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T00:31:37.340Z"
+  "last_updated": "2026-01-28T02:00:08.388Z"
 }
