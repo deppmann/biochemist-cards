@@ -5378,6 +5378,116 @@
       "card_back_url": "cards/axel_richard_back.png",
       "student_name": "Aayush Kulkarni",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hidayat_aina",
+      "scientist_name": "Aina Hidayat",
+      "scientist_years": "1929-2025",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Franklin Stahl co-designed and executed experiments that provided the first concrete evidence that DNA replicates semiconservatively, where each parental strand serves as a template for a new strand.",
+      "card_front_url": "cards/hidayat_aina_front.png",
+      "card_back_url": "cards/hidayat_aina_back.png",
+      "student_name": "Aina Hidayat",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "manning_brendan",
+      "scientist_name": "Brendan D. Manning",
+      "scientist_years": "1969-",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Manning's primary contribution is the discovery that the TSC1/TSC2 complex acts as the central molecular \"switchboard\" that integrates growth factor signals from the PI3K/Akt pathway to regulate mTORC1, a master controller of cell growth and metabolism.",
+      "card_front_url": "cards/manning_brendan_front.png",
+      "card_back_url": "cards/manning_brendan_back.png",
+      "student_name": "Eisabel Zamora",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sheraga_harold",
+      "scientist_name": "Harold Sheraga",
+      "scientist_years": "1921-2020",
+      "era": "Other",
+      "contribution": "Harold A. Scheraga transformed biochemistry by proving that a protein\u2019s complex 3D shape is not a random occurrence, but a predictable structure governed by the laws of physics and the achievement of a global energy minimum.",
+      "card_front_url": "cards/sheraga_harold_front.png",
+      "card_back_url": "cards/sheraga_harold_back.png",
+      "student_name": "Addysen Downey",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bird_sir",
+      "scientist_name": "Sir Adrian Peter Bird",
+      "scientist_years": "1947 - Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Proved that a neulological of Rett Syndrome Syndrome can be reversed, challengir the dogma of permanent brain damage.",
+      "card_front_url": "cards/bird_sir_front.png",
+      "card_back_url": "cards/bird_sir_back.png",
+      "student_name": "Vishnu Nalluri",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "venter_j",
+      "scientist_name": "J. Craig Venter",
+      "scientist_years": "1946-2020",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Sequencing the Human Genome",
+      "card_front_url": "cards/venter_j_front.png",
+      "card_back_url": "cards/venter_j_back.png",
+      "student_name": "Zoe Lilly",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "depinho_ronald",
+      "scientist_name": "Ronald Depinho",
+      "scientist_years": "1954\u2013Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "He pioneered the functional reversal of age-related degeneration by reactants on the telomerase enzyme in living organisms.",
+      "card_front_url": "cards/depinho_ronald_front.png",
+      "card_back_url": "cards/depinho_ronald_back.png",
+      "student_name": "Pravleen Saini",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "chen_zhijian",
+      "scientist_name": "Zhijian \"James\" Chen",
+      "scientist_years": "1966-present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Zhijian Chen\u2019s most important contribution to biochemistry was the discovery of the cGAS\u2013STING pathway, revealing how cells biochemically sense cytosolic DNA and trigger innate immune responses through cyclic dinucleotide signaling.",
+      "card_front_url": "cards/chen_zhijian_front.png",
+      "card_back_url": "cards/chen_zhijian_back.png",
+      "student_name": "Keane Tao",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "nogales_eva",
+      "scientist_name": "Eva Nogales",
+      "scientist_years": "1965-",
+      "era": "Structural Biology Revolution",
+      "contribution": "Eva Nogales pioneered the use of cryo-electron microscopy to resolve the atomic-level structures of microtubules and the complex molecular machinery that initiates gene transcription.",
+      "card_front_url": "cards/nogales_eva_front.png",
+      "card_back_url": "cards/nogales_eva_back.png",
+      "student_name": "Yunji Kim",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dische_zacharias",
+      "scientist_name": "Zacharias Dische",
+      "scientist_years": "1895-1988",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Zacharias Dische was a pioneering biochemist who discovered feedback inhibition in metabolic pathways and developed the diphenylamine colorimetric test (the Dische test) to identify and quantify DNA.",
+      "card_front_url": "cards/dische_zacharias_front.png",
+      "card_back_url": "cards/dische_zacharias_back.png",
+      "student_name": "Liam Harbour",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bhargava_pushpa",
+      "scientist_name": "Pushpa Mittra Bhargava",
+      "scientist_years": "1928-2017",
+      "era": "Other",
+      "contribution": "Guardian of Scientific Temper",
+      "card_front_url": "cards/bhargava_pushpa_front.png",
+      "card_back_url": "cards/bhargava_pushpa_back.png",
+      "student_name": "Christa Varghese",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
