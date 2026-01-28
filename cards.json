@@ -4135,6 +4135,17 @@
       "card_back_url": "cards/ptashne_mark_back.png",
       "student_name": "Krish Mallina",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "karin_michael",
+      "scientist_name": "Michael Karin",
+      "scientist_years": "1951-",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Michael Karin revealed how cells convert external stress signals into precise changes in gene expression by mapping kinase signaling pathways that directly regulate transcription factors involved in inflammation and cancer.",
+      "card_front_url": "cards/karin_michael_front.png",
+      "card_back_url": "cards/karin_michael_back.png",
+      "student_name": "Rachel Huang",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4155,5 +4166,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T00:29:28.198Z"
+  "last_updated": "2026-01-28T00:31:37.340Z"
 }
