@@ -542,6 +542,15 @@ function setupEventListeners() {
 
     // Keyboard navigation
     document.addEventListener('keydown', (e) => {
+        // Don't intercept keyboard events when user is typing in an input
+        const activeElement = document.activeElement;
+        const isTyping = activeElement && (
+            activeElement.tagName === 'INPUT' ||
+            activeElement.tagName === 'TEXTAREA' ||
+            activeElement.tagName === 'SELECT' ||
+            activeElement.isContentEditable
+        );
+
         // Lightbox keyboard navigation
         if (lightbox.classList.contains('active')) {
             switch (e.key) {
@@ -556,12 +565,17 @@ function setupEventListeners() {
                     break;
                 case ' ':
                 case 'Enter':
-                    e.preventDefault();
-                    flipLightboxCard();
+                    if (!isTyping) {
+                        e.preventDefault();
+                        flipLightboxCard();
+                    }
                     break;
             }
             return;
         }
+
+        // Don't intercept if user is typing
+        if (isTyping) return;
 
         // Carousel keyboard navigation (when lightbox is closed)
         switch (e.key) {
