@@ -5158,6 +5158,116 @@
       "card_back_url": "cards/kim_v_back.png",
       "student_name": "Stella Sui",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "iii_charles",
+      "scientist_name": "Charles Brooks III",
+      "scientist_years": "1957-present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Charles L. Brooks III is renowned for pioneering computational methods that revealed how proteins move and fold, fundamentally shaping modern molecular dynamics and biophysics.",
+      "card_front_url": "cards/iii_charles_front.png",
+      "card_back_url": "cards/iii_charles_back.png",
+      "student_name": "Evalina O'Mara",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "sampson_myra",
+      "scientist_name": "Myra Sampson",
+      "scientist_years": "1926-2016",
+      "era": "Other",
+      "contribution": "Dr. Sampson pioneered the use of aquaponics and permaculture as biochemical pedagogical tools to re-engage at-risk students through the hands-on monitoring of metabolic cycles.",
+      "card_front_url": "cards/sampson_myra_front.png",
+      "card_back_url": "cards/sampson_myra_back.png",
+      "student_name": "Maddie Tran",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "cullis_pieter",
+      "scientist_name": "Pieter Cullis",
+      "scientist_years": "1946-Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Pieter Cullis is a pioneering Canadian biochemist whose development of lipid nanoparticle (LNP) delivery systems provided the essential \"protective bubble\" that enabled the successful delivery of mRNA vaccines, most notably the Pfizer-BioNTech COVID-19 vaccine.",
+      "card_front_url": "cards/cullis_pieter_front.png",
+      "card_back_url": "cards/cullis_pieter_back.png",
+      "student_name": "Aneesah Rasheed",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rappuoli_rino",
+      "scientist_name": "Rino Rappuoli",
+      "scientist_years": "1952-present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Dr. Rino Rappuoli is a pioneering microbiologist who revolutionized vaccine development by co-founding the field of reverse vaccinology, a method that uses genomic sequencing to identify vaccine antigens without the need to grow live pathogens, leading to the first successful vaccine against meningococcus B.",
+      "card_front_url": "cards/rappuoli_rino_front.png",
+      "card_back_url": "cards/rappuoli_rino_back.png",
+      "student_name": "Aimen Sajid",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "folkman_judah",
+      "scientist_name": "Judah Folkman",
+      "scientist_years": "1933-2008",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Judah Folkman pioneered the field of angiogenesis, proposing the revolutionary idea that tumors require their own blood supply to grow and that blocking this process could effectively \"starve\" cancer.",
+      "card_front_url": "cards/folkman_judah_front.png",
+      "card_back_url": "cards/folkman_judah_back.png",
+      "student_name": "Adam Polanco",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "whatley_robert",
+      "scientist_name": "Robert Whatley",
+      "scientist_years": "1924-2015",
+      "era": "Metabolic Revolutions",
+      "contribution": "Frederick Robert (Bob) Whatley provided the definitive experimental proof that isolated chloroplasts are autonomous metabolic units capable of light-driven ATP synthesis, a landmark discovery known as photophosphorylation that fundamentally redefined the scientific understanding of biological energy conservation.",
+      "card_front_url": "cards/whatley_robert_front.png",
+      "card_back_url": "cards/whatley_robert_back.png",
+      "student_name": "Drishti Daga",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "shi_yang",
+      "scientist_name": "Yang Shi",
+      "scientist_years": "1957-",
+      "era": "Other",
+      "contribution": "Yang Shi's one-sentence contribution is the discovery of LSD1, the first enzyme proven to remove methyl groups from histones, which overturned the long-standing scientific dogma that histone methylation was a permanent, irreversible epigenetic mark.",
+      "card_front_url": "cards/shi_yang_front.png",
+      "card_back_url": "cards/shi_yang_back.png",
+      "student_name": "Lara Najjar",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "goodsell_david",
+      "scientist_name": "David Goodsell",
+      "scientist_years": "1961 - Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "David Goodsell revolutionized biochemistry by creating the computational tools and iconic, hand-painted visual standards that allowed scientists to see the crowded \"mesoscale\" environment of the cell for the first time.",
+      "card_front_url": "cards/goodsell_david_front.png",
+      "card_back_url": "cards/goodsell_david_back.png",
+      "student_name": "Adhira Prasanna",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "walker_john",
+      "scientist_name": "John Walker",
+      "scientist_years": "1941-present",
+      "era": "Other",
+      "contribution": "Sir John Ernest Walker elucidated the three-dimensional atomic structure of ATP synthase, providing the definitive physical proof that this enzyme functions as a mechanical rotary motor to synthesize the cell's primary energy currency.",
+      "card_front_url": "cards/walker_john_front.png",
+      "card_back_url": "cards/walker_john_back.png",
+      "student_name": "Nicole Cabral",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kok_bessel",
+      "scientist_name": "Bessel Kok",
+      "scientist_years": "1919-1979",
+      "era": "Metabolic Revolutions",
+      "contribution": "Bessel Kok discovered the P700 reaction center pigment in Photosystem I and formulated the fundamental \"S-state\" model (known as the \"Kok Clock\") that explains the stepwise mechanism by which plants split water to release oxygen.",
+      "card_front_url": "cards/kok_bessel_front.png",
+      "card_back_url": "cards/kok_bessel_back.png",
+      "student_name": "Joshua Bright",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
