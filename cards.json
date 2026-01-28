@@ -4718,6 +4718,116 @@
       "card_back_url": "cards/jumper_john_back.png",
       "student_name": "Adam Nulty",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dobberstein_bernhard",
+      "scientist_name": "Bernhard Dobberstein",
+      "scientist_years": "1944 - present",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Bernhard Dobberstein is most renowned for co-authoring the landmark 1975 studies with G\u00fcnter Blobel that provided the first experimental proof of the Signal Hypothesis, demonstrating how specific amino acid \"zip codes\" direct proteins to their correct cellular destinations.",
+      "card_front_url": "cards/dobberstein_bernhard_front.png",
+      "card_back_url": "cards/dobberstein_bernhard_back.png",
+      "student_name": "Arun Karthikeyan",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ebashi_setsuro",
+      "scientist_name": "Setsuro Ebashi",
+      "scientist_years": "1922-2006",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Setsuro Ebashi revealed that calcium ions act as a molecular switch controlling muscle contraction by regulating the troponin\u2013tropomyosin protein complex.",
+      "card_front_url": "cards/ebashi_setsuro_front.png",
+      "card_back_url": "cards/ebashi_setsuro_back.png",
+      "student_name": "Ariel Wang",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hendrickson_wayne",
+      "scientist_name": "Wayne Hendrickson",
+      "scientist_years": "1949-present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Wayne Hendrickson revolutionized structural biology by inventing multi-wavelength anomalous diffraction, a method that solved the crystallographic phase problem and made routine determination of protein structures possible.",
+      "card_front_url": "cards/hendrickson_wayne_front.png",
+      "card_back_url": "cards/hendrickson_wayne_back.png",
+      "student_name": "Jacob Kirshner",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "potter_clinton",
+      "scientist_name": "Clinton Potter",
+      "scientist_years": "1965-present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Clinton Potter, with his partner Bridget Carragher, automated the cryo-electron microscopy pipeline to enable structural biology breakthroughs like breaking the three-angstrom barrier.",
+      "card_front_url": "cards/potter_clinton_front.png",
+      "card_back_url": "cards/potter_clinton_back.png",
+      "student_name": "Sophia Kuzminski",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "gordon_jeffrey",
+      "scientist_name": "Jeffrey I. Gordon",
+      "scientist_years": "1947-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Jeffrey I. Gordon transformed biochemistry by showing that the human gut microbiome functions as a metabolic organ whose genes and enzymes causally shape nutrition, energy balance, and child development.",
+      "card_front_url": "cards/gordon_jeffrey_front.png",
+      "card_back_url": "cards/gordon_jeffrey_back.png",
+      "student_name": "David Minoza",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lee_jeannie",
+      "scientist_name": "Jeannie T. Lee",
+      "scientist_years": "1964-Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Jeannie T. Lee is a pioneer in the field of epigenetics, specifically recognized for her discovery of long noncoding RNAs (lncRNAs) like Tsix and her groundbreaking research into how they act as architectural \"switches\" to regulate X-chromosome inactivation.",
+      "card_front_url": "cards/lee_jeannie_front.png",
+      "card_back_url": "cards/lee_jeannie_back.png",
+      "student_name": "Saba Nasseri",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "vane_john",
+      "scientist_name": "John Vane",
+      "scientist_years": "1927-2004",
+      "era": "DNA Structure & Replication",
+      "contribution": "I extracted and categorized Sir John Vane's complex pharmacological milestones into a structured \"Biochemists Through Time\" profile, translating his technical achievements into a whimsical, Ghibli-inspired trading card format.",
+      "card_front_url": "cards/vane_john_front.png",
+      "card_back_url": "cards/vane_john_back.png",
+      "student_name": "Daniel Goldberg",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "haass_christian",
+      "scientist_name": "Christian Haass",
+      "scientist_years": "1960-present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Christian Haass is a renowned biochemist who significantly advanced the Molecular Revolution and Genomic Era of Alzheimer's research by identifying \u03b3-secretase as a multi-protein \"molecular machine\" responsible for the critical cleavage of amyloid precursor protein.",
+      "card_front_url": "cards/haass_christian_front.png",
+      "card_back_url": "cards/haass_christian_back.png",
+      "student_name": "Stephen Sloniewsky",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "henseleit_kurt",
+      "scientist_name": "Kurt Henseleit",
+      "scientist_years": "1907\u20131973",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Kurt Henseleit co-discovered the urea cycle, providing the first experimental proof that metabolic pathways can function as cyclical loops where intermediates like ornithine are regenerated rather than consumed.",
+      "card_front_url": "cards/henseleit_kurt_front.png",
+      "card_back_url": "cards/henseleit_kurt_back.png",
+      "student_name": "Sarah Azmi",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "saibil_helen",
+      "scientist_name": "Helen R. Saibil",
+      "scientist_years": "1950- present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Pioneered cryo-electron microscopy to reveal the structures and dynamic motions of large protein machines\u2014showing how molecules like chaperonins and perforin change shape to do biological work.",
+      "card_front_url": "cards/saibil_helen_front.png",
+      "card_back_url": "cards/saibil_helen_back.png",
+      "student_name": "Vincent Lee",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
