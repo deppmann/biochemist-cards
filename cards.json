@@ -6478,6 +6478,61 @@
       "card_back_url": "cards/todd_alexander_back.png",
       "student_name": "Leila Carey",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "corbettt_kizzmekia",
+      "scientist_name": "Kizzmekia Corbettt",
+      "scientist_years": "1986 - Present",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "Preparedness is the ultimate equalizer.",
+      "card_front_url": "cards/corbettt_kizzmekia_front.png",
+      "card_back_url": "cards/corbettt_kizzmekia_back.png",
+      "student_name": "Kaitlyn Worrell",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "young_roger",
+      "scientist_name": "Roger Arliner Young",
+      "scientist_years": "1889-1964",
+      "era": "Other",
+      "contribution": "Young broke gender and racial barriers in biochemistry by becoming the first black woman zoologist and going on to advance physiological research and teach at Howard University.",
+      "card_front_url": "cards/young_roger_front.png",
+      "card_back_url": "cards/young_roger_back.png",
+      "student_name": "Jackson Tower",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "samuelsson_bengt",
+      "scientist_name": "Bengt Ingemar Samuelsson",
+      "scientist_years": "1934-2024",
+      "era": "Other",
+      "contribution": "Samuelsson discovered the tranformation of arachidonic acid to the messengers prostaglandins, thromboxanes, and leukotrienes, which regulate inflammation, blood clotting, and vascular function.",
+      "card_front_url": "cards/samuelsson_bengt_front.png",
+      "card_back_url": "cards/samuelsson_bengt_back.png",
+      "student_name": "Jackson Haught",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "eric",
+      "scientist_name": "Eric",
+      "scientist_years": "1947-2017",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "He revolutionized pain medicine by creating standardized tools to identify neuropathic pain, enabling more accurate diagnosis and targeted treatment worldwide.",
+      "card_front_url": "cards/eric_front.png",
+      "card_back_url": "cards/eric_back.png",
+      "student_name": "Yury Park",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rutter_jared",
+      "scientist_name": "Jared P. Rutter",
+      "scientist_years": "1973-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "\"Identified the Mitochondrial Pyruvate Carrier (MPC), the long-sought transporter that moves pyruvate into mitochondria.\"",
+      "card_front_url": "cards/rutter_jared_front.png",
+      "card_back_url": "cards/rutter_jared_back.png",
+      "student_name": "Abigail Speth",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
