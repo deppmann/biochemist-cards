@@ -4608,6 +4608,116 @@
       "card_back_url": "cards/levitt_michael_back.png",
       "student_name": "Andrea Palomino-Jayo",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "yamanaka_shinya",
+      "scientist_name": "Shinya Yamanaka",
+      "scientist_years": "1962-Present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Shinya Yamanaka revolutionized regenerative medicine by discovering that adult cells can be reprogrammed into pluripotent stem cells using just four specific transcription factors, a breakthrough that earned him the 2012 Nobel Prize.",
+      "card_front_url": "cards/yamanaka_shinya_front.png",
+      "card_back_url": "cards/yamanaka_shinya_back.png",
+      "student_name": "Nishaan Makim",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "degrado_william",
+      "scientist_name": "William F. DeGrado",
+      "scientist_years": "1955-Present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "William F. DeGrado pioneered de novo protein design, proving that entirely new, functional proteins could be engineered from first principles by decoding the \"chemical grammar\" of the hydrophobic effect and secondary structures.",
+      "card_front_url": "cards/degrado_william_front.png",
+      "card_back_url": "cards/degrado_william_back.png",
+      "student_name": "Maicha Olaes",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fraser_claire",
+      "scientist_name": "Claire Fraser",
+      "scientist_years": "1955-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Dr. Claire Fraser, a highly impactful scientist during the Molecular Revolution, pioneered genomic studies by leading the team that sequenced the first free-living organism in 1995 and later applying those techniques to microbial forensics.",
+      "card_front_url": "cards/fraser_claire_front.png",
+      "card_back_url": "cards/fraser_claire_back.png",
+      "student_name": "Limashi Molligoda",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "blattner_frederick",
+      "scientist_name": "Frederick R. Blattner",
+      "scientist_years": "1940-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Deciphered the 4.6-million-base-pair E. coli K-12 genome, establishing the first complete \"life program\" for a model organism",
+      "card_front_url": "cards/blattner_frederick_front.png",
+      "card_back_url": "cards/blattner_frederick_back.png",
+      "student_name": "Fayza Mehrin",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "lander_eric",
+      "scientist_name": "Eric Steven Lander",
+      "scientist_years": "1957 to present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Eric Steven Lander helped lead the Human Genome Project and made the human genome freely available to the entire world.",
+      "card_front_url": "cards/lander_eric_front.png",
+      "card_back_url": "cards/lander_eric_back.png",
+      "student_name": "James Liu",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "schekman_randy",
+      "scientist_name": "Randy W. Schekman",
+      "scientist_years": "1948-",
+      "era": "Genetic Code & Protein Synthesis",
+      "contribution": "Randy Schekman used yeast genetics to map the specific genes and molecular \"traffic\" signals that control how cells package and transport proteins via membrane vesicles.",
+      "card_front_url": "cards/schekman_randy_front.png",
+      "card_back_url": "cards/schekman_randy_back.png",
+      "student_name": "Lauren Kenah",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "berson_solomon",
+      "scientist_name": "Solomon Berson",
+      "scientist_years": "1918-1972",
+      "era": "Other",
+      "contribution": "Solomon Berson co-developed the revolutionary technique of radioimmunoassay (RIA), which transformed medicine by enabling the precise measurement of tiny quantities of hormones and other biological substances in the blood.",
+      "card_front_url": "cards/berson_solomon_front.png",
+      "card_back_url": "cards/berson_solomon_back.png",
+      "student_name": "Isabel Harris-Rivera",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hou_ya-ming",
+      "scientist_name": "Ya-Ming Hou",
+      "scientist_years": "1955-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Discovered how specific tRNA modifications and identity elements govern accurate decoding of the genetic code during protein synthesis.",
+      "card_front_url": "cards/hou_ya-ming_front.png",
+      "card_back_url": "cards/hou_ya-ming_back.png",
+      "student_name": "Nina Islam",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ratcliffe_peter",
+      "scientist_name": "Peter Ratcliffe",
+      "scientist_years": "1954\u2013Present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Breathing Life into Cellular Secrets",
+      "card_front_url": "cards/ratcliffe_peter_front.png",
+      "card_back_url": "cards/ratcliffe_peter_back.png",
+      "student_name": "Saniya Sangle",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "jumper_john",
+      "scientist_name": "John Jumper",
+      "scientist_years": "1985-present",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "It's almost like...the bookshelf just built itself.",
+      "card_front_url": "cards/jumper_john_front.png",
+      "card_back_url": "cards/jumper_john_back.png",
+      "student_name": "Adam Nulty",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
