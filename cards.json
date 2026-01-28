@@ -4102,6 +4102,17 @@
       "card_back_url": "cards/gunthrie_christine_back.png",
       "student_name": "Emma Leishear",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "thomson_craig",
+      "scientist_name": "Craig B Thomson ",
+      "scientist_years": "1957-now",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Craig B. Thompson revolutionized cancer research by uncovering how cancer cells reprogram their metabolism to fuel rapid growth and survival.",
+      "card_front_url": "cards/thomson_craig_front.png",
+      "card_back_url": "cards/thomson_craig_back.png",
+      "student_name": "Izzy Stackawitz",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4122,5 +4133,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T00:15:00.999Z"
+  "last_updated": "2026-01-28T00:18:56.671Z"
 }
