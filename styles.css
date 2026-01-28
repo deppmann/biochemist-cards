@@ -880,6 +880,135 @@ footer {
     }
 }
 
+/* ===== ABOUT LINK IN HERO ===== */
+.about-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.5rem;
+    color: var(--gold);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    border: 1px solid rgba(255, 215, 0, 0.4);
+    border-radius: 2rem;
+    transition: var(--transition-smooth);
+}
+
+.about-link:hover {
+    background: rgba(255, 215, 0, 0.15);
+    border-color: var(--gold);
+}
+
+/* ===== ABOUT SECTION ===== */
+.about-section {
+    background: linear-gradient(180deg, var(--cream) 0%, #e8e8e0 100%);
+    padding: 4rem 2rem;
+    border-top: 1px solid rgba(26, 35, 126, 0.1);
+}
+
+.about-content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.about-content h2 {
+    font-family: 'Bebas Neue', Impact, sans-serif;
+    font-size: 2.5rem;
+    color: var(--navy);
+    letter-spacing: 0.05em;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.about-content > p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text-dark);
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.about-details {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2.5rem;
+}
+
+.about-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(26, 35, 126, 0.08);
+}
+
+.about-card h3 {
+    font-family: 'Bebas Neue', Impact, sans-serif;
+    font-size: 1.4rem;
+    color: var(--navy);
+    letter-spacing: 0.03em;
+    margin-bottom: 1rem;
+}
+
+.about-card ol {
+    margin-left: 1.25rem;
+    margin-bottom: 1.5rem;
+}
+
+.about-card ol li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+.about-card p {
+    line-height: 1.7;
+    color: var(--text-dark);
+}
+
+.about-links,
+.about-contact {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(26, 35, 126, 0.1);
+}
+
+.about-card a {
+    color: var(--navy);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s;
+}
+
+.about-card a:hover {
+    color: var(--gold-dim);
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+    .about-section {
+        padding: 3rem 1.5rem;
+    }
+
+    .about-content h2 {
+        font-size: 2rem;
+    }
+
+    .about-content > p {
+        font-size: 1rem;
+        text-align: left;
+    }
+
+    .about-details {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .about-card {
+        padding: 1.5rem;
+    }
+}
+
 /* ===== UTILITY ===== */
 .sr-only {
     position: absolute;
