@@ -5818,6 +5818,116 @@
       "card_back_url": "cards/ross_irwin_back.png",
       "student_name": "Elliot Jang",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "zuckerkandl_emil",
+      "scientist_name": "Emil Zuckerkandl",
+      "scientist_years": "1922-2013",
+      "era": "Enzymology & Protein Chemistry",
+      "contribution": "Emile Zuckerkandl revolutionized evolutionary biology by proposing that living molecules serve as historical documents, co-discovering the \"molecular clock\" that allows scientists to measure time using the constant rate of change in protein sequences.",
+      "card_front_url": "cards/zuckerkandl_emil_front.png",
+      "card_back_url": "cards/zuckerkandl_emil_back.png",
+      "student_name": "Sarah Elder",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "mackall_crystall",
+      "scientist_name": "Crystall Mackall",
+      "scientist_years": "1960-Present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Engineer of living drugs.",
+      "card_front_url": "cards/mackall_crystall_front.png",
+      "card_back_url": "cards/mackall_crystall_back.png",
+      "student_name": "Peyton Streu",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "herskowitz_ira",
+      "scientist_name": "Ira Herskowitz",
+      "scientist_years": "1946\u20132003",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Ira Herskowitz revolutionized our understanding of cellular identity by proving the Cassette Model, demonstrating that cells can \"re-program\" themselves by physically shuffling genetic information from silent storage libraries into active expression sites.",
+      "card_front_url": "cards/herskowitz_ira_front.png",
+      "card_back_url": "cards/herskowitz_ira_back.png",
+      "student_name": "Nicole Nguyen",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "vale_wylie",
+      "scientist_name": "Wylie Vale",
+      "scientist_years": "1941-2012",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "",
+      "card_front_url": "cards/vale_wylie_front.png",
+      "card_back_url": "cards/vale_wylie_back.png",
+      "student_name": "Brynn Hill",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kuhne_wilhem",
+      "scientist_name": "Wilhem Kuhne",
+      "scientist_years": "1837-1900",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Coined the word Enzyme. I AM RESUBMITTING BECAUSE MY FIRST SUBMISSION HAD INCORRECT INFORMATION.",
+      "card_front_url": "cards/kuhne_wilhem_front.png",
+      "card_back_url": "cards/kuhne_wilhem_back.png",
+      "student_name": "Suryan Athreya",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "wigler_michael",
+      "scientist_name": "Michael Wigler",
+      "scientist_years": "1947-Present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Michael Wigler co-isolated the first human oncogene (RAS) and demonstrated that a single-point mutation\u2014a change in just one nucleotide\u2014is enough to transform a healthy cell into a cancerous one.",
+      "card_front_url": "cards/wigler_michael_front.png",
+      "card_back_url": "cards/wigler_michael_back.png",
+      "student_name": "Simran Kulkarni",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "teichmann_sarah",
+      "scientist_name": "Sarah Teichmann",
+      "scientist_years": "1969-present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Sarah Teichmann helped create the Human Cell Atlas by pioneering single-cell genomics methods that map all human cell types and their gene expression patterns.",
+      "card_front_url": "cards/teichmann_sarah_front.png",
+      "card_back_url": "cards/teichmann_sarah_back.png",
+      "student_name": "Emma Madden",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dickerson_richard",
+      "scientist_name": "Richard Dickerson",
+      "scientist_years": "1931-2023",
+      "era": "Structural Biology Revolution",
+      "contribution": "He achieved the first single-crystal, atomic-resolution structure of the B-DNA double helix, providing the definitive proof of the Watson-Crick model.",
+      "card_front_url": "cards/dickerson_richard_front.png",
+      "card_back_url": "cards/dickerson_richard_back.png",
+      "student_name": "Yebeen Kim",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "puigserver_pere",
+      "scientist_name": "Pere Puigserver",
+      "scientist_years": "1967-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Pere Puigserver is a biochemist at Dana-Farber Cancer Institute and Harvard Medical School known for discovering how the coactivator PGC-1\u03b1 regulates mitochondrial function and energy metabolism, reshaping our understanding of metabolic health and disease.",
+      "card_front_url": "cards/puigserver_pere_front.png",
+      "card_back_url": "cards/puigserver_pere_back.png",
+      "student_name": "Elise Krushinski",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "fletterick_robert",
+      "scientist_name": "Robert Fletterick",
+      "scientist_years": "1941-current",
+      "era": "Structural Biology Revolution",
+      "contribution": "Provided decisive structural proof that enzymes and molecular motors function through large-scale conformational changes, revealing how motion, regulation, and allostery are encoded in protein structure.",
+      "card_front_url": "cards/fletterick_robert_front.png",
+      "card_back_url": "cards/fletterick_robert_back.png",
+      "student_name": "Angela Kim",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
