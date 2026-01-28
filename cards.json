@@ -4828,6 +4828,116 @@
       "card_back_url": "cards/saibil_helen_back.png",
       "student_name": "Vincent Lee",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "shoelson_steven",
+      "scientist_name": "Steven Shoelson",
+      "scientist_years": "1955-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Shoelson discovered the structural mechanism by which SH2 domains recognize phosphotyrosine to relay cell signals and later established that obesity-induced inflammation drives insulin resistance, fundamentally reframing Type 2 diabetes as an inflammatory disease.",
+      "card_front_url": "cards/shoelson_steven_front.png",
+      "card_back_url": "cards/shoelson_steven_back.png",
+      "student_name": "Kerstin Quach",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "vallee_bert",
+      "scientist_name": "Bert Vallee",
+      "scientist_years": "1919-2010",
+      "era": "Other",
+      "contribution": "Bert Vallee transformed our understanding of biology by proving that trace metals like zinc are not mere contaminants, but are actually the essential \"sparks\" that allow thousands of life-sustaining enzymes to function.",
+      "card_front_url": "cards/vallee_bert_front.png",
+      "card_back_url": "cards/vallee_bert_back.png",
+      "student_name": "Mariam Diarra",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "diffley_john",
+      "scientist_name": "John Francis Xavier Diffley",
+      "scientist_years": "1958-",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "John Francis Xavier Diffley redefined the field of molecular biology by elucidating the \"licensing\" mechanism that prevents DNA re-replication and successfully reconstituting the entire eukaryotic replication pathway in vitro using purified proteins.",
+      "card_front_url": "cards/diffley_john_front.png",
+      "card_back_url": "cards/diffley_john_back.png",
+      "student_name": "Haley Oh",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "amy",
+      "scientist_name": "Amy",
+      "scientist_years": "1972-Present",
+      "era": "Other",
+      "contribution": "Howard Chang revolutionized our understanding of the genome by discovering that \"junk DNA\" actually contains long noncoding RNAs that act as a biological operating system to control gene activity and cellular identity.",
+      "card_front_url": "cards/amy_front.png",
+      "card_back_url": "cards/amy_back.png",
+      "student_name": "Amy Nguyen",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "bloch_konrad",
+      "scientist_name": "Konrad Bloch",
+      "scientist_years": "1912-2000",
+      "era": "Carbohydrate & Lipid Chemistry",
+      "contribution": "Konrad Bloch was a master of \"molecular architecture\" who combined rigorous chemical precision with an evolutionary perspective to trace how life builds complex sterols from simple two-carbon building blocks.",
+      "card_front_url": "cards/bloch_konrad_front.png",
+      "card_back_url": "cards/bloch_konrad_back.png",
+      "student_name": "Chrissy Blondin",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "ley_ruth",
+      "scientist_name": "Ruth E. Ley",
+      "scientist_years": "1970 - Present",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Ruth E. Ley transformed our understanding of human metabolism by establishing the groundbreaking link between gut microbial composition and obesity while uncovering the specific biochemical pathways through which commensal bacteria synthesize inositol lipids to communicate with the host immune system.",
+      "card_front_url": "cards/ley_ruth_front.png",
+      "card_back_url": "cards/ley_ruth_back.png",
+      "student_name": "Leslie Murphy",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "davidson_beverly",
+      "scientist_name": "Beverly Davidson",
+      "scientist_years": "1960- present",
+      "era": "Structural Biology Revolution",
+      "contribution": "She advanced gene therapy by developing viral-vector and gene-silencing strategies to treat Huntington\u2019s disease and other neurogenetic disorders.",
+      "card_front_url": "cards/davidson_beverly_front.png",
+      "card_back_url": "cards/davidson_beverly_back.png",
+      "student_name": "Faith Ryan",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "katchalski-katzir_ephraim",
+      "scientist_name": "Ephraim Katchalski-Katzir",
+      "scientist_years": "May 16, 1916 \u2013 May 30, 2009",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Ephraim Katchalski-Katzir pioneered synthetic polyamino acids and enzyme immobilization, laying the foundation for modern protein modeling and industrial biocatalysis.",
+      "card_front_url": "cards/katchalski-katzir_ephraim_front.png",
+      "card_back_url": "cards/katchalski-katzir_ephraim_back.png",
+      "student_name": "Grace Tadros",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "priestley_joseph",
+      "scientist_name": "Joseph Priestley",
+      "scientist_years": "1733 - 1804",
+      "era": "Pre-1900 Foundations",
+      "contribution": "Joseph Priestley discovered oxygen and helped in the field of optics.",
+      "card_front_url": "cards/priestley_joseph_front.png",
+      "card_back_url": "cards/priestley_joseph_back.png",
+      "student_name": "Adi Barot",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rodbell_martin",
+      "scientist_name": "Martin Rodbell",
+      "scientist_years": "1925\u20131998",
+      "era": "Other",
+      "contribution": "Martin Rodbell discovered that cells use GTP-binding G-proteins as intermediaries to transmit signals from hormone receptors on the cell surface to internal enzymes, establishing the fundamental mechanism of signal transduction.",
+      "card_front_url": "cards/rodbell_martin_front.png",
+      "card_back_url": "cards/rodbell_martin_back.png",
+      "student_name": "Maria Dolan",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
