@@ -5048,6 +5048,116 @@
       "card_back_url": "cards/green_philip_back.png",
       "student_name": "Isabelle Michalski",
       "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kroemer_guido",
+      "scientist_name": "Guido Kroemer",
+      "scientist_years": "1961-Now",
+      "era": "Contemporary Leaders & Rising Stars",
+      "contribution": "He revolutionized cell biology by establishing that mitochondrial membrane permeabilization is the decisive 'point of no return' in programmed cell death and linked autophagy to longevity.",
+      "card_front_url": "cards/kroemer_guido_front.png",
+      "card_back_url": "cards/kroemer_guido_back.png",
+      "student_name": "Sade Winston",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "krainer_adrian",
+      "scientist_name": "Adrian R. Krainer",
+      "scientist_years": "1956-",
+      "era": "Structural Biology & Drug Discovery",
+      "contribution": "Adrian R. Krainer\u2019s key contribution was proving how RNA splicing can be precisely controlled\u2014and then turning that knowledge into the antisense drug Spinraza, which fixes SMN2 exon 7 splicing to treat spinal muscular atrophy.",
+      "card_front_url": "cards/krainer_adrian_front.png",
+      "card_back_url": "cards/krainer_adrian_back.png",
+      "student_name": "Amrith Ranjan",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "richarson_jane",
+      "scientist_name": "Jane Richarson",
+      "scientist_years": "1941 - Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Jane Richardson revolutionized structural biology by creating the ribbon diagram, a universal visual language that simplified complex atomic data into intuitive 3D maps of protein architecture.",
+      "card_front_url": "cards/richarson_jane_front.png",
+      "card_back_url": "cards/richarson_jane_back.png",
+      "student_name": "Emily Lam",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "dung_chi",
+      "scientist_name": "Chi Van Dung",
+      "scientist_years": "1954 - present",
+      "era": "Cancer Biology & Oncogenes",
+      "contribution": "Chi Van Dang was the first to prove that the MYC oncogene directly \"turbocharges\" cancer metabolism by regulating the LDHA enzyme, providing the definitive molecular link to the Warburg Effect.",
+      "card_front_url": "cards/dung_chi_front.png",
+      "card_back_url": "cards/dung_chi_back.png",
+      "student_name": "Nitya Ramesh",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "hunkapiller_michael",
+      "scientist_name": "Michael Hunkapiller",
+      "scientist_years": "1948-",
+      "era": "Other",
+      "contribution": "",
+      "card_front_url": "cards/hunkapiller_michael_front.png",
+      "card_back_url": "cards/hunkapiller_michael_back.png",
+      "student_name": "Olivia Morin",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "rees_douglas",
+      "scientist_name": "Douglas Rees",
+      "scientist_years": "1952-Present",
+      "era": "Structural Biology Revolution",
+      "contribution": "Douglas Rees is a pioneering structural biologist who provided the first high-resolution map of the nitrogenase enzyme, revealing the complex metallic architecture that enables nature to convert atmospheric nitrogen into life-sustaining ammonia.",
+      "card_front_url": "cards/rees_douglas_front.png",
+      "card_back_url": "cards/rees_douglas_back.png",
+      "student_name": "Neha Polavarapu",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "roberts_richard",
+      "scientist_name": "Richard J. Roberts",
+      "scientist_years": "Born: 1943 --",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Revealed that eukaryotic genes are discontinuous\u2014split into introns and exons\u2014by discovering RNA splicing, fundamentally redefining how genetic information is organized and expressed.",
+      "card_front_url": "cards/roberts_richard_front.png",
+      "card_back_url": "cards/roberts_richard_back.png",
+      "student_name": "Mohammad Mobiadeen",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kahn_c",
+      "scientist_name": "C. Ronald Kahn",
+      "scientist_years": "1944-present",
+      "era": "Other",
+      "contribution": "Discovered that the insulin receptor is a tyrosine kinase enzyme that phosphorylates itself to trigger cellular glucose uptake.",
+      "card_front_url": "cards/kahn_c_front.png",
+      "card_back_url": "cards/kahn_c_back.png",
+      "student_name": "Lisa Hires",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "levi-montalcini_rita",
+      "scientist_name": "Rita Levi-Montalcini",
+      "scientist_years": "1909-2012",
+      "era": "Other",
+      "contribution": "Rita Levi-Montalcini fundamentally transformed our understanding of cell growth by discovering Nerve Growth Factor (NGF), a signaling protein essential for the development, maintenance, and survival of neurons in the sensory and sympathetic nervous systems. (As generated by Google Gemini)",
+      "card_front_url": "cards/levi-montalcini_rita_front.png",
+      "card_back_url": "cards/levi-montalcini_rita_back.png",
+      "student_name": "Ava Foulk",
+      "submitted_date": "2026-01-27"
+    },
+    {
+      "id": "kim_v",
+      "scientist_name": "V. Narry Kim",
+      "scientist_years": "late 1990s-present",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "V. Narry Kim revolutionized our understanding of gene regulation by elucidating the biochemical pathway of microRNA biogenesis, specifically identifying the key roles of the Drosha and Dicer enzymes in processing these essential molecules.",
+      "card_front_url": "cards/kim_v_front.png",
+      "card_back_url": "cards/kim_v_back.png",
+      "student_name": "Stella Sui",
+      "submitted_date": "2026-01-27"
     }
   ],
   "eras": [
