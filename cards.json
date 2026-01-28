@@ -4113,6 +4113,17 @@
       "card_back_url": "cards/thomson_craig_back.png",
       "student_name": "Izzy Stackawitz",
       "submitted_date": "2026-01-28"
+    },
+    {
+      "id": "olson_maynard",
+      "scientist_name": "Maynard Olson",
+      "scientist_years": "1943 - ",
+      "era": "Genomics & Bioinformatics Era",
+      "contribution": "Maynard Olson helped make large-scale genome sequencing possible by developing physical mapping strategies?especially yeast artificial chromosomes (YACs) and sequence-tagged site (STS) markers?that allowed scientists to organize, assemble, and share the human genome systematically.",
+      "card_front_url": "cards/olson_maynard_front.png",
+      "card_back_url": "cards/olson_maynard_back.png",
+      "student_name": "Symeon Moss",
+      "submitted_date": "2026-01-28"
     }
   ],
   "eras": [
@@ -4133,5 +4144,5 @@
     "Contemporary Leaders & Rising Stars",
     "Synthetic Biology & Future Pioneers"
   ],
-  "last_updated": "2026-01-28T00:18:56.671Z"
+  "last_updated": "2026-01-28T00:23:27.126Z"
 }
