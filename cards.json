@@ -5536,13 +5536,13 @@
     {
       "id": "vogelstein_bert",
       "scientist_name": "Bert Vogelstein",
-      "scientist_years": "1949?present",
+      "scientist_years": "1949-",
       "era": "Cancer Biology & Oncogenes",
-      "contribution": "Demonstrated that human cancers arise through the stepwise accumulation of specific genetic mutations, including loss of tumor-suppressor genes such as TP53.",
+      "contribution": "Bert Vogelstein is a pioneering cancer researcher who revolutionized oncology by demonstrating that cancer is fundamentally a genetic disease caused by the sequential accumulation of mutations in specific oncogenes and tumor suppressor genes, most notably identifying the critical role of the p53 gene.",
       "card_front_url": "cards/vogelstein_bert_front.png",
       "card_back_url": "cards/vogelstein_bert_back.png",
-      "student_name": "Josie Puckett",
-      "submitted_date": "2026-01-27"
+      "student_name": "Reagan Stallings",
+      "submitted_date": "2026-01-29"
     },
     {
       "id": "hodge_harold",
@@ -6625,5 +6625,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-01-29T15:56:46.872Z"
+  "last_updated": "2026-01-29T17:28:20.546Z"
 }
