@@ -1203,12 +1203,12 @@
       "id": "cohn_mildred",
       "scientist_name": "Mildred Cohn",
       "scientist_years": "1913-2009",
-      "era": "Metabolic Revolutions",
-      "contribution": "?pioneering the use of stable isotopic tracers and nuclear magnetic resonance spectroscopy in the study of the mechanisms of enzymatic catalysis.?",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "Mildred Cohn pioneered the use of nuclear magnetic resonance (NMR) spectroscopy to visualize ATP's molecular structure and elucidate the mechanisms of enzymatic reactions in energy metabolism.",
       "card_front_url": "cards/cohn_mildred_front.png",
       "card_back_url": "cards/cohn_mildred_back.png",
-      "student_name": "Glenda Asare",
-      "submitted_date": "2026-01-28"
+      "student_name": "Caden Cleffi",
+      "submitted_date": "2026-01-29"
     },
     {
       "id": "anfinsen_christian",
@@ -6625,5 +6625,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-01-29T17:28:20.546Z"
+  "last_updated": "2026-01-29T22:33:00.991Z"
 }
