@@ -3798,13 +3798,13 @@
     {
       "id": "kahn_barbara",
       "scientist_name": "Barbara Kahn",
-      "scientist_years": "1951-",
+      "scientist_years": "1951-Present",
       "era": "Neuroscience & Metabolism Frontiers",
       "contribution": "Decoding the Language of Metabolism",
       "card_front_url": "cards/kahn_barbara_front.png",
       "card_back_url": "cards/kahn_barbara_back.png",
-      "student_name": "Maggie Shifflett",
-      "submitted_date": "2026-01-27"
+      "student_name": "maggie shifflett",
+      "submitted_date": "2026-02-01"
     },
     {
       "id": "schoenheimer_rudolf",
@@ -6636,5 +6636,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T19:10:20.234Z"
+  "last_updated": "2026-02-01T19:35:57.674Z"
 }
