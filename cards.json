@@ -6610,6 +6610,17 @@
       "card_back_url": "cards/sdhof_thomas_back.png",
       "student_name": "Liam Slocomb",
       "submitted_date": "2026-02-01"
+    },
+    {
+      "id": "hanawalt_philip",
+      "scientist_name": "Philip Hanawalt",
+      "scientist_years": "1931?present",
+      "era": "DNA Structure & Replication",
+      "contribution": "Discovered that Escherichia coli can complete ongoing DNA replication without initiating new rounds when protein and RNA synthesis are restricted, reshaping understanding of thymineless death.",
+      "card_front_url": "cards/hanawalt_philip_front.png",
+      "card_back_url": "cards/hanawalt_philip_back.png",
+      "student_name": "Jonathan Han",
+      "submitted_date": "2026-02-01"
     }
   ],
   "eras": [
@@ -6636,5 +6647,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T20:37:27.726Z"
+  "last_updated": "2026-02-01T20:46:42.612Z"
 }
