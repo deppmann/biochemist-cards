@@ -1191,13 +1191,13 @@
     {
       "id": "hopkins_frederick",
       "scientist_name": "Frederick Gowland Hopkins",
-      "scientist_years": "1861 - 1947",
+      "scientist_years": "1861-1947",
       "era": "Enzymology & Protein Chemistry",
-      "contribution": "Discovered essential vitamins",
+      "contribution": "He discovered vitamins",
       "card_front_url": "cards/hopkins_frederick_front.png",
       "card_back_url": "cards/hopkins_frederick_back.png",
       "student_name": "Peace Nzyoki",
-      "submitted_date": "2026-01-27"
+      "submitted_date": "2026-02-01"
     },
     {
       "id": "cohn_mildred",
@@ -6647,5 +6647,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T20:46:42.612Z"
+  "last_updated": "2026-02-01T21:50:17.816Z"
 }
