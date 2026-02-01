@@ -2028,12 +2028,12 @@
       "id": "yanofsky_charles",
       "scientist_name": "Charles Yanofsky",
       "scientist_years": "1925-2018",
-      "era": "Amino Acid & Nitrogen Metabolism",
+      "era": "Metabolic Revolutions",
       "contribution": "Charles Yanofsky discovered and established the relationship between genes and proteins determining that changes in DNA sequences would result in changes in proteins.",
       "card_front_url": "cards/yanofsky_charles_front.png",
       "card_back_url": "cards/yanofsky_charles_back.png",
       "student_name": "Elaine Christian",
-      "submitted_date": "2026-01-27"
+      "submitted_date": "2026-02-01"
     },
     {
       "id": "altschul_stephen",
@@ -6636,5 +6636,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T19:35:57.674Z"
+  "last_updated": "2026-02-01T20:01:51.988Z"
 }
