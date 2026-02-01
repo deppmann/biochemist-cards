@@ -1576,13 +1576,13 @@
     {
       "id": "quake_stephen",
       "scientist_name": "Stephen Quake",
-      "scientist_years": "1969-present",
+      "scientist_years": "1969-Present",
       "era": "Genomics & Bioinformatics Era",
       "contribution": "Stephen Quake pioneered microfluidic and single-cell technologies that made it possible to analyze individual cells at scale, fundamentally transforming genomics, diagnostics, and precision medicine.",
       "card_front_url": "cards/quake_stephen_front.png",
       "card_back_url": "cards/quake_stephen_back.png",
       "student_name": "Mariam Mithqal",
-      "submitted_date": "2026-01-27"
+      "submitted_date": "2026-02-01"
     },
     {
       "id": "batzoglou_serafim",
@@ -6636,5 +6636,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T17:38:20.639Z"
+  "last_updated": "2026-02-01T17:38:22.929Z"
 }
