@@ -2247,13 +2247,13 @@
     {
       "id": "sadelain_michel",
       "scientist_name": "Michel Sadelain",
-      "scientist_years": "1959-present ",
+      "scientist_years": "1959-Present ",
       "era": "Cancer Biology & Oncogenes",
       "contribution": "Michel Sadelain pioneered the \"second-generation\" CAR T-cell by engineering a synthetic receptor that fuses a tumor-targeting antibody fragment to both the CD3-zeta signaling chain and a CD28 co-stimulatory domain, a biochemical breakthrough that provides the \"second signal\" necessary for engineered immune cells to survive, multiply, and eradicate cancer within the human body.",
       "card_front_url": "cards/sadelain_michel_front.png",
       "card_back_url": "cards/sadelain_michel_back.png",
       "student_name": "Assiatu Sesay",
-      "submitted_date": "2026-01-27"
+      "submitted_date": "2026-02-01"
     },
     {
       "id": "blow_david",
@@ -6636,5 +6636,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T20:01:51.988Z"
+  "last_updated": "2026-02-01T20:37:27.726Z"
 }
