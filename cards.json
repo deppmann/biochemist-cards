@@ -4776,14 +4776,14 @@
     },
     {
       "id": "bloch_konrad",
-      "scientist_name": "Konrad Bloch",
-      "scientist_years": "1912-2000",
+      "scientist_name": "Konrad Emil Bloch",
+      "scientist_years": "1912 - 2000",
       "era": "Carbohydrate & Lipid Chemistry",
-      "contribution": "Konrad Bloch was a master of \"molecular architecture\" who combined rigorous chemical precision with an evolutionary perspective to trace how life builds complex sterols from simple two-carbon building blocks.",
+      "contribution": "Konrad Emil Bloch was a German-American biochemist awarded the 1964 Nobel Prize in Physiology or Medicine for his groundbreaking discoveries concerning the mechanism and regulation of cholesterol and fatty acid metabolism, specifically identifying acetic acid as the primary building block in the complex biological synthesis of cholesterol.",
       "card_front_url": "cards/bloch_konrad_front.png",
       "card_back_url": "cards/bloch_konrad_back.png",
-      "student_name": "Chrissy Blondin",
-      "submitted_date": "2026-01-27"
+      "student_name": "Melissa Brown",
+      "submitted_date": "2026-02-01"
     },
     {
       "id": "ley_ruth",
@@ -6647,5 +6647,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T21:50:17.816Z"
+  "last_updated": "2026-02-01T22:05:39.199Z"
 }
