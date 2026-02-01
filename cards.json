@@ -6599,6 +6599,17 @@
       "card_back_url": "cards/jacob_franois_back.png",
       "student_name": "Aneta Kaminski",
       "submitted_date": "2026-01-29"
+    },
+    {
+      "id": "sdhof_thomas",
+      "scientist_name": "Thomas C. S?dhof",
+      "scientist_years": "1955-",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "Thomas S?dhof decoded the molecular \"logic\" of the brain by identifying the protein machinery, specifically synaptotagmin, that allows neurons to release neurotransmitters with the near-instantaneous precision required for human thought and movement.",
+      "card_front_url": "cards/sdhof_thomas_front.png",
+      "card_back_url": "cards/sdhof_thomas_back.png",
+      "student_name": "Liam Slocomb",
+      "submitted_date": "2026-02-01"
     }
   ],
   "eras": [
@@ -6625,5 +6636,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T16:45:47.582Z"
+  "last_updated": "2026-02-01T17:19:15.860Z"
 }
