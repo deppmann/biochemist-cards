@@ -3379,13 +3379,13 @@
     },
     {
       "id": "avery_oswald",
-      "scientist_name": "Oswald T. Avery",
+      "scientist_name": "Oswald Avery",
       "scientist_years": "1877-1955",
-      "era": "Genetic Code & Protein Synthesis",
-      "contribution": "He proved that DNA was a transforming principle that carried genetic information, foundational to molecular biology. ",
+      "era": "DNA Structure & Replication",
+      "contribution": "Identified DNA as the carrier of genetic information, not protein.",
       "card_front_url": "cards/avery_oswald_front.png",
       "card_back_url": "cards/avery_oswald_back.png",
-      "student_name": "Abbygale Bender",
+      "student_name": "Catherine Goldstein",
       "submitted_date": "2026-02-01"
     },
     {
@@ -6636,5 +6636,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T18:42:38.779Z"
+  "last_updated": "2026-02-01T19:10:20.234Z"
 }
