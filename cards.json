@@ -4204,14 +4204,14 @@
     },
     {
       "id": "arnold_frances",
-      "scientist_name": "Frances Hamilton Arnold",
-      "scientist_years": "1956?Present",
-      "era": "Synthetic Biology & Future Pioneers",
-      "contribution": "Pioneered directed evolution by using iterative random mutagenesis and artificial selection to \"breed\" enzymes for non-natural environments.",
+      "scientist_name": "Frances Arnold ",
+      "scientist_years": " July 25, 1956 - Present ",
+      "era": "Molecular Biology of Gene Regulation",
+      "contribution": "she won the Nobel Prize for figuring out a way to \"hack\" evolution to custom-build enzymes that do exactly what we want them to do.",
       "card_front_url": "cards/arnold_frances_front.png",
       "card_back_url": "cards/arnold_frances_back.png",
-      "student_name": "Diya Ghosh",
-      "submitted_date": "2026-01-27"
+      "student_name": "Ivy Zhang",
+      "submitted_date": "2026-02-02"
     },
     {
       "id": "keilin_david",
@@ -6658,5 +6658,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-02T19:10:20.609Z"
+  "last_updated": "2026-02-02T20:37:12.710Z"
 }
