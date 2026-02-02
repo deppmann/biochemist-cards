@@ -5956,11 +5956,11 @@
       "scientist_name": "Eric Bouhassira",
       "scientist_years": "1947-2017",
       "era": "Structural Biology & Drug Discovery",
-      "contribution": "Eric Bouhassira pioneered techniques to transform human embryonic stem cells into functional red blood cells, laying the groundwork for the future of synthetic blood production and regenerative medicine.",
+      "contribution": "Eric E. Bouhassira is a recognized researcher in the field of stem cell biology and hematology, currently serving as a professor at the Albert Einstein College of Medicine where he specializes in the genetic engineering of human embryonic stem cells.",
       "card_front_url": "cards/bouhassira_eric_front.png",
       "card_back_url": "cards/bouhassira_eric_back.png",
       "student_name": "Yury Park",
-      "submitted_date": "2026-01-27"
+      "submitted_date": "2026-02-02"
     },
     {
       "id": "heijne_gunnar",
@@ -6647,5 +6647,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-01T23:11:15.214Z"
+  "last_updated": "2026-02-02T13:54:59.582Z"
 }
