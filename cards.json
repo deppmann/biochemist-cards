@@ -6621,6 +6621,17 @@
       "card_back_url": "cards/hanawalt_philip_back.png",
       "student_name": "Jonathan Han",
       "submitted_date": "2026-02-01"
+    },
+    {
+      "id": "carragher_bridget",
+      "scientist_name": "Bridget Carragher",
+      "scientist_years": "1954- Current",
+      "era": "Structural Biology Revolution",
+      "contribution": "Bridget Carragher transformed cryo-electron microscopy from a manual, artisanal technique into a fully automated, high-throughput method capable of revealing protein structures at near-atomic resolution.",
+      "card_front_url": "cards/carragher_bridget_front.png",
+      "card_back_url": "cards/carragher_bridget_back.png",
+      "student_name": "Sofia Kutchi",
+      "submitted_date": "2026-02-02"
     }
   ],
   "eras": [
@@ -6647,5 +6658,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-02T13:54:59.582Z"
+  "last_updated": "2026-02-02T19:10:20.609Z"
 }
