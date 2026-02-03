@@ -111,17 +111,6 @@
       "submitted_date": "2026-01-27"
     },
     {
-      "id": "sll_dieter",
-      "scientist_name": "Dieter S?ll",
-      "scientist_years": "1935 -",
-      "era": "Genetic Code & Protein Synthesis",
-      "contribution": "Dieter S?ll fundamentally expanded our understanding of the \"universal\" genetic code by discovering the indirect pathways organisms use to synthesize proteins and validating the existence of the 21st amino acid, Selenocysteine.",
-      "card_front_url": "cards/sll_dieter_front.png",
-      "card_back_url": "cards/sll_dieter_back.png",
-      "student_name": "Charlene Huynh",
-      "submitted_date": "2026-01-27"
-    },
-    {
       "id": "karplus_martin",
       "scientist_name": "Martin Karplus",
       "scientist_years": "1930-2024",
@@ -153,17 +142,6 @@
       "card_back_url": "cards/theorell_hugo_back.png",
       "student_name": "Jenny Chen",
       "submitted_date": "2026-02-01"
-    },
-    {
-      "id": "willsttter_richard",
-      "scientist_name": "Richard Willst?tter",
-      "scientist_years": "1872-1942",
-      "era": "Enzymology & Protein Chemistry",
-      "contribution": "Richard Willst?tter pioneered the application of rigorous organic chemistry to biological problems, fundamentally reshaping biochemistry by determining the chemical structures of plant pigments, most significantly revealing the magnesium-porphyrin core of chlorophyll.",
-      "card_front_url": "cards/willsttter_richard_front.png",
-      "card_back_url": "cards/willsttter_richard_back.png",
-      "student_name": "Afnan Rahman Akhand",
-      "submitted_date": "2026-01-27"
     },
     {
       "id": "sager_ruth",
@@ -1593,17 +1571,6 @@
       "card_front_url": "cards/batzoglou_serafim_front.png",
       "card_back_url": "cards/batzoglou_serafim_back.png",
       "student_name": "Mohammad Fayez Naqshbandi",
-      "submitted_date": "2026-01-27"
-    },
-    {
-      "id": "bergstrm_sune",
-      "scientist_name": "Sune Bergstr?m",
-      "scientist_years": "1916?2004",
-      "era": "Hormone & Signal Transduction",
-      "contribution": "He achieved the first isolation and structural determination of prostaglandins, transforming our understanding of lipids from mere energy storage molecules into potent, ubiquitous signaling agents that regulate inflammation, blood pressure, and reproduction.",
-      "card_front_url": "cards/bergstrm_sune_front.png",
-      "card_back_url": "cards/bergstrm_sune_back.png",
-      "student_name": "Salma Haskett",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3048,17 +3015,6 @@
       "submitted_date": "2026-01-27"
     },
     {
-      "id": "iknys_virginijus",
-      "scientist_name": "Virginijus ?ik?nys",
-      "scientist_years": "1956-present",
-      "era": "Genomics & Bioinformatics Era",
-      "contribution": "\"He independently demonstrated that the Cas9 protein is an RNA-guided endonuclease that can be programmed to cleave any specific DNA sequence in vitro.\"",
-      "card_front_url": "cards/iknys_virginijus_front.png",
-      "card_back_url": "cards/iknys_virginijus_back.png",
-      "student_name": "Alexandra Williams",
-      "submitted_date": "2026-01-27"
-    },
-    {
       "id": "lipman_david",
       "scientist_name": "David J Lipman",
       "scientist_years": "1954-present",
@@ -3089,17 +3045,6 @@
       "card_front_url": "cards/sanger_frederick_front.png",
       "card_back_url": "cards/sanger_frederick_back.png",
       "student_name": "Aarathi Manchikalapudi",
-      "submitted_date": "2026-01-27"
-    },
-    {
-      "id": "dbereiner_johanna",
-      "scientist_name": "Johanna D?bereiner",
-      "scientist_years": "1924-2000",
-      "era": "Historical Figures Often Overlooked",
-      "contribution": "Johanna D?bereiner showed that certain bacteria can naturally help crops get nitrogen, reducing the need for chemical fertilizers.",
-      "card_front_url": "cards/dbereiner_johanna_front.png",
-      "card_back_url": "cards/dbereiner_johanna_back.png",
-      "student_name": "Melat Tebeka",
       "submitted_date": "2026-01-27"
     },
     {
@@ -3653,17 +3598,6 @@
       "submitted_date": "2026-01-27"
     },
     {
-      "id": "brndn_carl-ivar",
-      "scientist_name": "Carl-Ivar Br?nd?n",
-      "scientist_years": "1934-2004",
-      "era": "Structural Biology Revolution",
-      "contribution": "Pioneered protein X-ray crystallography methods and structural interpretation that revealed how protein structure governs biological function.",
-      "card_front_url": "cards/brndn_carl-ivar_front.png",
-      "card_back_url": "cards/brndn_carl-ivar_back.png",
-      "student_name": "Nathan Ferns",
-      "submitted_date": "2026-01-27"
-    },
-    {
       "id": "hogness_david",
       "scientist_name": "David Hogness",
       "scientist_years": "1925-2019",
@@ -3936,17 +3870,6 @@
       "card_front_url": "cards/endy_drew_front.png",
       "card_back_url": "cards/endy_drew_back.png",
       "student_name": "Gabrielle Wibisono",
-      "submitted_date": "2026-01-27"
-    },
-    {
-      "id": "szent-gyrgyi_albert",
-      "scientist_name": "Albert Szent-Gy?rgyi",
-      "scientist_years": "1893 - 1966",
-      "era": "Vitamins & Nutrition",
-      "contribution": "He identified Vitamin C and discovered the catalylic role the dicauiactible acids, laying the groundwork for Krebs Cycle.",
-      "card_front_url": "cards/szent-gyrgyi_albert_front.png",
-      "card_back_url": "cards/szent-gyrgyi_albert_back.png",
-      "student_name": "Aiden G Boone",
       "submitted_date": "2026-01-27"
     },
     {
@@ -6415,7 +6338,7 @@
     },
     {
       "id": "soll_dieter",
-      "scientist_name": "Dieter S?ll",
+      "scientist_name": "Dieter S\u00f6ll",
       "scientist_years": "1935 -",
       "era": "Genetic Code & Protein Synthesis",
       "contribution": "Dieter S?ll fundamentally expanded our understanding of the \"universal\" genetic code by discovering the indirect pathways organisms use to synthesize proteins and validating the existence of the 21st amino acid, Selenocysteine.",
@@ -6426,7 +6349,7 @@
     },
     {
       "id": "willstatter_richard",
-      "scientist_name": "Richard Willst?tter",
+      "scientist_name": "Richard Willst\u00e4tter",
       "scientist_years": "1872-1942",
       "era": "Enzymology & Protein Chemistry",
       "contribution": "Richard Willst?tter pioneered the application of rigorous organic chemistry to biological problems, fundamentally reshaping biochemistry by determining the chemical structures of plant pigments, most significantly revealing the magnesium-porphyrin core of chlorophyll.",
@@ -6481,7 +6404,7 @@
     },
     {
       "id": "bergstrom_sune",
-      "scientist_name": "Sune Bergstr?m",
+      "scientist_name": "Sune Bergstr\u00f6m",
       "scientist_years": "1916?2004",
       "era": "Hormone & Signal Transduction",
       "contribution": "He achieved the first isolation and structural determination of prostaglandins, transforming our understanding of lipids from mere energy storage molecules into potent, ubiquitous signaling agents that regulate inflammation, blood pressure, and reproduction.",
@@ -6514,24 +6437,13 @@
     },
     {
       "id": "dobereiner_johanna",
-      "scientist_name": "Johanna D?bereiner",
+      "scientist_name": "Johanna D\u00f6bereiner",
       "scientist_years": "1924-2000",
       "era": "Historical Figures Often Overlooked",
       "contribution": "Johanna D?bereiner showed that certain bacteria can naturally help crops get nitrogen, reducing the need for chemical fertilizers.",
       "card_front_url": "cards/dobereiner_johanna_front.png",
       "card_back_url": "cards/dobereiner_johanna_back.png",
       "student_name": "Melat Tebeka",
-      "submitted_date": "2026-01-27"
-    },
-    {
-      "id": "jacob_francois",
-      "scientist_name": "Fran?ois Jacob",
-      "scientist_years": "1920?2013",
-      "era": "Genetic Code & Protein Synthesis",
-      "contribution": "Fran?ois Jacob co-developed the operon model, demonstrating that genes are regulated by molecular switches that turn gene expression on and off.",
-      "card_front_url": "cards/jacob_francois_front.png",
-      "card_back_url": "cards/jacob_francois_back.png",
-      "student_name": "Aneta Kaminski",
       "submitted_date": "2026-01-27"
     },
     {
@@ -6547,7 +6459,7 @@
     },
     {
       "id": "branden_carl-ivar",
-      "scientist_name": "Carl-Ivar Br?nd?n",
+      "scientist_name": "Carl-Ivar Br\u00e4nd\u00e9n",
       "scientist_years": "1934-2004",
       "era": "Enzymology Golden Age",
       "contribution": "Pioneered protein X-ray crystallography methods and structural interpretation that revealed how protein structure governs biological function.",
@@ -6569,7 +6481,7 @@
     },
     {
       "id": "szent-gyorgyi_albert",
-      "scientist_name": "Albert Szent-Gy?rgyi",
+      "scientist_name": "Albert Szent-Gy\u00f6rgyi",
       "scientist_years": "1893 - 1966",
       "era": "Vitamins & Nutrition",
       "contribution": "He identified Vitamin C and discovered the catalylic role the dicauiactible acids, laying the groundwork for Krebs Cycle.",
@@ -6580,7 +6492,7 @@
     },
     {
       "id": "siksnys_virginijus",
-      "scientist_name": "Virginijus ?ik?nys",
+      "scientist_name": "Virginijus \u0160ik\u0161nys",
       "scientist_years": "1956-present",
       "era": "Synthetic Biology & Future Pioneers",
       "contribution": "\"He independently demonstrated that the Cas9 protein is an RNA-guided endonuclease that can be programmed to cleave any specific DNA sequence in vitro.\"",
@@ -6591,7 +6503,7 @@
     },
     {
       "id": "jacob_franois",
-      "scientist_name": "Fran?ois Jacob",
+      "scientist_name": "Fran\u00e7ois Jacob",
       "scientist_years": "1920?2013",
       "era": "Molecular Biology of Gene Regulation",
       "contribution": "Fran?ois Jacob co-developed the operon model, showing through experiment that genes are actively switched on and off by regulatory proteins controlling transcription in bacteria.",
@@ -6658,5 +6570,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-02T22:03:30.684Z"
+  "last_updated": "2026-02-03"
 }
