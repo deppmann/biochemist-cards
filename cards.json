@@ -4107,12 +4107,12 @@
       "id": "wickner_susan",
       "scientist_name": "Susan Wickner",
       "scientist_years": "1945-2016",
-      "era": "Genetic Code & Protein Synthesis",
-      "contribution": "Sue Wickner's research elucidated the ATP-dependent activity of chaperones like Hsp70 and Hsp90, critical for protein folding, aggregation prevention, and maintaining cellular proteostasis.",
+      "era": "Neuroscience & Metabolism Frontiers",
+      "contribution": "",
       "card_front_url": "cards/wickner_susan_front.png",
       "card_back_url": "cards/wickner_susan_back.png",
       "student_name": "Dua Umar",
-      "submitted_date": "2026-01-27"
+      "submitted_date": "2026-02-05"
     },
     {
       "id": "bhattacharyya_ruben",
@@ -6338,7 +6338,7 @@
     },
     {
       "id": "soll_dieter",
-      "scientist_name": "Dieter S\u00f6ll",
+      "scientist_name": "Dieter S?ll",
       "scientist_years": "1935 -",
       "era": "Genetic Code & Protein Synthesis",
       "contribution": "Dieter S?ll fundamentally expanded our understanding of the \"universal\" genetic code by discovering the indirect pathways organisms use to synthesize proteins and validating the existence of the 21st amino acid, Selenocysteine.",
@@ -6349,7 +6349,7 @@
     },
     {
       "id": "willstatter_richard",
-      "scientist_name": "Richard Willst\u00e4tter",
+      "scientist_name": "Richard Willst?tter",
       "scientist_years": "1872-1942",
       "era": "Enzymology & Protein Chemistry",
       "contribution": "Richard Willst?tter pioneered the application of rigorous organic chemistry to biological problems, fundamentally reshaping biochemistry by determining the chemical structures of plant pigments, most significantly revealing the magnesium-porphyrin core of chlorophyll.",
@@ -6404,7 +6404,7 @@
     },
     {
       "id": "bergstrom_sune",
-      "scientist_name": "Sune Bergstr\u00f6m",
+      "scientist_name": "Sune Bergstr?m",
       "scientist_years": "1916?2004",
       "era": "Hormone & Signal Transduction",
       "contribution": "He achieved the first isolation and structural determination of prostaglandins, transforming our understanding of lipids from mere energy storage molecules into potent, ubiquitous signaling agents that regulate inflammation, blood pressure, and reproduction.",
@@ -6437,7 +6437,7 @@
     },
     {
       "id": "dobereiner_johanna",
-      "scientist_name": "Johanna D\u00f6bereiner",
+      "scientist_name": "Johanna D?bereiner",
       "scientist_years": "1924-2000",
       "era": "Historical Figures Often Overlooked",
       "contribution": "Johanna D?bereiner showed that certain bacteria can naturally help crops get nitrogen, reducing the need for chemical fertilizers.",
@@ -6459,7 +6459,7 @@
     },
     {
       "id": "branden_carl-ivar",
-      "scientist_name": "Carl-Ivar Br\u00e4nd\u00e9n",
+      "scientist_name": "Carl-Ivar Br?nd?n",
       "scientist_years": "1934-2004",
       "era": "Enzymology Golden Age",
       "contribution": "Pioneered protein X-ray crystallography methods and structural interpretation that revealed how protein structure governs biological function.",
@@ -6481,7 +6481,7 @@
     },
     {
       "id": "szent-gyorgyi_albert",
-      "scientist_name": "Albert Szent-Gy\u00f6rgyi",
+      "scientist_name": "Albert Szent-Gy?rgyi",
       "scientist_years": "1893 - 1966",
       "era": "Vitamins & Nutrition",
       "contribution": "He identified Vitamin C and discovered the catalylic role the dicauiactible acids, laying the groundwork for Krebs Cycle.",
@@ -6492,7 +6492,7 @@
     },
     {
       "id": "siksnys_virginijus",
-      "scientist_name": "Virginijus \u0160ik\u0161nys",
+      "scientist_name": "Virginijus ?ik?nys",
       "scientist_years": "1956-present",
       "era": "Synthetic Biology & Future Pioneers",
       "contribution": "\"He independently demonstrated that the Cas9 protein is an RNA-guided endonuclease that can be programmed to cleave any specific DNA sequence in vitro.\"",
@@ -6503,7 +6503,7 @@
     },
     {
       "id": "jacob_franois",
-      "scientist_name": "Fran\u00e7ois Jacob",
+      "scientist_name": "Fran?ois Jacob",
       "scientist_years": "1920?2013",
       "era": "Molecular Biology of Gene Regulation",
       "contribution": "Fran?ois Jacob co-developed the operon model, showing through experiment that genes are actively switched on and off by regulatory proteins controlling transcription in bacteria.",
@@ -6570,5 +6570,5 @@
     "Synthetic Biology & Future Pioneers",
     "Other"
   ],
-  "last_updated": "2026-02-03"
+  "last_updated": "2026-02-05T19:05:47.478Z"
 }
